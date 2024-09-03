@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "Fantasy-Premier-League",
+			"path": "Fantasy-Premier-League"
 		}
 	],
 	"settings": {}
