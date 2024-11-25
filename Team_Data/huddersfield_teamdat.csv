@@ -1,0 +1,77 @@
+,Date,Time,Matchweek,Day,Venue,Result,Goals Scored,Goals Conceded,Opponent,xG,xGA,Possession,Attendance,Captain,Formation,Opposition Formation,Referee
+0,2018-08-11,15:00 ,1,Sat,Home,L,0,3,Chelsea,0.3,1.9,38,"24,121",Jonathan Hogg,3-5-1-1,4-3-3,Chris Kavanagh
+1,2018-08-19,13:30 ,2,Sun,Away,L,1,6,Manchester City,0.7,4.2,24,"54,021",Tommy Smith,4-4-2,3-1-4-2,Andre Marriner
+2,2018-08-25,15:00 ,3,Sat,Home,D,0,0,Cardiff City,0.2,0.9,57,"21,193",Jonathan Hogg,4-2-3-1,4-1-4-1,Michael Oliver
+3,2018-09-01,15:00 ,4,Sat,Away,D,1,1,Everton,0.4,0.8,43,"38,767",Christopher Schindler,5-4-1,4-2-3-1,Stuart Attwell
+4,2018-09-15,15:00 ,5,Sat,Home,L,0,1,Crystal Palace,0.9,0.7,59,"23,696",Christopher Schindler,3-4-3,4-3-3,Lee Mason
+5,2018-09-22,15:00 ,6,Sat,Away,L,1,3,Leicester City,0.7,1.7,39,"31,676",Christopher Schindler,5-4-1,4-2-3-1,David Coote
+6,2018-09-29,15:00 ,7,Sat,Home,L,0,2,Tottenham,0.4,2.1,53,"23,885",Jonathan Hogg,3-5-1-1,3-4-3,Craig Pawson
+7,2018-10-06,15:00 ,8,Sat,Away,D,1,1,Burnley,1.0,0.4,67,"20,533",Jonathan Hogg,4-2-3-1,4-4-2,Chris Kavanagh
+8,2018-10-20,17:30 ,9,Sat,Home,L,0,1,Liverpool,0.7,0.6,48,"24,263",Jonathan Hogg,3-5-1-1,4-3-3,Michael Oliver
+9,2018-10-27,15:00 ,10,Sat,Away,L,0,3,Watford,0.5,2.0,52,"20,457",Jonathan Hogg,4-4-1-1,4-2-2-2,Mike Dean
+10,2018-11-05,20:00 ,11,Mon,Home,W,1,0,Fulham,0.6,0.4,44,"17,082",Jonathan Hogg,3-4-1-2,4-3-3,Anthony Taylor
+11,2018-11-10,15:00 ,12,Sat,Home,D,1,1,West Ham,1.1,1.7,44,"24,069",Jonathan Hogg,3-5-1-1,4-1-4-1,Chris Kavanagh
+12,2018-11-25,16:00 ,13,Sun,Away,W,2,0,Wolves,0.7,0.8,54,"30,130",Tommy Smith,3-5-1-1,3-4-3,Kevin Friend
+13,2018-12-01,15:00 ,14,Sat,Home,L,1,2,Brighton,0.6,1.2,33,"22,973",Jonathan Hogg,3-5-1-1,4-3-3,Michael Oliver
+14,2018-12-04,19:45 ,15,Tue,Away,L,1,2,Bournemouth,1.8,0.9,67,"9,980",Jonathan Hogg,4-2-3-1,4-4-2,Roger East
+15,2018-12-08,15:00 ,16,Sat,Away,L,0,1,Arsenal,0.3,1.4,38,"59,893",Tommy Smith,4-2-3-1,3-1-4-2,Paul Tierney
+16,2018-12-15,15:00 ,17,Sat,Home,L,0,1,Newcastle Utd,0.8,0.6,72,"24,036",Jonathan Hogg,3-5-1-1,3-5-1-1,Anthony Taylor
+17,2018-12-22,15:00 ,18,Sat,Home,L,1,3,Southampton,0.8,2.5,62,"22,384",Christopher Schindler,3-4-1-2,3-4-3,Stuart Attwell
+18,2018-12-26,15:00 ,19,Wed,Away,L,1,3,Manchester Utd,1.1,1.5,36,"74,523",Christopher Schindler,4-2-3-1,4-2-3-1,Jonathan Moss
+19,2018-12-29,15:00 ,20,Sat,Away,L,0,1,Fulham,0.4,1.8,56,"24,423",Jonathan Hogg,3-5-1-1,3-4-3,Kevin Friend
+20,2019-01-02,19:45 ,21,Wed,Home,L,1,2,Burnley,0.9,2.4,43,"23,715",Jonathan Hogg,4-2-3-1,4-4-2,Mike Dean
+21,2019-01-12,15:00 ,22,Sat,Away,D,0,0,Cardiff City,0.5,0.1,61,"30,725",Jonathan Hogg,4-3-2-1,4-1-4-1,Lee Mason
+22,2019-01-20,13:30 ,23,Sun,Home,L,0,3,Manchester City,0.9,2.0,33,"24,190",Tommy Smith,4-5-1,4-3-3,Andre Marriner
+23,2019-01-29,19:45 ,24,Tue,Home,L,0,1,Everton,0.7,1.1,58,"23,699",Jonathan Hogg,4-3-3,4-1-4-1,Stuart Attwell
+24,2019-02-02,15:00 ,25,Sat,Away,L,0,5,Chelsea,0.3,2.6,35,"40,626",Tommy Smith,4-3-3,4-3-3,Paul Tierney
+25,2019-02-09,15:00 ,26,Sat,Home,L,1,2,Arsenal,1.6,1.4,55,"24,182",Tommy Smith,4-1-2-1-2◆,3-4-3,Jonathan Moss
+26,2019-02-23,15:00 ,27,Sat,Away,L,0,2,Newcastle Utd,0.2,2.8,46,"52,174",Tommy Smith,4-1-2-1-2◆,5-4-1,Kevin Friend
+27,2019-02-26,19:45 ,28,Tue,Home,W,1,0,Wolves,1.6,0.6,50,"22,714",Christopher Schindler,4-1-2-1-2◆,3-5-2,David Coote
+28,2019-03-02,15:00 ,29,Sat,Away,L,0,1,Brighton,0.2,1.2,46,"30,182",Christopher Schindler,4-1-2-1-2◆,4-3-3,Mike Dean
+29,2019-03-09,15:00 ,30,Sat,Home,L,0,2,Bournemouth,0.3,1.9,57,"22,304",Christopher Schindler,4-2-3-1,4-4-2,Anthony Taylor
+30,2019-03-16,15:00 ,31,Sat,Away,L,3,4,West Ham,1.0,1.7,36,"59,931",Tommy Smith,4-2-3-1,4-1-4-1,Jonathan Moss
+31,2019-03-30,15:00 ,32,Sat,Away,L,0,2,Crystal Palace,1.1,2.7,51,"25,193",Christopher Schindler,4-2-3-1,4-3-3,Lee Probert
+32,2019-04-06,15:00 ,33,Sat,Home,L,1,4,Leicester City,1.7,3.5,45,"24,126",Christopher Schindler,4-4-1-1,4-1-4-1,David Coote
+33,2019-04-13,12:30 ,34,Sat,Away,L,0,4,Tottenham,0.8,2.5,31,"58,308",Christopher Schindler,5-4-1,3-4-1-2,Lee Mason
+34,2019-04-20,15:00 ,35,Sat,Home,L,1,2,Watford,1.0,0.9,46,"23,957",Christopher Schindler,4-4-1-1,4-2-2-2,Roger East
+35,2019-04-26,20:00 ,36,Fri,Away,L,0,5,Liverpool,0.2,3.1,31,"53,249",Christopher Schindler,4-1-4-1,4-3-3,Kevin Friend
+36,2019-05-05,14:00 ,37,Sun,Home,D,1,1,Manchester Utd,1.0,1.8,36,"24,263",Christopher Schindler,4-3-3,4-3-1-2,Lee Mason
+37,2019-05-12,15:00 ,38,Sun,Away,D,1,1,Southampton,0.7,0.6,47,"30,367",Christopher Schindler,4-3-3,4-4-2,Lee Probert
+38,2017-08-12,15:00 ,1,Sat,Away,W,3,0,Crystal Palace,1.5,1.1,45,"25,448",Tommy Smith,4-2-3-1,3-4-3,Jonathan Moss
+39,2017-08-20,13:30 ,2,Sun,Home,W,1,0,Newcastle Utd,0.3,0.7,52,"24,128",Tommy Smith,4-2-3-1,4-2-3-1,Craig Pawson
+40,2017-08-26,15:00 ,3,Sat,Home,D,0,0,Southampton,1.4,0.7,45,"23,548",Tommy Smith,4-2-3-1,4-2-3-1,Stuart Attwell
+41,2017-09-11,20:00 ,4,Mon,Away,L,0,2,West Ham,0.4,1.7,56,"56,977",Tommy Smith,4-2-3-1,3-4-3,Kevin Friend
+42,2017-09-16,15:00 ,5,Sat,Home,D,1,1,Leicester City,0.7,1.3,59,"24,129",Tommy Smith,4-2-3-1,4-4-1-1,Jonathan Moss
+43,2017-09-23,15:00 ,6,Sat,Away,D,0,0,Burnley,0.3,0.3,48,"20,759",Tommy Smith,4-2-3-1,4-5-1,Chris Kavanagh
+44,2017-09-30,12:30 ,7,Sat,Home,L,0,4,Tottenham,0.2,1.5,41,"24,169",Tommy Smith,4-2-3-1,3-4-3,Niel Swarbrick
+45,2017-10-14,15:00 ,8,Sat,Away,L,0,2,Swansea City,0.7,1.5,59,"20,657",Tommy Smith,4-2-3-1,4-3-3,Paul Tierney
+46,2017-10-21,15:00 ,9,Sat,Home,W,2,1,Manchester Utd,1.2,0.8,23,"24,426",Tommy Smith,4-2-3-1,4-2-3-1,Lee Mason
+47,2017-10-28,15:00 ,10,Sat,Away,L,0,3,Liverpool,0.1,2.1,28,"53,268",Tommy Smith,4-5-1,4-3-3,Kevin Friend
+48,2017-11-04,15:00 ,11,Sat,Home,W,1,0,West Brom,0.3,0.4,50,"24,169",Jonathan Hogg,4-4-1-1,3-5-2,Roger East
+49,2017-11-18,15:00 ,12,Sat,Away,L,0,4,Bournemouth,1.2,0.7,69,"10,879",Aaron Mooy,4-2-3-1,4-4-1-1,Lee Probert
+50,2017-11-26,16:00 ,13,Sun,Home,L,1,2,Manchester City,0.6,2.6,22,"24,121",Tommy Smith,4-5-1,4-3-3,Craig Pawson
+51,2017-11-29,19:45 ,14,Wed,Away,L,0,5,Arsenal,0.5,4.0,31,"59,285",Jonathan Hogg,3-4-3,3-4-3,Graham Scott
+52,2017-12-02,15:00 ,15,Sat,Away,L,0,2,Everton,0.3,0.7,53,"39,167",Tommy Smith,4-2-3-1,4-1-4-1,Chris Kavanagh
+53,2017-12-09,15:00 ,16,Sat,Home,W,2,0,Brighton,2.2,0.3,58,"24,018",Tommy Smith,4-2-3-1,4-4-1-1,Stuart Attwell
+54,2017-12-12,20:00 ,17,Tue,Home,L,1,3,Chelsea,0.7,1.5,36,"24,169",Tommy Smith,4-5-1,3-4-3,Andre Marriner
+55,2017-12-16,15:00 ,18,Sat,Away,W,4,1,Watford,3.4,0.6,40,"20,026",Jonathan Hogg,4-4-2,3-4-3,Michael Oliver
+56,2017-12-23,15:00 ,19,Sat,Away,D,1,1,Southampton,1.1,1.3,47,"29,675",Christopher Schindler,4-2-3-1,4-2-3-1,Lee Probert
+57,2017-12-26,15:00 ,20,Tue,Home,D,1,1,Stoke City,1.8,1.6,59,"24,047",Tommy Smith,4-2-3-1,4-2-3-1,Anthony Taylor
+58,2017-12-30,15:00 ,21,Sat,Home,D,0,0,Burnley,0.1,1.2,56,"24,095",Christopher Schindler,4-2-3-1,4-4-1-1,Paul Tierney
+59,2018-01-01,15:00 ,22,Mon,Away,L,0,3,Leicester City,0.2,1.5,48,"31,748",Tommy Smith,4-2-3-1,4-4-2,Graham Scott
+60,2018-01-13,15:00 ,23,Sat,Home,L,1,4,West Ham,0.7,0.9,63,"24,105",Tommy Smith,4-2-3-1,3-5-1-1,Jonathan Moss
+61,2018-01-20,15:00 ,24,Sat,Away,L,0,2,Stoke City,0.3,1.0,51,"29,785",Jonathan Hogg,4-2-3-1,4-2-3-1,Michael Oliver
+62,2018-01-30,20:00 ,25,Tue,Home,L,0,3,Liverpool,0.3,1.8,26,"24,121",Jonathan Hogg,5-3-2,4-3-3,Kevin Friend
+63,2018-02-03,15:00 ,26,Sat,Away,L,0,2,Manchester Utd,0.2,1.6,26,"74,742",Tommy Smith,4-1-4-1,4-2-3-1,Stuart Attwell
+64,2018-02-11,12:00 ,27,Sun,Home,W,4,1,Bournemouth,2.2,0.3,50,"23,823",Jonathan Hogg,4-2-3-1,3-4-3,Michael Oliver
+65,2018-02-24,15:00 ,28,Sat,Away,W,2,1,West Brom,1.1,1.2,47,"25,920",Jonathan Hogg,4-2-3-1,4-4-2,Jonathan Moss
+66,2018-03-03,15:00 ,29,Sat,Away,L,0,2,Tottenham,0.1,1.6,26,"68,311",Jonathan Hogg,4-2-3-1,4-2-3-1,Kevin Friend
+67,2018-03-10,15:00 ,30,Sat,Home,D,0,0,Swansea City,1.4,0.0,80,"23,567",Jonathan Hogg,4-2-3-1,5-4-1,Michael Oliver
+68,2018-03-17,15:00 ,31,Sat,Home,L,0,2,Crystal Palace,0.3,2.7,55,"23,918",Jonathan Hogg,4-2-3-1,4-3-3,Mike Dean
+69,2018-03-31,15:00 ,32,Sat,Away,L,0,1,Newcastle Utd,0.1,2.4,37,"52,261",Tommy Smith,4-4-2,4-4-1-1,Martin Atkinson
+70,2018-04-07,15:00 ,33,Sat,Away,D,1,1,Brighton,1.5,1.5,58,"30,501",Jonathan Hogg,4-4-1-1,4-4-1-1,Anthony Taylor
+71,2018-04-14,15:00 ,34,Sat,Home,W,1,0,Watford,0.8,0.2,49,"23,961",Jonathan Hogg,4-2-3-1,4-2-3-1,Craig Pawson
+72,2018-04-28,15:00 ,36,Sat,Home,L,0,2,Everton,0.6,0.6,54,"24,121",Jonathan Hogg,4-2-3-1,4-2-3-1,Lee Probert
+73,2018-05-06,13:30 ,37,Sun,Away,D,0,0,Manchester City,0.2,0.8,22,"54,350",Tommy Smith,5-3-2,4-3-3,Mike Dean
+74,2018-05-09,19:45 ,35,Wed,Away,D,1,1,Chelsea,0.7,1.9,22,"38,910",Tommy Smith,5-3-2,3-4-3,Lee Mason
+75,2018-05-13,15:00 ,38,Sun,Home,L,0,1,Arsenal,1.7,2.0,45,"24,122",Jonathan Hogg,5-3-2,4-3-3,Michael Oliver

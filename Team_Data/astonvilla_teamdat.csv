@@ -1,0 +1,191 @@
+,Date,Time,Matchweek,Day,Venue,Result,Goals Scored,Goals Conceded,Opponent,xG,xGA,Possession,Attendance,Captain,Formation,Opposition Formation,Referee
+0,2023-08-12,17:30 ,1,Sat,Away,L,1,5,Newcastle Utd,1.8,3.3,48,"52,207",John McGinn,4-2-3-1,4-3-3,Andy Madley
+1,2023-08-20,14:00 ,2,Sun,Home,W,4,0,Everton,2.9,0.6,60,"41,694",John McGinn,4-2-3-1,4-1-4-1,Anthony Taylor
+2,2023-08-27,14:00 ,3,Sun,Away,W,3,1,Burnley,2.5,0.7,43,"21,591",John McGinn,3-4-3,4-4-2,Michael Salisbury
+3,2023-09-03,14:00 ,4,Sun,Away,L,0,3,Liverpool,0.7,2.5,37,"50,109",John McGinn,4-4-2,4-3-3,Simon Hooper
+4,2023-09-16,15:00 ,5,Sat,Home,W,3,1,Crystal Palace,3.0,1.2,66,"40,809",John McGinn,4-2-3-1,4-4-1-1,Darren England
+5,2023-09-24,14:00 ,6,Sun,Away,W,1,0,Chelsea,1.0,1.3,47,"39,700",John McGinn,4-2-3-1,4-2-3-1,Jarred Gillett
+6,2023-09-30,12:30 ,7,Sat,Home,W,6,1,Brighton,1.6,1.7,39,"40,636",John McGinn,4-2-3-1,4-2-3-1,Andy Madley
+7,2023-10-08,14:00 ,8,Sun,Away,D,1,1,Wolves,1.6,1.7,53,"31,425",John McGinn,4-4-2,3-4-3,Robert Jones
+8,2023-10-22,16:30 ,9,Sun,Home,W,4,1,West Ham,1.9,1.1,58,"41,734",John McGinn,4-4-2,4-2-3-1,David Coote
+9,2023-10-29,14:00 ,10,Sun,Home,W,3,1,Luton Town,2.3,0.5,70,"41,785",John McGinn,4-4-2,3-4-3,John Brooks
+10,2023-11-05,14:00 ,11,Sun,Away,L,0,2,Nott'ham Forest,1.2,0.4,73,"29,313",John McGinn,4-4-2,4-3-3,Jarred Gillett
+11,2023-11-12,14:00 ,12,Sun,Home,W,3,1,Fulham,3.0,0.9,51,"41,608",John McGinn,4-2-2-2,4-2-3-1,Simon Hooper
+12,2023-11-26,14:00 ,13,Sun,Away,W,2,1,Tottenham,1.7,2.3,38,"61,679",John McGinn,4-4-2,4-2-3-1,Robert Jones
+13,2023-12-03,14:00 ,14,Sun,Away,D,2,2,Bournemouth,0.7,2.0,62,"11,191",John McGinn,4-4-2,4-2-3-1,Thomas Bramall
+14,2023-12-06,20:15 ,15,Wed,Home,W,1,0,Manchester City,2.3,0.6,46,"41,421",John McGinn,4-4-1-1,3-2-4-1,John Brooks
+15,2023-12-09,17:30 ,16,Sat,Home,W,1,0,Arsenal,0.6,1.4,39,"42,000",John McGinn,4-4-1-1,4-3-3,Jarred Gillett
+16,2023-12-17,14:00 ,17,Sun,Away,W,2,1,Brentford,1.4,0.5,66,"17,034",John McGinn,3-5-2,3-5-2,David Coote
+17,2023-12-22,20:00 ,18,Fri,Home,D,1,1,Sheffield Utd,0.9,0.6,77,"41,651",John McGinn,4-4-1-1,3-4-3,Anthony Taylor
+18,2023-12-26,20:00 ,19,Tue,Away,L,2,3,Manchester Utd,1.7,1.1,54,"73,574",John McGinn,4-2-3-1,4-2-3-1,Craig Pawson
+19,2023-12-30,15:00 ,20,Sat,Home,W,3,2,Burnley,3.2,1.2,64,"41,613",John McGinn,4-4-1-1,4-4-2,Stuart Attwell
+20,2024-01-14,14:00 ,21,Sun,Away,D,0,0,Everton,1.2,1.1,68,"39,284",John McGinn,4-4-2,4-2-3-1,David Coote
+21,2024-01-30,20:15 ,22,Tue,Home,L,1,3,Newcastle Utd,1.4,2.6,61,"42,191",John McGinn,4-4-2,4-3-3,John Brooks
+22,2024-02-03,17:30 ,23,Sat,Away,W,5,0,Sheffield Utd,2.2,1.4,63,"30,187",John McGinn,4-2-3-1,5-4-1,Paul Tierney
+23,2024-02-11,16:30 ,24,Sun,Home,L,1,2,Manchester Utd,2.4,1.8,56,"42,185",John McGinn,4-2-3-1,4-2-3-1,Robert Jones
+24,2024-02-17,15:00 ,25,Sat,Away,W,2,1,Fulham,1.5,1.5,48,"24,401",John McGinn,4-2-3-1,4-2-3-1,Lewis Smith
+25,2024-02-24,15:00 ,26,Sat,Home,W,4,2,Nott'ham Forest,3.6,2.6,58,"42,131",John McGinn,4-2-3-1,4-2-3-1,Samuel Barrott
+26,2024-03-02,17:30 ,27,Sat,Away,W,3,2,Luton Town,1.9,1.8,54,"11,594",John McGinn,4-2-3-1,3-4-3,Michael Oliver
+27,2024-03-10,13:00 ,28,Sun,Home,L,0,4,Tottenham,0.8,1.5,32,"42,310",John McGinn,5-3-2,4-2-3-1,Chris Kavanagh
+28,2024-03-17,14:00 ,29,Sun,Away,D,1,1,West Ham,0.7,2.0,69,"62,461",Emiliano Martínez,4-4-2,4-2-3-1,Jarred Gillett
+29,2024-03-30,17:30 ,30,Sat,Home,W,2,0,Wolves,1.0,1.5,48,"42,640",Emiliano Martínez,4-4-2,3-4-3,Paul Tierney
+30,2024-04-03,20:15 ,31,Wed,Away,L,1,4,Manchester City,0.8,3.4,33,"53,422",Douglas Luiz,4-2-3-1,4-2-3-1,Darren England
+31,2024-04-06,15:00 ,32,Sat,Home,D,3,3,Brentford,1.5,1.5,69,"42,118",John McGinn,4-4-1-1,3-5-2,Michael Salisbury
+32,2024-04-14,16:30 ,33,Sun,Away,W,2,0,Arsenal,0.9,1.6,48,"60,350",John McGinn,4-2-3-1,4-3-3,David Coote
+33,2024-04-21,15:00 ,34,Sun,Home,W,3,1,Bournemouth,2.4,1.8,56,"42,189",John McGinn,4-2-3-1,4-2-3-1,Tim Robinson
+34,2024-04-27,20:00 ,35,Sat,Home,D,2,2,Chelsea,1.1,1.6,29,"42,354",John McGinn,4-4-1-1,4-2-3-1,Craig Pawson
+35,2024-05-05,14:00 ,36,Sun,Away,L,0,1,Brighton,0.1,2.5,48,"31,596",John McGinn,4-2-3-1,4-2-3-1,Robert Jones
+36,2024-05-13,20:00 ,37,Mon,Home,D,3,3,Liverpool,3.1,1.7,41,"42,241",John McGinn,4-2-3-1,4-3-3,Simon Hooper
+37,2024-05-19,16:00 ,38,Sun,Away,L,0,5,Crystal Palace,0.9,2.5,46,"25,191",John McGinn,4-4-2,3-4-3,Darren Bond
+38,2022-08-06,15:00 ,1,Sat,Away,L,0,2,Bournemouth,0.7,0.6,65,"11,013",John McGinn,4-3-3,3-4-3,Peter Bankes
+39,2022-08-13,12:30 ,2,Sat,Home,W,2,1,Everton,2.3,1.6,57,"41,883",John McGinn,4-1-2-1-2◆,3-4-3,Michael Oliver
+40,2022-08-20,15:00 ,3,Sat,Away,L,1,3,Crystal Palace,0.9,2.6,49,"22,012",John McGinn,4-3-3,4-3-3,Andy Madley
+41,2022-08-28,14:00 ,4,Sun,Home,L,0,1,West Ham,0.5,0.6,58,"41,796",John McGinn,4-3-1-2,3-5-2,David Coote
+42,2022-08-31,19:30 ,5,Wed,Away,L,1,2,Arsenal,0.4,2.4,41,"60,012",John McGinn,4-3-3,4-3-3,Robert Jones
+43,2022-09-03,17:30 ,6,Sat,Home,D,1,1,Manchester City,0.3,2.1,29,"41,830",John McGinn,4-3-2-1,4-3-3,Simon Hooper
+44,2022-09-16,20:00 ,8,Fri,Home,W,1,0,Southampton,1.5,0.3,53,"40,758",John McGinn,4-3-2-1,4-2-3-1,Tony Harrington
+45,2022-10-02,16:30 ,9,Sun,Away,D,0,0,Leeds United,2.2,0.4,56,"36,582",John McGinn,4-3-3,4-2-3-1,Stuart Attwell
+46,2022-10-10,20:00 ,10,Mon,Away,D,1,1,Nott'ham Forest,0.7,0.3,60,"29,208",John McGinn,4-3-3,4-3-3,Anthony Taylor
+47,2022-10-16,14:00 ,11,Sun,Home,L,0,2,Chelsea,1.8,0.9,42,"41,754",John McGinn,4-3-3,3-4-3,Robert Jones
+48,2022-10-20,19:30 ,12,Thu,Away,L,0,3,Fulham,1.2,2.1,40,"23,508",John McGinn,4-3-2-1,4-2-3-1,Michael Oliver
+49,2022-10-23,14:00 ,13,Sun,Home,W,4,0,Brentford,2.8,0.9,45,"41,693",Emiliano Martínez,4-2-3-1,3-5-2,Darren England
+50,2022-10-29,15:00 ,14,Sat,Away,L,0,4,Newcastle Utd,0.4,3.4,41,"52,233",Emiliano Martínez,4-2-3-1,4-3-3,Paul Tierney
+51,2022-11-06,14:00 ,15,Sun,Home,W,3,1,Manchester Utd,0.6,0.5,42,"42,058",Emiliano Martínez,4-2-2-2,4-2-3-1,Anthony Taylor
+52,2022-11-13,14:00 ,16,Sun,Away,W,2,1,Brighton,1.5,0.6,35,"31,581",John McGinn,4-4-2,4-2-3-1,Chris Kavanagh
+53,2022-12-26,17:30 ,17,Mon,Home,L,1,3,Liverpool,1.4,2.7,48,"42,085",John McGinn,4-4-2,4-3-3,Paul Tierney
+54,2023-01-01,14:00 ,18,Sun,Away,W,2,0,Tottenham,1.0,0.7,41,"61,651",John McGinn,4-4-2,3-4-3,John Brooks
+55,2023-01-04,20:00 ,19,Wed,Home,D,1,1,Wolves,1.8,0.9,56,"39,978",Ashley Young,4-4-2,4-2-3-1,Jarred Gillett
+56,2023-01-13,20:00 ,20,Fri,Home,W,2,1,Leeds United,1.2,2.4,52,"42,008",Emiliano Martínez,4-4-2,4-2-3-1,Michael Oliver
+57,2023-01-21,15:00 ,21,Sat,Away,W,1,0,Southampton,1.4,0.6,63,"30,158",Emiliano Martínez,4-4-2,4-2-3-1,Michael Salisbury
+58,2023-02-04,15:00 ,22,Sat,Home,L,2,4,Leicester City,1.7,2.6,62,"42,055",Emiliano Martínez,4-4-2,4-2-3-1,Darren England
+59,2023-02-12,16:30 ,23,Sun,Away,L,1,3,Manchester City,0.3,3.3,33,"53,392",Emiliano Martínez,4-4-2,3-2-4-1,Robert Jones
+60,2023-02-18,12:30 ,24,Sat,Home,L,2,4,Arsenal,0.5,3.2,33,"42,066",John McGinn,4-4-2,4-3-3,Simon Hooper
+61,2023-02-25,15:00 ,25,Sat,Away,W,2,0,Everton,1.9,1.6,53,"39,309",John McGinn,4-4-2,4-1-4-1,Anthony Taylor
+62,2023-03-04,15:00 ,26,Sat,Home,W,1,0,Crystal Palace,1.2,0.2,58,"41,893",John McGinn,4-2-3-1,4-2-3-1,Craig Pawson
+63,2023-03-12,14:00 ,27,Sun,Away,D,1,1,West Ham,1.5,2.1,59,"62,472",John McGinn,4-2-3-1,4-1-4-1,Chris Kavanagh
+64,2023-03-18,15:00 ,28,Sat,Home,W,3,0,Bournemouth,3.5,1.3,56,"41,021",John McGinn,4-2-3-1,4-4-1-1,Robert Jones
+65,2023-04-01,17:30 ,29,Sat,Away,W,2,0,Chelsea,0.9,2.1,31,"40,082",John McGinn,4-4-2,3-4-3,Andy Madley
+66,2023-04-04,19:45 ,7,Tue,Away,W,2,1,Leicester City,1.0,0.5,64,"32,087",John McGinn,4-4-2,4-3-3,Graham Scott
+67,2023-04-08,15:00 ,30,Sat,Home,W,2,0,Nott'ham Forest,1.3,0.2,63,"42,076",John McGinn,4-4-2,3-4-3,Anthony Taylor
+68,2023-04-15,12:30 ,31,Sat,Home,W,3,0,Newcastle Utd,1.9,0.5,52,"42,055",John McGinn,4-2-3-1,4-3-3,John Brooks
+69,2023-04-22,15:00 ,32,Sat,Away,D,1,1,Brentford,1.5,2.7,56,"17,098",John McGinn,4-2-3-1,4-3-3,Michael Salisbury
+70,2023-04-25,19:45 ,33,Tue,Home,W,1,0,Fulham,1.0,0.1,51,"41,046",John McGinn,4-2-3-1,4-2-3-1,Thomas Bramall
+71,2023-04-30,14:00 ,34,Sun,Away,L,0,1,Manchester Utd,0.6,1.2,43,"73,592",John McGinn,4-2-3-1,4-1-4-1,Jarred Gillett
+72,2023-05-06,15:00 ,35,Sat,Away,L,0,1,Wolves,1.5,0.8,62,"31,641",John McGinn,4-4-2,4-4-2,Stuart Attwell
+73,2023-05-13,15:00 ,36,Sat,Home,W,2,1,Tottenham,1.2,1.4,48,"42,164",John McGinn,4-4-2,3-4-3,Peter Bankes
+74,2023-05-20,15:00 ,37,Sat,Away,D,1,1,Liverpool,1.3,0.7,34,"53,306",John McGinn,4-2-3-1,4-3-3,John Brooks
+75,2023-05-28,16:30 ,38,Sun,Home,W,2,1,Brighton,2.8,1.4,41,,John McGinn,4-2-3-1,4-4-2,David Coote
+76,2021-08-14,15:00 ,1,Sat,Away,L,2,3,Watford,1.2,1.2,62,"20,051",Tyrone Mings,4-2-3-1,4-1-4-1,Mike Dean
+77,2021-08-21,15:00 ,2,Sat,Home,W,2,0,Newcastle Utd,1.2,0.7,47,"41,964",Tyrone Mings,4-3-3,5-3-2,David Coote
+78,2021-08-28,15:00 ,3,Sat,Home,D,1,1,Brentford,0.7,0.9,46,"42,045",Ezri Konsa,4-1-4-1,3-4-1-2,Peter Bankes
+79,2021-09-11,17:30 ,4,Sat,Away,L,0,3,Chelsea,1.2,1.3,43,"39,969",Tyrone Mings,5-3-2,3-4-3,Stuart Attwell
+80,2021-09-18,17:30 ,5,Sat,Home,W,3,0,Everton,0.8,0.7,55,"41,888",Tyrone Mings,5-3-2,4-4-1-1,Craig Pawson
+81,2021-09-25,12:30 ,6,Sat,Away,W,1,0,Manchester Utd,1.0,2.2,41,"72,922",Tyrone Mings,3-5-2,4-2-3-1,Mike Dean
+82,2021-10-03,14:00 ,7,Sun,Away,L,1,2,Tottenham,1.2,1.3,44,"53,076",Tyrone Mings,3-5-2,4-2-3-1,Chris Kavanagh
+83,2021-10-16,15:00 ,8,Sat,Home,L,2,3,Wolves,1.0,2.0,48,"41,951",Tyrone Mings,3-4-1-2,3-4-3,Michael Oliver
+84,2021-10-22,20:00 ,9,Fri,Away,L,1,3,Arsenal,1.4,2.7,47,"59,496",Tyrone Mings,3-4-1-2,4-2-3-1,Craig Pawson
+85,2021-10-31,16:30 ,10,Sun,Home,L,1,4,West Ham,0.7,2.3,43,"41,874",John McGinn,4-3-3,4-2-3-1,Chris Kavanagh
+86,2021-11-05,20:00 ,11,Fri,Away,L,0,1,Southampton,0.6,0.6,44,"30,178",Tyrone Mings,4-2-3-1,4-4-2,Andy Madley
+87,2021-11-20,15:00 ,12,Sat,Home,W,2,0,Brighton,0.7,0.4,38,"41,925",Tyrone Mings,4-3-3,3-5-2,Anthony Taylor
+88,2021-11-27,15:00 ,13,Sat,Away,W,2,1,Crystal Palace,0.5,1.0,36,"25,203",Tyrone Mings,4-3-3,4-2-3-1,Michael Salisbury
+89,2021-12-01,20:15 ,14,Wed,Home,L,1,2,Manchester City,0.8,1.0,36,"41,400",Tyrone Mings,4-3-3,4-2-3-1,Mike Dean
+90,2021-12-05,16:30 ,15,Sun,Home,W,2,1,Leicester City,2.1,1.1,41,"41,572",Tyrone Mings,4-3-3,4-2-3-1,Michael Oliver
+91,2021-12-11,15:00 ,16,Sat,Away,L,0,1,Liverpool,0.2,2.2,38,"53,093",Tyrone Mings,4-3-3,4-3-3,Stuart Attwell
+92,2021-12-14,19:45 ,17,Tue,Away,W,2,0,Norwich City,2.0,0.5,50,"26,836",Tyrone Mings,4-3-3,4-3-3,David Coote
+93,2021-12-26,17:30 ,19,Sun,Home,L,1,3,Chelsea,0.4,2.6,42,"41,907",Tyrone Mings,4-3-1-2,3-4-3,Martin Atkinson
+94,2022-01-02,14:00 ,21,Sun,Away,L,1,2,Brentford,0.8,0.6,55,"16,876",John McGinn,4-3-3,3-5-2,Craig Pawson
+95,2022-01-15,17:30 ,22,Sat,Home,D,2,2,Manchester Utd,1.9,1.0,54,"41,968",Tyrone Mings,4-3-3,4-3-3,David Coote
+96,2022-01-22,12:30 ,23,Sat,Away,W,1,0,Everton,0.8,1.6,50,"38,203",Tyrone Mings,4-3-3,4-4-2,Craig Pawson
+97,2022-02-09,20:00 ,24,Wed,Home,D,3,3,Leeds United,1.6,1.8,40,"41,927",Tyrone Mings,4-3-3,4-2-3-1,Jarred Gillett
+98,2022-02-13,14:00 ,25,Sun,Away,L,0,1,Newcastle Utd,0.6,0.5,62,"52,207",Tyrone Mings,4-3-3,4-3-3,Craig Pawson
+99,2022-02-19,15:00 ,26,Sat,Home,L,0,1,Watford,1.3,1.2,59,"41,936",Tyrone Mings,4-3-3,4-3-3,Robert Jones
+100,2022-02-26,15:00 ,27,Sat,Away,W,2,0,Brighton,1.0,0.7,34,"31,475",Tyrone Mings,4-1-2-1-2◆,3-5-2,John Brooks
+101,2022-03-05,15:00 ,28,Sat,Home,W,4,0,Southampton,2.5,1.1,38,"41,855",Tyrone Mings,4-3-1-2,4-4-2,Peter Bankes
+102,2022-03-10,19:45 ,20,Thu,Away,W,3,0,Leeds United,1.5,0.2,49,"36,400",Tyrone Mings,4-3-1-2,4-2-3-1,Simon Hooper
+103,2022-03-13,14:00 ,29,Sun,Away,L,1,2,West Ham,1.1,1.2,53,"59,957",Tyrone Mings,4-1-2-1-2◆,4-2-3-1,Jarred Gillett
+104,2022-03-19,12:30 ,30,Sat,Home,L,0,1,Arsenal,0.5,1.3,47,"41,956",Tyrone Mings,4-3-2-1,4-2-3-1,Andy Madley
+105,2022-04-02,15:00 ,31,Sat,Away,L,1,2,Wolves,2.1,1.3,51,"31,012",Tyrone Mings,4-3-1-2,3-4-3,Darren England
+106,2022-04-09,17:30 ,32,Sat,Home,L,0,4,Tottenham,1.6,1.1,52,"41,949",Tyrone Mings,4-3-1-2,3-4-3,Graham Scott
+107,2022-04-23,15:00 ,34,Sat,Away,D,0,0,Leicester City,0.9,0.3,36,"32,185",Tyrone Mings,4-3-2-1,4-1-4-1,Andy Madley
+108,2022-04-30,15:00 ,35,Sat,Home,W,2,0,Norwich City,1.8,0.5,45,"40,290",Tyrone Mings,4-1-4-1,4-2-3-1,John Brooks
+109,2022-05-07,15:00 ,36,Sat,Away,W,3,1,Burnley,2.1,1.9,51,"20,891",Tyrone Mings,4-1-2-1-2◆,4-4-2,David Coote
+110,2022-05-10,20:00 ,33,Tue,Home,L,1,2,Liverpool,1.4,1.8,40,"41,919",Tyrone Mings,4-3-1-2,4-3-3,Jonathan Moss
+111,2022-05-15,14:00 ,37,Sun,Home,D,1,1,Crystal Palace,1.0,1.4,49,"41,136",Tyrone Mings,4-3-1-2,5-3-2,Chris Kavanagh
+112,2022-05-19,20:00 ,18,Thu,Home,D,1,1,Burnley,1.5,1.6,71,"40,468",Tyrone Mings,4-3-2-1,5-3-2,Paul Tierney
+113,2022-05-22,16:00 ,38,Sun,Away,L,2,3,Manchester City,0.2,3.4,29,"53,395",Tyrone Mings,4-3-2-1,4-3-3,Michael Oliver
+114,2020-09-21,18:00 ,2,Mon,Home,W,1,0,Sheffield Utd,1.0,0.9,71,,Jack Grealish,4-3-3,3-5-2,Graham Scott
+115,2020-09-28,17:45 ,3,Mon,Away,W,3,0,Fulham,1.4,0.7,36,,Jack Grealish,4-3-3,3-4-3,Stuart Attwell
+116,2020-10-04,19:15 ,4,Sun,Home,W,7,2,Liverpool,2.7,1.8,31,,Jack Grealish,4-2-3-1,4-3-3,Martin Atkinson
+117,2020-10-18,19:15 ,5,Sun,Away,W,1,0,Leicester City,0.7,0.6,50,,Jack Grealish,4-2-3-1,4-1-4-1,Jonathan Moss
+118,2020-10-23,20:00 ,6,Fri,Home,L,0,3,Leeds United,1.4,2.7,41,,Jack Grealish,4-2-3-1,4-4-1-1,Paul Tierney
+119,2020-11-01,12:00 ,7,Sun,Home,L,3,4,Southampton,1.9,0.7,56,,Jack Grealish,4-2-3-1,4-4-2,Darren England
+120,2020-11-08,19:15 ,8,Sun,Away,W,3,0,Arsenal,1.8,1.5,41,,Jack Grealish,4-2-3-1,3-4-3,Martin Atkinson
+121,2020-11-21,15:00 ,9,Sat,Home,L,1,2,Brighton,1.5,1.4,56,,Jack Grealish,4-2-3-1,3-4-1-2,Michael Oliver
+122,2020-11-30,20:00 ,10,Mon,Away,L,1,2,West Ham,2.5,0.4,66,,Jack Grealish,4-3-3,3-4-3,Peter Bankes
+123,2020-12-12,12:30 ,12,Sat,Away,W,1,0,Wolves,1.4,1.1,50,,Jack Grealish,4-3-3,4-2-3-1,Mike Dean
+124,2020-12-17,18:00 ,13,Thu,Home,D,0,0,Burnley,1.5,0.3,59,,Jack Grealish,4-2-3-1,4-4-2,Craig Pawson
+125,2020-12-20,19:15 ,14,Sun,Away,W,3,0,West Brom,2.4,0.0,67,,Jack Grealish,4-2-3-1,4-1-4-1,Martin Atkinson
+126,2020-12-26,15:00 ,15,Sat,Home,W,3,0,Crystal Palace,3.9,0.9,39,,Jack Grealish,4-2-3-1,4-4-2,Anthony Taylor
+127,2020-12-28,17:30 ,16,Mon,Away,D,1,1,Chelsea,0.7,1.7,37,,Jack Grealish,4-2-3-1,4-3-3,Stuart Attwell
+128,2021-01-01,20:00 ,17,Fri,Away,L,1,2,Manchester Utd,1.4,2.1,52,,Jack Grealish,4-2-3-1,4-2-3-1,Michael Oliver
+129,2021-01-20,18:00 ,1,Wed,Away,L,0,2,Manchester City,0.6,3.4,31,,Jack Grealish,4-2-3-1,4-3-3,Jonathan Moss
+130,2021-01-23,20:00 ,11,Sat,Home,W,2,0,Newcastle Utd,2.3,0.5,58,,Jack Grealish,4-2-3-1,5-3-2,Simon Hooper
+131,2021-01-27,18:00 ,20,Wed,Away,L,2,3,Burnley,2.2,0.5,61,,Jack Grealish,4-2-3-1,4-4-2,Paul Tierney
+132,2021-01-30,20:00 ,21,Sat,Away,W,1,0,Southampton,0.6,1.9,41,,Jack Grealish,4-2-3-1,4-4-2,Lee Mason
+133,2021-02-03,20:15 ,22,Wed,Home,L,1,3,West Ham,0.7,1.7,56,,Jack Grealish,4-2-3-1,4-2-3-1,Andy Madley
+134,2021-02-06,12:30 ,23,Sat,Home,W,1,0,Arsenal,1.2,0.8,35,,Jack Grealish,4-2-3-1,4-2-3-1,Chris Kavanagh
+135,2021-02-13,20:00 ,24,Sat,Away,D,0,0,Brighton,0.1,2.2,42,,Jack Grealish,4-2-3-1,4-1-3-2,Darren England
+136,2021-02-21,14:05 ,25,Sun,Home,L,1,2,Leicester City,1.4,1.1,51,,Tyrone Mings,4-2-3-1,4-2-3-1,Michael Oliver
+137,2021-02-27,17:30 ,26,Sat,Away,W,1,0,Leeds United,0.7,0.9,31,,Tyrone Mings,4-3-3,4-1-4-1,Peter Bankes
+138,2021-03-03,18:00 ,29,Wed,Away,L,0,1,Sheffield Utd,2.3,0.9,72,,Tyrone Mings,4-3-3,3-5-2,Robert Jones
+139,2021-03-06,17:30 ,27,Sat,Home,D,0,0,Wolves,0.6,1.6,49,,Tyrone Mings,4-3-3,3-4-3,Andy Madley
+140,2021-03-12,20:00 ,28,Fri,Away,D,1,1,Newcastle Utd,0.9,1.5,51,,Tyrone Mings,4-3-3,4-3-3,Paul Tierney
+141,2021-03-21,19:30 ,18,Sun,Home,L,0,2,Tottenham,0.4,1.8,50,,Tyrone Mings,4-2-3-1,4-4-2,Mike Dean
+142,2021-04-04,16:30 ,30,Sun,Home,W,3,1,Fulham,1.5,1.0,53,,Tyrone Mings,4-2-3-1,4-2-3-1,Andy Madley
+143,2021-04-10,15:00 ,31,Sat,Away,L,1,2,Liverpool,0.5,2.3,35,,Tyrone Mings,4-3-3,4-3-3,Paul Tierney
+144,2021-04-21,20:15 ,32,Wed,Home,L,1,2,Manchester City,0.7,1.2,28,,Tyrone Mings,4-1-4-1,4-3-3,Peter Bankes
+145,2021-04-25,19:00 ,33,Sun,Home,D,2,2,West Brom,3.2,1.5,70,,Tyrone Mings,4-2-3-1,4-1-4-1,Stuart Attwell
+146,2021-05-01,20:00 ,34,Sat,Away,W,2,1,Everton,1.6,1.0,53,,Tyrone Mings,4-2-3-1,4-2-3-1,Simon Hooper
+147,2021-05-09,14:05 ,35,Sun,Home,L,1,3,Manchester Utd,0.5,1.7,41,,Tyrone Mings,4-2-3-1,4-2-3-1,Chris Kavanagh
+148,2021-05-13,18:00 ,19,Thu,Home,D,0,0,Everton,0.6,1.0,58,,Tyrone Mings,4-2-3-1,4-4-2,Martin Atkinson
+149,2021-05-16,12:00 ,36,Sun,Away,L,2,3,Crystal Palace,1.4,1.9,55,,John McGinn,4-3-3,4-3-3,David Coote
+150,2021-05-19,18:00 ,37,Wed,Away,W,2,1,Tottenham,1.4,0.8,40,"10,000",Jack Grealish,4-2-3-1,4-2-3-1,Craig Pawson
+151,2021-05-23,16:00 ,38,Sun,Home,W,2,1,Chelsea,1.1,3.3,29,"10,000",Jack Grealish,4-2-3-1,3-4-3,Stuart Attwell
+152,2019-08-10,17:30 ,1,Sat,Away,L,1,3,Tottenham,0.7,2.4,30,"60,407",Jack Grealish,4-1-4-1,4-3-1-2,Chris Kavanagh
+153,2019-08-17,15:00 ,2,Sat,Home,L,1,2,Bournemouth,2.0,1.6,63,"40,996",Jack Grealish,4-3-3,4-4-1-1,Martin Atkinson
+154,2019-08-23,20:00 ,3,Fri,Home,W,2,0,Everton,1.0,1.3,36,"41,922",Jack Grealish,4-1-4-1,4-2-3-1,Michael Oliver
+155,2019-08-31,15:00 ,4,Sat,Away,L,0,1,Crystal Palace,0.4,1.4,48,"25,248",Jack Grealish,4-3-3,4-3-3,Kevin Friend
+156,2019-09-16,20:00 ,5,Mon,Home,D,0,0,West Ham,1.3,0.6,46,"42,010",Jack Grealish,4-3-3,4-1-4-1,Mike Dean
+157,2019-09-22,16:30 ,6,Sun,Away,L,2,3,Arsenal,1.5,2.4,42,"60,331",Jack Grealish,4-3-3,4-2-3-1,Jonathan Moss
+158,2019-09-28,15:00 ,7,Sat,Home,D,2,2,Burnley,1.0,1.5,60,"41,546",Jack Grealish,4-3-3,4-4-2,Lee Mason
+159,2019-10-05,15:00 ,8,Sat,Away,W,5,1,Norwich City,3.0,2.6,43,"27,045",Jack Grealish,4-3-3,4-2-3-1,Andy Madley
+160,2019-10-19,15:00 ,9,Sat,Home,W,2,1,Brighton,3.0,1.2,49,"41,826",Jack Grealish,4-3-3,4-4-2,David Coote
+161,2019-10-26,12:30 ,10,Sat,Away,L,0,3,Manchester City,1.0,2.9,37,"54,506",Jack Grealish,4-1-4-1,4-3-3,Graham Scott
+162,2019-11-02,15:00 ,11,Sat,Home,L,1,2,Liverpool,0.4,2.4,27,"41,878",Tyrone Mings,4-3-3,4-3-3,Jonathan Moss
+163,2019-11-10,14:00 ,12,Sun,Away,L,1,2,Wolves,0.6,2.4,50,"31,607",Tyrone Mings,4-3-3,3-4-3,Anthony Taylor
+164,2019-11-25,20:00 ,13,Mon,Home,W,2,0,Newcastle Utd,2.3,0.6,61,"41,821",Jack Grealish,4-3-3,5-4-1,Lee Mason
+165,2019-12-01,16:30 ,14,Sun,Away,D,2,2,Manchester Utd,1.2,1.7,38,"73,381",Jack Grealish,4-3-3,4-2-3-1,Craig Pawson
+166,2019-12-04,19:30 ,15,Wed,Away,L,1,2,Chelsea,1.0,1.8,36,"40,628",Jack Grealish,4-3-3,4-2-3-1,Chris Kavanagh
+167,2019-12-08,14:00 ,16,Sun,Home,L,1,4,Leicester City,1.2,4.6,41,"41,908",Jack Grealish,4-1-4-1,4-1-2-1-2,Michael Oliver
+168,2019-12-14,15:00 ,17,Sat,Away,L,0,2,Sheffield Utd,1.1,1.7,44,"30,396",Jack Grealish,4-3-3,3-5-2,Peter Bankes
+169,2019-12-21,15:00 ,18,Sat,Home,L,1,3,Southampton,1.1,2.8,56,"41,834",Jack Grealish,4-3-3,4-4-2,Craig Pawson
+170,2019-12-26,15:00 ,19,Thu,Home,W,1,0,Norwich City,0.6,1.2,43,"41,289",Jack Grealish,4-2-3-1,4-2-3-1,Chris Kavanagh
+171,2019-12-28,15:00 ,20,Sat,Away,L,0,3,Watford,0.6,2.8,51,"21,348",Jack Grealish,4-2-3-1,4-2-3-1,Simon Hooper
+172,2020-01-01,12:30 ,21,Wed,Away,W,2,1,Burnley,1.3,2.2,38,"19,561",Jack Grealish,3-4-3,4-4-2,Michael Oliver
+173,2020-01-12,16:30 ,22,Sun,Home,L,1,6,Manchester City,1.1,2.8,30,"41,823",Jack Grealish,5-3-2,4-3-3,Jonathan Moss
+174,2020-01-18,15:00 ,23,Sat,Away,D,1,1,Brighton,0.6,1.1,45,"30,551",Jack Grealish,3-4-3,4-4-2,Andy Madley
+175,2020-01-21,19:30 ,24,Tue,Home,W,2,1,Watford,1.3,1.8,64,"40,867",Jack Grealish,3-4-3,4-2-3-1,Martin Atkinson
+176,2020-02-01,15:00 ,25,Sat,Away,L,1,2,Bournemouth,1.7,2.2,60,"10,722",Jack Grealish,3-4-3,4-3-3,Anthony Taylor
+177,2020-02-16,14:00 ,26,Sun,Home,L,2,3,Tottenham,1.8,3.4,55,"41,874",Jack Grealish,3-4-3,4-2-3-1,Martin Atkinson
+178,2020-02-22,15:00 ,27,Sat,Away,L,0,2,Southampton,0.5,2.6,54,"31,478",Jack Grealish,3-4-3,4-4-2,Craig Pawson
+179,2020-03-09,20:00 ,29,Mon,Away,L,0,4,Leicester City,0.5,2.1,36,"32,125",Jack Grealish,4-1-4-1,4-1-4-1,Michael Oliver
+180,2020-06-17,18:00 ,28,Wed,Home,D,0,0,Sheffield Utd,1.4,0.3,46,,Jack Grealish,4-3-3,3-5-2,Michael Oliver
+181,2020-06-21,16:15 ,30,Sun,Home,L,1,2,Chelsea,1.0,1.1,27,,Jack Grealish,4-3-3,4-3-3,Paul Tierney
+182,2020-06-24,18:00 ,31,Wed,Away,D,1,1,Newcastle Utd,1.6,0.9,48,,Jack Grealish,4-3-3,4-4-1-1,Chris Kavanagh
+183,2020-06-27,12:30 ,32,Sat,Home,L,0,1,Wolves,0.6,0.7,48,,Jack Grealish,4-1-2-1-2◆,3-5-2,Craig Pawson
+184,2020-07-05,16:30 ,33,Sun,Away,L,0,2,Liverpool,0.7,0.7,30,,Jack Grealish,4-4-1-1,4-3-3,Paul Tierney
+185,2020-07-09,20:15 ,34,Thu,Home,L,0,3,Manchester Utd,0.5,2.3,34,,Jack Grealish,4-4-1-1,4-2-3-1,Jonathan Moss
+186,2020-07-12,14:15 ,35,Sun,Home,W,2,0,Crystal Palace,1.7,1.2,45,,Jack Grealish,4-3-3,4-1-4-1,Martin Atkinson
+187,2020-07-16,18:00 ,36,Thu,Away,D,1,1,Everton,1.3,0.9,46,,Jack Grealish,4-3-3,4-4-2,Anthony Taylor
+188,2020-07-21,20:15 ,37,Tue,Home,W,1,0,Arsenal,0.6,0.6,31,,Jack Grealish,4-3-3,3-4-3,Chris Kavanagh
+189,2020-07-26,16:00 ,38,Sun,Away,D,1,1,West Ham,1.0,0.9,38,,Jack Grealish,4-1-4-1,4-2-3-1,Michael Oliver

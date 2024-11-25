@@ -1,0 +1,267 @@
+,Date,Time,Matchweek,Day,Venue,Result,Goals Scored,Goals Conceded,Opponent,xG,xGA,Possession,Attendance,Captain,Formation,Opposition Formation,Referee
+0,2023-08-12,15:00 ,1,Sat,Away,D,1,1,Bournemouth,1.1,1.3,38,"11,245",Kurt Zouma,4-2-3-1,4-2-3-1,Peter Bankes
+1,2023-08-20,16:30 ,2,Sun,Home,W,3,1,Chelsea,1.8,2.5,25,"62,451",Kurt Zouma,4-2-3-1,3-4-3,John Brooks
+2,2023-08-26,17:30 ,3,Sat,Away,W,3,1,Brighton,3.0,1.5,22,"31,508",Kurt Zouma,4-1-4-1,4-2-3-1,Anthony Taylor
+3,2023-09-01,20:00 ,4,Fri,Away,W,2,1,Luton Town,1.0,1.4,61,"10,802",Kurt Zouma,4-2-3-1,5-3-2,Paul Tierney
+4,2023-09-16,15:00 ,5,Sat,Home,L,1,3,Manchester City,0.9,3.6,32,"62,475",Kurt Zouma,4-2-3-1,4-2-3-1,Andy Madley
+5,2023-09-24,14:00 ,6,Sun,Away,L,1,3,Liverpool,1.1,3.0,37,"50,136",Kurt Zouma,4-2-3-1,4-3-3,Chris Kavanagh
+6,2023-09-30,15:00 ,7,Sat,Home,W,2,0,Sheffield Utd,2.1,1.1,52,"62,459",Kurt Zouma,4-2-3-1,3-5-2,Graham Scott
+7,2023-10-08,14:00 ,8,Sun,Home,D,2,2,Newcastle Utd,1.2,2.0,36,"62,473",Kurt Zouma,4-2-3-1,4-3-3,Peter Bankes
+8,2023-10-22,16:30 ,9,Sun,Away,L,1,4,Aston Villa,1.1,1.9,42,"41,734",Kurt Zouma,4-2-3-1,4-4-2,David Coote
+9,2023-10-29,13:00 ,10,Sun,Home,L,0,1,Everton,0.7,0.8,64,"62,469",Kurt Zouma,4-2-3-1,4-4-1-1,Stuart Attwell
+10,2023-11-04,15:00 ,11,Sat,Away,L,2,3,Brentford,1.8,1.5,42,"17,103",James Ward-Prowse,4-4-2,4-3-3,Thomas Bramall
+11,2023-11-12,14:00 ,12,Sun,Home,W,3,2,Nott'ham Forest,1.8,1.7,54,"62,470",Kurt Zouma,4-2-3-1,4-3-3,Michael Salisbury
+12,2023-11-25,15:00 ,13,Sat,Away,W,2,1,Burnley,0.9,1.3,50,"21,319",Kurt Zouma,4-2-3-1,4-4-2,Samuel Barrott
+13,2023-12-03,14:00 ,14,Sun,Home,D,1,1,Crystal Palace,1.1,0.9,55,"62,414",Tomáš Souček,4-2-3-1,4-3-3,Michael Oliver
+14,2023-12-07,20:15 ,15,Thu,Away,W,2,1,Tottenham,2.2,1.8,26,"61,171",Kurt Zouma,4-3-3,4-2-3-1,Michael Salisbury
+15,2023-12-10,14:00 ,16,Sun,Away,L,0,5,Fulham,1.3,2.3,37,"23,988",Kurt Zouma,4-4-1-1,4-2-3-1,Paul Tierney
+16,2023-12-17,14:00 ,17,Sun,Home,W,3,0,Wolves,1.1,0.7,45,"62,455",Kurt Zouma,4-2-3-1,3-4-3,Chris Kavanagh
+17,2023-12-23,12:30 ,18,Sat,Home,W,2,0,Manchester Utd,1.2,1.0,35,"64,472",Kurt Zouma,4-2-3-1,4-2-3-1,Simon Hooper
+18,2023-12-28,20:15 ,19,Thu,Away,W,2,0,Arsenal,1.4,2.7,27,"60,261",Angelo Ogbonna,4-2-3-1,4-3-3,Michael Oliver
+19,2024-01-02,19:30 ,20,Tue,Home,D,0,0,Brighton,0.7,2.3,32,"62,462",Angelo Ogbonna,4-2-3-1,4-3-1-2,Samuel Barrott
+20,2024-01-21,14:00 ,21,Sun,Away,D,2,2,Sheffield Utd,2.3,2.5,43,"29,164",Kurt Zouma,4-4-1-1,4-1-4-1,Michael Salisbury
+21,2024-02-01,19:30 ,22,Thu,Home,D,1,1,Bournemouth,1.4,1.2,48,"62,478",Kurt Zouma,4-3-2-1,4-2-3-1,Tim Robinson
+22,2024-02-04,14:00 ,23,Sun,Away,L,0,3,Manchester Utd,1.4,0.7,49,"73,612",Kurt Zouma,4-2-3-1,4-2-3-1,Andy Madley
+23,2024-02-11,14:00 ,24,Sun,Home,L,0,6,Arsenal,0.2,3.6,30,"62,475",Kurt Zouma,4-2-3-1,4-3-3,Craig Pawson
+24,2024-02-17,15:00 ,25,Sat,Away,L,0,2,Nott'ham Forest,0.5,2.8,51,"29,490",Kurt Zouma,4-2-3-1,4-2-3-1,Thomas Bramall
+25,2024-02-26,20:00 ,26,Mon,Home,W,4,2,Brentford,1.7,0.9,41,"62,450",Kurt Zouma,4-2-3-1,3-5-2,Simon Hooper
+26,2024-03-02,15:00 ,27,Sat,Away,W,3,1,Everton,1.9,2.7,45,"39,262",Kurt Zouma,4-2-3-1,4-4-1-1,Craig Pawson
+27,2024-03-10,14:00 ,28,Sun,Home,D,2,2,Burnley,2.1,0.7,52,"62,441",Tomáš Souček,4-2-3-1,4-4-2,Darren England
+28,2024-03-17,14:00 ,29,Sun,Home,D,1,1,Aston Villa,2.0,0.7,31,"62,461",Kurt Zouma,4-2-3-1,4-4-2,Jarred Gillett
+29,2024-03-30,12:30 ,30,Sat,Away,L,3,4,Newcastle Utd,1.4,4.1,40,"52,199",Kurt Zouma,4-2-3-1,4-3-3,Robert Jones
+30,2024-04-02,20:15 ,31,Tue,Home,D,1,1,Tottenham,1.5,1.0,33,"62,469",Kurt Zouma,4-5-1,4-2-3-1,John Brooks
+31,2024-04-06,15:00 ,32,Sat,Away,W,2,1,Wolves,1.2,1.5,42,"31,504",Kurt Zouma,4-2-3-1,3-4-3,Tony Harrington
+32,2024-04-14,14:00 ,33,Sun,Home,L,0,2,Fulham,0.9,3.2,58,"62,459",Łukasz Fabiański,4-2-3-1,4-2-3-1,Stuart Attwell
+33,2024-04-21,15:00 ,34,Sun,Away,L,2,5,Crystal Palace,1.3,2.4,40,"25,145",Kurt Zouma,4-2-3-1,3-4-3,Graham Scott
+34,2024-04-27,12:30 ,35,Sat,Home,D,2,2,Liverpool,0.7,1.7,29,"62,474",Kurt Zouma,4-2-3-1,4-3-3,Anthony Taylor
+35,2024-05-05,14:00 ,36,Sun,Away,L,0,5,Chelsea,0.9,4.1,31,"39,295",Kurt Zouma,4-2-3-1,4-2-3-1,Andy Madley
+36,2024-05-11,15:00 ,37,Sat,Home,W,3,1,Luton Town,3.2,0.3,58,"62,475",Kurt Zouma,4-2-3-1,3-4-3,Michael Oliver
+37,2024-05-19,16:00 ,38,Sun,Away,L,1,3,Manchester City,0.4,1.9,29,"55,097",Kurt Zouma,3-4-3,4-1-4-1,John Brooks
+38,2022-08-07,16:30 ,1,Sun,Home,L,0,2,Manchester City,0.5,2.2,25,"62,443",Declan Rice,4-2-3-1,4-3-3,Michael Oliver
+39,2022-08-14,14:00 ,2,Sun,Away,L,0,1,Nott'ham Forest,2.1,1.3,57,"29,281",Declan Rice,4-3-3,3-4-1-2,Robert Jones
+40,2022-08-21,14:00 ,3,Sun,Home,L,0,2,Brighton,0.8,1.7,50,"62,449",Declan Rice,4-2-3-1,3-5-1-1,Anthony Taylor
+41,2022-08-28,14:00 ,4,Sun,Away,W,1,0,Aston Villa,0.6,0.5,42,"41,796",Declan Rice,3-5-2,4-3-1-2,David Coote
+42,2022-08-31,19:45 ,5,Wed,Home,D,1,1,Tottenham,1.2,0.6,39,"62,450",Declan Rice,4-2-3-1,3-4-3,Peter Bankes
+43,2022-09-03,15:00 ,6,Sat,Away,L,1,2,Chelsea,1.1,0.9,33,"39,923",Declan Rice,3-4-1-2,3-1-4-2,Andy Madley
+44,2022-09-18,14:15 ,8,Sun,Away,L,0,1,Everton,1.0,0.4,47,"39,298",Declan Rice,4-2-3-1,4-3-3,Michael Oliver
+45,2022-10-01,17:30 ,9,Sat,Home,W,2,0,Wolves,0.9,0.7,39,"62,444",Declan Rice,4-2-3-1,3-4-3,Paul Tierney
+46,2022-10-09,14:00 ,10,Sun,Home,W,3,1,Fulham,2.4,0.7,50,"62,407",Declan Rice,4-2-3-1,4-2-3-1,Chris Kavanagh
+47,2022-10-16,14:00 ,11,Sun,Away,D,1,1,Southampton,1.7,0.5,61,"29,159",Declan Rice,3-4-3,4-3-3,Peter Bankes
+48,2022-10-19,19:30 ,12,Wed,Away,L,0,1,Liverpool,1.7,1.7,46,"52,982",Declan Rice,4-4-2,4-4-2,Stuart Attwell
+49,2022-10-24,20:00 ,13,Mon,Home,W,2,0,Bournemouth,1.9,0.4,55,"62,447",Declan Rice,4-2-3-1,4-2-3-1,David Coote
+50,2022-10-30,16:15 ,14,Sun,Away,L,0,1,Manchester Utd,1.1,1.2,47,"73,682",Declan Rice,4-2-3-1,4-2-3-1,Chris Kavanagh
+51,2022-11-06,14:00 ,15,Sun,Home,L,1,2,Crystal Palace,0.3,1.0,42,"62,451",Declan Rice,4-2-3-1,4-3-3,Paul Tierney
+52,2022-11-12,15:00 ,16,Sat,Home,L,0,2,Leicester City,1.4,1.8,54,"62,459",Declan Rice,4-2-3-1,4-1-4-1,Jarred Gillett
+53,2022-12-26,20:00 ,17,Mon,Away,L,1,3,Arsenal,1.0,2.1,34,"60,125",Declan Rice,4-2-3-1,4-3-3,Michael Oliver
+54,2022-12-30,19:45 ,18,Fri,Home,L,0,2,Brentford,1.3,1.6,63,"62,467",Declan Rice,3-4-3,3-5-2,Darren England
+55,2023-01-04,19:45 ,19,Wed,Away,D,2,2,Leeds United,1.4,1.6,38,"36,173",Declan Rice,4-3-3,4-2-3-1,David Coote
+56,2023-01-14,15:00 ,20,Sat,Away,L,0,1,Wolves,1.1,0.9,42,"31,511",Declan Rice,4-3-3,4-2-3-1,Simon Hooper
+57,2023-01-21,15:00 ,21,Sat,Home,W,2,0,Everton,2.2,0.5,33,"62,470",Declan Rice,3-4-3,3-4-3,Stuart Attwell
+58,2023-02-04,17:30 ,22,Sat,Away,D,1,1,Newcastle Utd,1.0,1.0,38,"52,256",Declan Rice,3-4-3,4-3-3,Peter Bankes
+59,2023-02-11,12:30 ,23,Sat,Home,D,1,1,Chelsea,1.3,1.1,29,"62,471",Declan Rice,3-4-3,4-2-3-1,Craig Pawson
+60,2023-02-19,16:30 ,24,Sun,Away,L,0,2,Tottenham,0.5,1.5,43,"61,476",Declan Rice,3-4-3,3-4-3,Michael Oliver
+61,2023-02-25,15:00 ,25,Sat,Home,W,4,0,Nott'ham Forest,2.7,0.4,49,"62,469",Declan Rice,4-3-3,4-3-2-1,Jarred Gillett
+62,2023-03-04,15:00 ,26,Sat,Away,L,0,4,Brighton,0.3,3.5,35,"31,523",Declan Rice,4-2-3-1,4-2-3-1,Stuart Attwell
+63,2023-03-12,14:00 ,27,Sun,Home,D,1,1,Aston Villa,2.1,1.5,41,"62,472",Declan Rice,4-1-4-1,4-2-3-1,Chris Kavanagh
+64,2023-04-02,14:00 ,29,Sun,Home,W,1,0,Southampton,1.4,0.3,43,"62,498",Declan Rice,4-3-3,4-4-2,Paul Tierney
+65,2023-04-05,20:00 ,7,Wed,Home,L,1,5,Newcastle Utd,1.0,3.3,42,"62,481",Declan Rice,4-2-3-1,4-3-3,Craig Pawson
+66,2023-04-08,15:00 ,30,Sat,Away,W,1,0,Fulham,1.1,0.7,24,"24,491",Declan Rice,4-4-2,4-2-3-1,Jarred Gillett
+67,2023-04-16,14:00 ,31,Sun,Home,D,2,2,Arsenal,1.8,2.7,30,"62,481",Declan Rice,4-3-3,4-3-3,David Coote
+68,2023-04-23,14:00 ,32,Sun,Away,W,4,0,Bournemouth,2.4,1.5,36,"10,465",Declan Rice,4-3-3,3-4-3,Anthony Taylor
+69,2023-04-26,19:45 ,33,Wed,Home,L,1,2,Liverpool,0.8,1.9,28,"62,473",Declan Rice,4-2-3-1,4-3-3,Chris Kavanagh
+70,2023-04-29,12:30 ,34,Sat,Away,L,3,4,Crystal Palace,1.7,2.1,41,"25,148",Declan Rice,4-2-3-1,4-3-3,Craig Pawson
+71,2023-05-03,20:00 ,28,Wed,Away,L,0,3,Manchester City,0.4,2.3,31,"53,305",Aaron Cresswell,4-2-3-1,3-2-4-1,John Brooks
+72,2023-05-07,19:00 ,35,Sun,Home,W,1,0,Manchester Utd,1.3,1.2,35,"62,477",Declan Rice,4-2-3-1,4-2-3-1,Peter Bankes
+73,2023-05-14,14:00 ,36,Sun,Away,L,0,2,Brentford,0.2,3.4,47,"17,075",Angelo Ogbonna,4-2-3-1,4-3-3,Michael Oliver
+74,2023-05-21,13:30 ,37,Sun,Home,W,3,1,Leeds United,2.1,0.9,59,"62,478",Declan Rice,4-2-3-1,4-3-3,Peter Bankes
+75,2023-05-28,16:30 ,38,Sun,Away,L,1,2,Leicester City,1.4,1.4,52,"32,183",Declan Rice,4-2-3-1,4-2-3-1,Simon Hooper
+76,2021-08-15,14:00 ,1,Sun,Away,W,4,2,Newcastle Utd,2.7,1.8,54,"50,673",Declan Rice,4-2-3-1,5-3-2,Martin Atkinson
+77,2021-08-23,20:00 ,2,Mon,Home,W,4,1,Leicester City,2.3,0.6,52,"59,901",Declan Rice,4-2-3-1,4-2-3-1,Michael Oliver
+78,2021-08-28,15:00 ,3,Sat,Home,D,2,2,Crystal Palace,1.3,1.1,47,"59,751",Declan Rice,4-2-3-1,4-3-3,Stuart Attwell
+79,2021-09-11,15:00 ,4,Sat,Away,D,0,0,Southampton,0.7,0.7,58,"30,000",Declan Rice,4-2-3-1,4-1-4-1,David Coote
+80,2021-09-19,14:00 ,5,Sun,Home,L,1,2,Manchester Utd,1.6,2.0,40,"60,000",Declan Rice,4-4-2,4-2-3-1,Martin Atkinson
+81,2021-09-25,15:00 ,6,Sat,Away,W,2,1,Leeds United,1.6,1.2,47,"36,417",Declan Rice,4-2-3-1,4-1-4-1,Kevin Friend
+82,2021-10-03,14:00 ,7,Sun,Home,L,1,2,Brentford,1.5,1.2,59,"49,940",Declan Rice,4-2-3-1,3-5-2,Peter Bankes
+83,2021-10-17,14:00 ,8,Sun,Away,W,1,0,Everton,1.2,0.9,61,"39,132",Declan Rice,4-2-3-1,4-4-1-1,Stuart Attwell
+84,2021-10-24,14:00 ,9,Sun,Home,W,1,0,Tottenham,1.3,0.7,38,"59,924",Declan Rice,4-2-3-1,4-2-3-1,Paul Tierney
+85,2021-10-31,16:30 ,10,Sun,Away,W,4,1,Aston Villa,2.3,0.7,57,"41,874",Declan Rice,4-2-3-1,4-3-3,Chris Kavanagh
+86,2021-11-07,16:30 ,11,Sun,Home,W,3,2,Liverpool,1.0,1.2,31,"59,909",Declan Rice,4-2-3-1,4-3-3,Craig Pawson
+87,2021-11-20,15:00 ,12,Sat,Away,L,0,1,Wolves,0.4,1.4,48,"30,667",Declan Rice,4-2-3-1,3-4-3,Mike Dean
+88,2021-11-28,14:00 ,13,Sun,Away,L,1,2,Manchester City,0.2,2.1,32,"53,245",Declan Rice,4-2-3-1,4-3-3,Michael Oliver
+89,2021-12-01,19:30 ,14,Wed,Home,D,1,1,Brighton,1.3,1.3,35,"59,626",Declan Rice,4-2-3-1,4-2-3-1,Chris Kavanagh
+90,2021-12-04,12:30 ,15,Sat,Home,W,3,2,Chelsea,1.8,1.1,37,"59,942",Declan Rice,3-4-3,3-4-3,Andre Marriner
+91,2021-12-12,14:00 ,16,Sun,Away,D,0,0,Burnley,0.8,0.8,60,"18,065",Declan Rice,4-2-3-1,4-4-2,Graham Scott
+92,2021-12-15,20:00 ,17,Wed,Away,L,0,2,Arsenal,0.4,2.8,45,"59,777",Declan Rice,4-2-3-1,4-4-1-1,Anthony Taylor
+93,2021-12-26,15:00 ,19,Sun,Home,L,2,3,Southampton,1.6,1.2,56,"41,027",Declan Rice,4-2-3-1,4-1-4-1,Kevin Friend
+94,2021-12-28,15:00 ,20,Tue,Away,W,4,1,Watford,3.6,1.6,57,"20,073",Mark Noble,4-2-3-1,4-1-4-1,Darren England
+95,2022-01-01,17:30 ,21,Sat,Away,W,3,2,Crystal Palace,2.2,2.4,38,"24,351",Declan Rice,4-2-3-1,4-3-3,Darren England
+96,2022-01-12,19:45 ,18,Wed,Home,W,2,0,Norwich City,2.5,0.3,62,"59,775",Declan Rice,4-2-3-1,4-2-3-1,Simon Hooper
+97,2022-01-16,14:00 ,22,Sun,Home,L,2,3,Leeds United,2.4,2.2,48,"59,951",Declan Rice,4-2-3-1,4-1-4-1,Mike Dean
+98,2022-01-22,15:00 ,23,Sat,Away,L,0,1,Manchester Utd,0.3,1.9,43,"73,130",Declan Rice,4-2-3-1,4-2-3-1,Jonathan Moss
+99,2022-02-08,19:45 ,24,Tue,Home,W,1,0,Watford,0.8,0.3,64,"59,581",Declan Rice,4-2-3-1,4-4-2,Martin Atkinson
+100,2022-02-13,16:30 ,25,Sun,Away,D,2,2,Leicester City,1.1,1.4,45,"32,061",Declan Rice,4-2-3-1,4-3-3,Michael Oliver
+101,2022-02-19,12:30 ,26,Sat,Home,D,1,1,Newcastle Utd,0.6,0.8,47,"59,949",Declan Rice,4-2-3-1,4-3-3,Chris Kavanagh
+102,2022-02-27,14:00 ,27,Sun,Home,W,1,0,Wolves,1.8,0.7,39,"59,946",Declan Rice,3-4-3,3-4-3,Anthony Taylor
+103,2022-03-05,17:30 ,28,Sat,Away,L,0,1,Liverpool,1.3,2.4,32,"59,925",Aaron Cresswell,4-4-2,4-3-3,Jonathan Moss
+104,2022-03-13,14:00 ,29,Sun,Home,W,2,1,Aston Villa,1.2,1.1,47,"59,957",Declan Rice,4-2-3-1,4-1-2-1-2,Jarred Gillett
+105,2022-03-20,16:30 ,30,Sun,Away,L,1,3,Tottenham,0.6,3.0,47,"58,685",Declan Rice,3-4-3,3-4-3,Anthony Taylor
+106,2022-04-03,14:00 ,31,Sun,Home,W,2,1,Everton,1.2,0.7,55,"59,953",Declan Rice,4-2-3-1,4-3-3,Michael Oliver
+107,2022-04-10,14:00 ,32,Sun,Away,L,0,2,Brentford,0.3,1.4,53,"17,032",Declan Rice,4-2-3-1,4-3-3,Martin Atkinson
+108,2022-04-17,14:15 ,33,Sun,Home,D,1,1,Burnley,2.2,1.8,61,"59,958",Declan Rice,4-2-3-1,4-4-2,Paul Tierney
+109,2022-04-24,14:00 ,34,Sun,Away,L,0,1,Chelsea,0.5,3.0,34,"32,231",Mark Noble,3-4-3,3-4-1-2,Michael Oliver
+110,2022-05-01,16:30 ,35,Sun,Home,L,1,2,Arsenal,0.5,0.9,57,"59,959",Mark Noble,4-2-3-1,4-2-3-1,Mike Dean
+111,2022-05-08,14:00 ,36,Sun,Away,W,4,0,Norwich City,3.0,0.8,63,"26,428",Declan Rice,4-2-3-1,4-2-3-1,Robert Jones
+112,2022-05-15,14:00 ,37,Sun,Home,D,2,2,Manchester City,1.1,2.4,22,"59,972",Declan Rice,4-2-3-1,4-3-3,Anthony Taylor
+113,2022-05-22,16:00 ,38,Sun,Away,L,1,3,Brighton,0.2,1.6,50,"31,604",Declan Rice,4-2-3-1,4-3-2-1,Kevin Friend
+114,2020-09-12,20:00 ,1,Sat,Home,L,0,2,Newcastle Utd,1.0,1.6,58,,Mark Noble,4-2-3-1,4-4-2,Stuart Attwell
+115,2020-09-19,20:00 ,2,Sat,Away,L,1,2,Arsenal,2.0,1.1,38,,Declan Rice,5-4-1,3-4-3,Michael Oliver
+116,2020-09-27,19:00 ,3,Sun,Home,W,4,0,Wolves,2.4,0.5,37,,Declan Rice,5-4-1,3-4-3,Martin Atkinson
+117,2020-10-04,12:00 ,4,Sun,Away,W,3,0,Leicester City,2.0,0.6,31,,Declan Rice,5-4-1,3-4-3,Andy Madley
+118,2020-10-18,16:30 ,5,Sun,Away,D,3,3,Tottenham,1.9,1.7,50,,Declan Rice,5-4-1,4-2-3-1,Paul Tierney
+119,2020-10-24,12:30 ,6,Sat,Home,D,1,1,Manchester City,0.3,1.0,31,,Declan Rice,5-4-1,4-3-3,Anthony Taylor
+120,2020-10-31,17:30 ,7,Sat,Away,L,1,2,Liverpool,0.3,1.7,28,,Declan Rice,5-4-1,4-3-3,Kevin Friend
+121,2020-11-07,20:00 ,8,Sat,Home,W,1,0,Fulham,1.3,1.7,53,,Declan Rice,3-4-3,4-2-3-1,Robert Jones
+122,2020-11-22,14:00 ,9,Sun,Away,W,1,0,Sheffield Utd,2.1,0.9,49,,Declan Rice,3-4-3,3-5-2,Martin Atkinson
+123,2020-11-30,20:00 ,10,Mon,Home,W,2,1,Aston Villa,0.4,2.5,34,,Declan Rice,3-4-3,4-3-3,Peter Bankes
+124,2020-12-05,17:30 ,11,Sat,Home,L,1,3,Manchester Utd,2.0,1.7,40,"2,000",Declan Rice,3-4-3,4-2-3-1,Andre Marriner
+125,2020-12-11,20:00 ,12,Fri,Away,W,2,1,Leeds United,1.3,1.6,37,,Declan Rice,4-2-3-1,4-1-4-1,Michael Oliver
+126,2020-12-16,20:00 ,13,Wed,Home,D,1,1,Crystal Palace,0.4,1.1,52,,Declan Rice,4-2-3-1,4-4-2,David Coote
+127,2020-12-21,20:00 ,14,Mon,Away,L,0,3,Chelsea,0.4,2.0,47,,Mark Noble,4-2-3-1,4-3-3,Chris Kavanagh
+128,2020-12-27,14:15 ,15,Sun,Home,D,2,2,Brighton,1.3,1.1,44,,Mark Noble,3-4-1-2,3-4-3,Simon Hooper
+129,2020-12-29,18:00 ,16,Tue,Away,D,0,0,Southampton,1.2,0.6,38,,Declan Rice,4-1-4-1,4-4-2,Andy Madley
+130,2021-01-01,17:30 ,17,Fri,Away,W,1,0,Everton,1.3,0.4,40,,Declan Rice,4-2-3-1,4-2-3-1,Kevin Friend
+131,2021-01-16,15:00 ,19,Sat,Home,W,1,0,Burnley,1.7,0.5,45,,Declan Rice,4-2-3-1,4-4-2,Chris Kavanagh
+132,2021-01-19,18:00 ,18,Tue,Home,W,2,1,West Brom,2.0,0.5,59,,Declan Rice,4-2-3-1,4-4-1-1,Graham Scott
+133,2021-01-26,18:00 ,20,Tue,Away,W,3,2,Crystal Palace,2.8,0.7,46,,Declan Rice,4-2-3-1,4-4-2,Stuart Attwell
+134,2021-01-31,16:30 ,21,Sun,Home,L,1,3,Liverpool,0.8,2.0,33,,Declan Rice,4-2-3-1,4-3-1-2,Jonathan Moss
+135,2021-02-03,20:15 ,22,Wed,Away,W,3,1,Aston Villa,1.7,0.7,44,,Declan Rice,4-2-3-1,4-2-3-1,Andy Madley
+136,2021-02-06,17:30 ,23,Sat,Away,D,0,0,Fulham,1.0,1.5,40,,Declan Rice,4-2-3-1,4-2-3-1,Mike Dean
+137,2021-02-15,18:00 ,24,Mon,Home,W,3,0,Sheffield Utd,1.9,0.7,46,,Declan Rice,3-4-3,3-5-2,Simon Hooper
+138,2021-02-21,12:00 ,25,Sun,Home,W,2,1,Tottenham,1.1,1.1,32,,Declan Rice,4-2-3-1,4-2-3-1,Craig Pawson
+139,2021-02-27,12:30 ,26,Sat,Away,L,1,2,Manchester City,1.5,0.5,37,,Declan Rice,3-4-3,4-3-3,Michael Oliver
+140,2021-03-08,20:00 ,27,Mon,Home,W,2,0,Leeds United,1.8,1.4,35,,Declan Rice,4-2-3-1,4-1-4-1,Mike Dean
+141,2021-03-14,19:15 ,28,Sun,Away,L,0,1,Manchester Utd,0.6,1.5,39,,Mark Noble,3-1-4-2,4-2-3-1,Martin Atkinson
+142,2021-03-21,15:00 ,29,Sun,Home,D,3,3,Arsenal,2.4,1.4,38,,Declan Rice,4-2-3-1,4-2-3-1,Jonathan Moss
+143,2021-04-05,20:15 ,30,Mon,Away,W,3,2,Wolves,1.3,2.1,35,,Mark Noble,4-2-3-1,4-2-3-1,Michael Oliver
+144,2021-04-11,14:05 ,31,Sun,Home,W,3,2,Leicester City,0.8,0.9,37,,Mark Noble,3-4-1-2,3-5-2,Mike Dean
+145,2021-04-17,12:30 ,32,Sat,Away,L,2,3,Newcastle Utd,1.9,2.2,66,,Mark Noble,3-4-1-2,5-3-2,Kevin Friend
+146,2021-04-24,17:30 ,33,Sat,Home,L,0,1,Chelsea,0.4,2.5,45,,Mark Noble,3-4-1-2,3-4-3,Chris Kavanagh
+147,2021-05-03,20:15 ,34,Mon,Away,W,2,1,Burnley,2.3,2.0,55,,Aaron Cresswell,4-2-3-1,4-4-2,Anthony Taylor
+148,2021-05-09,16:30 ,35,Sun,Home,L,0,1,Everton,1.3,1.5,68,,Aaron Cresswell,4-2-3-1,4-4-2,Stuart Attwell
+149,2021-05-15,20:00 ,36,Sat,Away,D,1,1,Brighton,1.7,0.8,49,,Declan Rice,4-2-3-1,3-4-3,Andre Marriner
+150,2021-05-19,20:15 ,37,Wed,Away,W,3,1,West Brom,3.4,1.1,48,"5,371",Declan Rice,4-2-3-1,4-4-1-1,Michael Oliver
+151,2021-05-23,16:00 ,38,Sun,Home,W,3,0,Southampton,1.3,1.5,38,"10,000",Declan Rice,4-2-3-1,4-4-2,Martin Atkinson
+152,2019-08-10,12:30 ,1,Sat,Home,L,0,5,Manchester City,1.1,3.2,43,"59,870",Aaron Cresswell,4-2-3-1,4-3-3,Mike Dean
+153,2019-08-17,15:00 ,2,Sat,Away,D,1,1,Brighton,0.8,2.0,43,"30,459",Angelo Ogbonna,4-1-4-1,3-4-3,Anthony Taylor
+154,2019-08-24,15:00 ,3,Sat,Away,W,3,1,Watford,3.5,2.3,45,"20,035",Mark Noble,4-2-3-1,4-1-2-1-2,Chris Kavanagh
+155,2019-08-31,15:00 ,4,Sat,Home,W,2,0,Norwich City,2.0,1.4,48,"59,950",Mark Noble,4-1-4-1,4-2-3-1,Paul Tierney
+156,2019-09-16,20:00 ,5,Mon,Away,D,0,0,Aston Villa,0.6,1.3,54,"42,010",Mark Noble,4-1-4-1,4-3-3,Mike Dean
+157,2019-09-22,14:00 ,6,Sun,Home,W,2,0,Manchester Utd,0.4,0.9,47,"59,936",Mark Noble,4-1-4-1,4-2-3-1,Anthony Taylor
+158,2019-09-28,15:00 ,7,Sat,Away,D,2,2,Bournemouth,1.6,1.9,50,"10,729",Mark Noble,4-1-4-1,4-4-2,Stuart Attwell
+159,2019-10-05,17:30 ,8,Sat,Home,L,1,2,Crystal Palace,1.4,2.1,52,"59,912",Mark Noble,4-1-4-1,4-5-1,Michael Oliver
+160,2019-10-19,12:30 ,9,Sat,Away,L,0,2,Everton,0.8,2.1,49,"39,263",Mark Noble,4-1-4-1,4-2-3-1,Paul Tierney
+161,2019-10-26,15:00 ,10,Sat,Home,D,1,1,Sheffield Utd,2.3,1.0,60,"59,878",Mark Noble,4-1-4-1,3-5-2,David Coote
+162,2019-11-02,15:00 ,11,Sat,Home,L,2,3,Newcastle Utd,1.8,1.5,70,"59,907",Mark Noble,4-1-4-1,5-4-1,Stuart Attwell
+163,2019-11-09,15:00 ,12,Sat,Away,L,0,3,Burnley,0.5,2.1,59,"20,255",Mark Noble,4-4-1-1,4-4-2,Kevin Friend
+164,2019-11-23,12:30 ,13,Sat,Home,L,2,3,Tottenham,0.7,2.1,48,"59,930",Mark Noble,4-4-1-1,4-2-3-1,Michael Oliver
+165,2019-11-30,15:00 ,14,Sat,Away,W,1,0,Chelsea,0.9,2.3,34,"40,595",Mark Noble,4-4-1-1,4-2-3-1,Jonathan Moss
+166,2019-12-04,19:30 ,15,Wed,Away,L,0,2,Wolves,0.6,1.5,50,"31,217",Mark Noble,4-4-1-1,3-4-3,Andre Marriner
+167,2019-12-09,20:00 ,16,Mon,Home,L,1,3,Arsenal,0.6,1.4,36,"59,936",Mark Noble,4-4-1-1,4-2-3-1,Mike Dean
+168,2019-12-14,17:30 ,17,Sat,Away,W,1,0,Southampton,0.9,0.9,43,"27,701",Mark Noble,4-4-2,4-4-2,Martin Atkinson
+169,2019-12-26,15:00 ,19,Thu,Away,L,1,2,Crystal Palace,0.9,2.7,42,"25,462",Mark Noble,4-4-2,4-5-1,Andre Marriner
+170,2019-12-28,17:30 ,20,Sat,Home,L,1,2,Leicester City,1.0,2.5,43,"59,919",Declan Rice,4-2-3-1,4-4-1-1,David Coote
+171,2020-01-01,17:30 ,21,Wed,Home,W,4,0,Bournemouth,2.4,0.6,43,"59,917",Mark Noble,4-4-1-1,4-3-3,Graham Scott
+172,2020-01-10,20:00 ,22,Fri,Away,L,0,1,Sheffield Utd,0.7,1.4,53,"30,124",Mark Noble,3-4-3,3-5-2,Michael Oliver
+173,2020-01-18,15:00 ,23,Sat,Home,D,1,1,Everton,1.3,1.7,50,"59,915",Mark Noble,4-4-1-1,4-4-2,Andre Marriner
+174,2020-01-22,19:30 ,24,Wed,Away,L,1,4,Leicester City,1.6,2.8,33,"31,968",Mark Noble,5-3-2,4-1-4-1,David Coote
+175,2020-01-29,19:45 ,18,Wed,Home,L,0,2,Liverpool,0.7,2.8,30,"59,959",Mark Noble,5-4-1,4-3-3,Jonathan Moss
+176,2020-02-01,15:00 ,25,Sat,Home,D,3,3,Brighton,0.8,1.9,35,"59,952",Mark Noble,4-1-4-1,4-2-3-1,Michael Oliver
+177,2020-02-19,19:30 ,26,Wed,Away,L,0,2,Manchester City,0.1,2.1,23,"52,159",Mark Noble,5-3-2,4-3-3,Kevin Friend
+178,2020-02-24,20:00 ,27,Mon,Away,L,2,3,Liverpool,0.7,2.4,31,"53,313",Mark Noble,4-2-3-1,4-3-3,Jonathan Moss
+179,2020-02-29,15:00 ,28,Sat,Home,W,3,1,Southampton,2.3,0.7,35,"59,962",Mark Noble,4-4-2,4-4-2,Anthony Taylor
+180,2020-03-07,15:00 ,29,Sat,Away,L,0,1,Arsenal,1.5,1.2,32,"60,335",Mark Noble,4-4-2,4-2-3-1,Martin Atkinson
+181,2020-06-20,17:30 ,30,Sat,Home,L,0,2,Wolves,0.5,1.0,42,,Mark Noble,4-2-3-1,3-5-2,Anthony Taylor
+182,2020-06-23,20:15 ,31,Tue,Away,L,0,2,Tottenham,1.2,2.3,36,,Mark Noble,4-2-3-1,4-2-3-1,Craig Pawson
+183,2020-07-01,20:15 ,32,Wed,Home,W,3,2,Chelsea,2.2,1.6,29,,Declan Rice,4-2-3-1,4-3-3,Martin Atkinson
+184,2020-07-05,14:15 ,33,Sun,Away,D,2,2,Newcastle Utd,2.1,1.4,43,,Declan Rice,4-2-3-1,4-2-3-1,Craig Pawson
+185,2020-07-08,18:00 ,34,Wed,Home,L,0,1,Burnley,1.6,0.9,53,,Declan Rice,4-2-3-1,4-4-2,Michael Oliver
+186,2020-07-11,12:30 ,35,Sat,Away,W,4,0,Norwich City,3.5,0.6,47,,Mark Noble,4-2-3-1,4-2-3-1,Kevin Friend
+187,2020-07-17,20:00 ,36,Fri,Home,W,3,1,Watford,0.9,1.5,41,,Mark Noble,4-2-3-1,4-2-3-1,Martin Atkinson
+188,2020-07-22,18:00 ,37,Wed,Away,D,1,1,Manchester Utd,1.5,0.6,43,,Mark Noble,4-2-3-1,4-2-3-1,Paul Tierney
+189,2020-07-26,16:00 ,38,Sun,Home,D,1,1,Aston Villa,0.9,1.0,62,,Mark Noble,4-2-3-1,4-1-4-1,Michael Oliver
+190,2018-08-12,13:30 ,1,Sun,Away,L,0,4,Liverpool,0.7,4.0,36,"53,235",Mark Noble,4-2-3-1,4-3-3,Anthony Taylor
+191,2018-08-18,15:00 ,2,Sat,Home,L,1,2,Bournemouth,1.2,1.3,61,"56,888",Mark Noble,4-4-2,4-4-2,Stuart Attwell
+192,2018-08-25,15:00 ,3,Sat,Away,L,1,3,Arsenal,1.1,1.8,39,"59,830",Marko Arnautović,4-4-1-1,4-2-3-1,Graham Scott
+193,2018-09-01,15:00 ,4,Sat,Home,L,0,1,Wolves,1.1,1.0,48,"56,947",Marko Arnautović,4-2-3-1,3-4-3,Chris Kavanagh
+194,2018-09-16,16:00 ,5,Sun,Away,W,3,1,Everton,1.2,1.4,44,"39,161",Mark Noble,4-1-4-1,4-2-3-1,Martin Atkinson
+195,2018-09-23,13:30 ,6,Sun,Home,D,0,0,Chelsea,1.0,1.5,29,"56,875",Mark Noble,4-3-3,4-3-3,Mike Dean
+196,2018-09-29,12:30 ,7,Sat,Home,W,3,1,Manchester Utd,1.4,0.7,48,"56,938",Mark Noble,4-1-4-1,5-3-2,Michael Oliver
+197,2018-10-05,20:00 ,8,Fri,Away,L,0,1,Brighton,1.4,1.2,64,"30,544",Mark Noble,4-1-4-1,4-4-1-1,Kevin Friend
+198,2018-10-20,15:00 ,9,Sat,Home,L,0,1,Tottenham,0.8,0.9,44,"56,921",Mark Noble,4-1-4-1,4-3-2-1,Martin Atkinson
+199,2018-10-27,17:30 ,10,Sat,Away,D,1,1,Leicester City,1.4,1.7,36,"31,848",Mark Noble,4-1-4-1,4-2-3-1,Michael Oliver
+200,2018-11-03,15:00 ,11,Sat,Home,W,4,2,Burnley,2.4,1.1,63,"56,862",Pablo Zabaleta,4-1-4-1,4-4-1-1,Roger East
+201,2018-11-10,15:00 ,12,Sat,Away,D,1,1,Huddersfield,1.7,1.1,56,"24,069",Pablo Zabaleta,4-1-4-1,3-5-1-1,Chris Kavanagh
+202,2018-11-24,15:00 ,13,Sat,Home,L,0,4,Manchester City,0.9,2.7,31,"56,886",Pablo Zabaleta,4-2-3-1,4-3-3,Andre Marriner
+203,2018-12-01,15:00 ,14,Sat,Away,W,3,0,Newcastle Utd,2.5,1.0,41,"51,853",Mark Noble,4-4-2,4-4-1-1,Paul Tierney
+204,2018-12-04,19:45 ,15,Tue,Home,W,3,1,Cardiff City,1.7,2.1,60,"56,811",Mark Noble,4-4-2,4-1-4-1,Graham Scott
+205,2018-12-08,15:00 ,16,Sat,Home,W,3,2,Crystal Palace,1.2,0.7,49,"56,995",Mark Noble,4-4-2,4-4-2,Anthony Taylor
+206,2018-12-15,17:30 ,17,Sat,Away,W,2,0,Fulham,0.8,1.3,44,"24,081",Mark Noble,4-4-2,4-4-2,Mike Dean
+207,2018-12-22,15:00 ,18,Sat,Home,L,0,2,Watford,2.0,2.3,52,"56,833",Mark Noble,4-4-2,4-2-2-2,Lee Mason
+208,2018-12-27,19:45 ,19,Thu,Away,W,2,1,Southampton,1.2,1.2,54,"31,654",Aaron Cresswell,4-2-3-1,3-4-3,Craig Pawson
+209,2018-12-30,14:15 ,20,Sun,Away,L,0,2,Burnley,0.8,2.7,57,"20,933",Mark Noble,4-4-2,4-4-2,David Coote
+210,2019-01-02,19:45 ,21,Wed,Home,D,2,2,Brighton,0.8,0.7,55,"59,870",Pablo Zabaleta,4-4-2,4-5-1,Chris Kavanagh
+211,2019-01-12,12:30 ,22,Sat,Home,W,1,0,Arsenal,0.6,0.7,42,"59,946",Mark Noble,4-2-3-1,3-4-3,Jonathan Moss
+212,2019-01-19,15:00 ,23,Sat,Away,L,0,2,Bournemouth,1.1,1.1,61,"10,495",Mark Noble,4-2-3-1,4-4-2,Simon Hooper
+213,2019-01-29,19:45 ,24,Tue,Away,L,0,3,Wolves,0.2,2.2,45,"31,122",Mark Noble,4-4-2,3-5-2,David Coote
+214,2019-02-04,20:00 ,25,Mon,Home,D,1,1,Liverpool,0.8,1.1,27,"59,903",Mark Noble,4-1-4-1,4-3-3,Kevin Friend
+215,2019-02-09,15:00 ,26,Sat,Away,D,1,1,Crystal Palace,1.7,2.6,42,"25,552",Mark Noble,4-1-4-1,4-3-3,Craig Pawson
+216,2019-02-22,19:45 ,27,Fri,Home,W,3,1,Fulham,2.4,1.3,55,"59,950",Mark Noble,4-1-4-1,4-4-1-1,Lee Mason
+217,2019-02-27,20:00 ,28,Wed,Away,L,0,1,Manchester City,0.4,3.5,25,"53,528",Andy Carroll,4-2-3-1,4-3-3,Stuart Attwell
+218,2019-03-02,17:30 ,29,Sat,Home,W,2,0,Newcastle Utd,2.0,1.1,56,"59,910",Mark Noble,4-1-4-1,5-4-1,Chris Kavanagh
+219,2019-03-09,15:00 ,30,Sat,Away,L,0,2,Cardiff City,0.3,3.5,70,"32,458",Mark Noble,4-1-4-1,4-2-3-1,Graham Scott
+220,2019-03-16,15:00 ,31,Sat,Home,W,4,3,Huddersfield,1.7,1.0,64,"59,931",Mark Noble,4-1-4-1,4-2-3-1,Jonathan Moss
+221,2019-03-30,17:30 ,32,Sat,Home,L,0,2,Everton,0.1,1.8,49,"59,988",Aaron Cresswell,4-4-2,4-2-3-1,Paul Tierney
+222,2019-04-08,20:00 ,33,Mon,Away,L,0,2,Chelsea,0.6,1.9,47,"40,537",Mark Noble,4-2-3-1,4-3-3,Chris Kavanagh
+223,2019-04-13,17:30 ,34,Sat,Away,L,1,2,Manchester Utd,1.4,2.5,57,"74,478",Mark Noble,4-1-4-1,4-2-3-1,Graham Scott
+224,2019-04-20,15:00 ,35,Sat,Home,D,2,2,Leicester City,1.2,0.9,49,"59,960",Mark Noble,4-1-4-1,4-4-1-1,Lee Probert
+225,2019-04-27,12:30 ,36,Sat,Away,W,1,0,Tottenham,1.1,1.6,38,"60,043",Mark Noble,4-1-4-1,4-1-2-1-2,Anthony Taylor
+226,2019-05-04,15:00 ,37,Sat,Home,W,3,0,Southampton,1.9,0.5,56,"59,961",Mark Noble,4-1-4-1,4-4-2,Stuart Attwell
+227,2019-05-12,15:00 ,38,Sun,Away,W,4,1,Watford,3.1,2.2,51,"20,067",Mark Noble,4-1-4-1,4-2-2-2,Chris Kavanagh
+228,2017-08-13,16:00 ,1,Sun,Away,L,0,4,Manchester Utd,0.5,2.1,45,"74,928",Mark Noble,4-2-3-1,4-2-3-1,Martin Atkinson
+229,2017-08-19,15:00 ,2,Sat,Away,L,2,3,Southampton,2.0,2.1,34,"31,424",Mark Noble,4-2-3-1,4-2-3-1,Lee Mason
+230,2017-08-26,15:00 ,3,Sat,Away,L,0,3,Newcastle Utd,0.6,2.3,63,"52,093",Mark Noble,4-2-3-1,4-2-3-1,Niel Swarbrick
+231,2017-09-11,20:00 ,4,Mon,Home,W,2,0,Huddersfield,1.7,0.4,44,"56,977",Winston Reid,3-4-3,4-2-3-1,Kevin Friend
+232,2017-09-16,15:00 ,5,Sat,Away,D,0,0,West Brom,0.3,0.7,63,"24,942",Winston Reid,3-4-3,4-2-3-1,Paul Tierney
+233,2017-09-23,12:30 ,6,Sat,Home,L,2,3,Tottenham,0.6,1.2,49,"56,988",Mark Noble,3-4-3,3-5-1-1,Michael Oliver
+234,2017-09-30,15:00 ,7,Sat,Home,W,1,0,Swansea City,0.7,0.2,44,"56,922",Mark Noble,4-4-2,4-3-1-2,Roger East
+235,2017-10-14,15:00 ,8,Sat,Away,D,1,1,Burnley,0.9,1.2,38,"20,945",Winston Reid,4-4-2,4-4-1-1,Stuart Attwell
+236,2017-10-20,20:00 ,9,Fri,Home,L,0,3,Brighton,0.7,1.4,65,"56,977",Winston Reid,4-2-3-1,4-4-2,Martin Atkinson
+237,2017-10-28,15:00 ,10,Sat,Away,D,2,2,Crystal Palace,0.8,2.6,45,"25,242",Mark Noble,3-5-2,4-4-2,Robert Madley
+238,2017-11-04,17:30 ,11,Sat,Home,L,1,4,Liverpool,1.2,2.7,48,"56,961",Mark Noble,3-4-3,4-2-2-2,Niel Swarbrick
+239,2017-11-19,16:00 ,12,Sun,Away,L,0,2,Watford,1.6,1.0,42,"20,018",Mark Noble,4-3-3,3-4-3,Andre Marriner
+240,2017-11-24,20:00 ,13,Fri,Home,D,1,1,Leicester City,0.9,0.4,50,"56,897",Winston Reid,4-2-3-1,4-4-1-1,Martin Atkinson
+241,2017-11-29,20:00 ,14,Wed,Away,L,0,4,Everton,1.1,1.5,56,"38,242",Winston Reid,4-1-4-1,4-1-4-1,Michael Oliver
+242,2017-12-03,16:00 ,15,Sun,Away,L,1,2,Manchester City,0.6,2.3,24,"54,203",Pablo Zabaleta,3-5-1-1,4-3-3,Mike Dean
+243,2017-12-09,12:30 ,16,Sat,Home,W,1,0,Chelsea,0.3,1.2,31,"56,953",Mark Noble,3-4-3,3-5-1-1,Anthony Taylor
+244,2017-12-13,20:00 ,17,Wed,Home,D,0,0,Arsenal,0.4,1.0,31,"56,921",Mark Noble,5-3-2,4-3-3,Jonathan Moss
+245,2017-12-16,16:00 ,18,Sat,Away,W,3,0,Stoke City,3.1,1.1,46,"29,265",Mark Noble,3-4-1-2,4-4-2,Graham Scott
+246,2017-12-23,15:00 ,19,Sat,Home,L,2,3,Newcastle Utd,2.1,1.7,64,"56,955",Winston Reid,3-4-3,4-4-2,Lee Mason
+247,2017-12-26,15:00 ,20,Tue,Away,D,3,3,Bournemouth,1.7,2.9,45,"10,596",James Collins,3-4-3,4-4-1-1,Stuart Attwell
+248,2018-01-02,19:45 ,22,Tue,Home,W,2,1,West Brom,1.3,1.0,53,"56,888",Winston Reid,3-4-3,4-2-3-1,Mike Jones
+249,2018-01-04,20:00 ,21,Thu,Away,D,1,1,Tottenham,0.5,1.8,30,"50,034",Mark Noble,3-5-1-1,4-2-3-1,Mike Dean
+250,2018-01-13,15:00 ,23,Sat,Away,W,4,1,Huddersfield,0.9,0.7,37,"24,105",Mark Noble,3-5-1-1,4-2-3-1,Jonathan Moss
+251,2018-01-20,15:00 ,24,Sat,Home,D,1,1,Bournemouth,0.8,0.5,48,"56,948",Mark Noble,3-5-1-1,3-4-3,Martin Atkinson
+252,2018-01-30,19:45 ,25,Tue,Home,D,1,1,Crystal Palace,1.1,0.9,41,"56,911",Mark Noble,3-4-3,4-4-2,Niel Swarbrick
+253,2018-02-03,15:00 ,26,Sat,Away,L,1,3,Brighton,0.4,1.7,45,"30,589",Mark Noble,3-4-3,4-4-1-1,Roger East
+254,2018-02-10,15:00 ,27,Sat,Home,W,2,0,Watford,1.5,0.6,37,"56,197",Mark Noble,3-4-3,3-4-3,Graham Scott
+255,2018-02-24,15:00 ,28,Sat,Away,L,1,4,Liverpool,0.4,4.0,33,"53,256",Mark Noble,3-4-3,4-3-3,Stuart Attwell
+256,2018-03-03,15:00 ,29,Sat,Away,L,1,4,Swansea City,0.4,1.8,54,"20,829",Mark Noble,3-4-3,5-4-1,Martin Atkinson
+257,2018-03-10,15:00 ,30,Sat,Home,L,0,3,Burnley,0.8,1.4,52,"56,904",Mark Noble,3-4-3,4-4-1-1,Lee Mason
+258,2018-03-31,15:00 ,32,Sat,Home,W,3,0,Southampton,1.4,0.5,49,"56,882",Mark Noble,3-4-3,4-4-2,Jonathan Moss
+259,2018-04-08,16:30 ,33,Sun,Away,D,1,1,Chelsea,0.3,1.7,41,"41,324",Mark Noble,3-4-3,3-4-3,Kevin Friend
+260,2018-04-16,20:00 ,34,Mon,Home,D,1,1,Stoke City,0.8,1.7,63,"56,795",Mark Noble,3-4-3,4-4-1-1,Michael Oliver
+261,2018-04-22,13:30 ,35,Sun,Away,L,1,4,Arsenal,0.8,1.8,33,"59,422",Mark Noble,3-4-3,4-3-3,Lee Mason
+262,2018-04-29,14:15 ,36,Sun,Home,L,1,4,Manchester City,0.2,2.4,26,"56,904",Mark Noble,3-5-1-1,4-3-3,Niel Swarbrick
+263,2018-05-05,15:00 ,37,Sat,Away,W,2,0,Leicester City,1.6,0.5,47,"32,013",Mark Noble,3-4-3,4-4-1-1,Chris Kavanagh
+264,2018-05-10,19:45 ,31,Thu,Home,D,0,0,Manchester Utd,0.6,0.8,44,"56,902",Mark Noble,3-4-3,5-3-2,Jonathan Moss
+265,2018-05-13,15:00 ,38,Sun,Home,W,3,1,Everton,1.1,1.6,57,"56,926",Mark Noble,3-4-3,3-1-4-2,Graham Scott

@@ -1,0 +1,267 @@
+,Date,Time,Matchweek,Day,Venue,Result,Goals Scored,Goals Conceded,Opponent,xG,xGA,Possession,Attendance,Captain,Formation,Opposition Formation,Referee
+0,2023-08-14,20:00 ,1,Mon,Home,W,1,0,Wolves,2.2,2.2,51,"73,358",Bruno Fernandes,4-1-4-1,4-4-2,Simon Hooper
+1,2023-08-19,17:30 ,2,Sat,Away,L,0,2,Tottenham,2.1,1.7,45,"61,910",Bruno Fernandes,4-2-3-1,4-2-3-1,Michael Oliver
+2,2023-08-26,15:00 ,3,Sat,Home,W,3,2,Nott'ham Forest,2.8,1.2,66,"73,595",Bruno Fernandes,4-2-3-1,3-4-3,Stuart Attwell
+3,2023-09-03,16:30 ,4,Sun,Away,L,1,3,Arsenal,0.9,2.3,45,"60,192",Bruno Fernandes,4-2-3-1,4-3-3,Anthony Taylor
+4,2023-09-16,15:00 ,5,Sat,Home,L,1,3,Brighton,1.0,1.7,44,"73,592",Bruno Fernandes,4-1-2-1-2◆,4-2-3-1,Jarred Gillett
+5,2023-09-23,20:00 ,6,Sat,Away,W,1,0,Burnley,1.0,1.1,39,"21,593",Bruno Fernandes,4-2-3-1,4-3-3,Tony Harrington
+6,2023-09-30,15:00 ,7,Sat,Home,L,0,1,Crystal Palace,1.3,0.9,77,"73,428",Bruno Fernandes,4-2-3-1,4-3-3,Chris Kavanagh
+7,2023-10-07,15:00 ,8,Sat,Home,W,2,1,Brentford,1.4,0.9,64,"73,453",Bruno Fernandes,4-2-3-1,3-5-2,Andy Madley
+8,2023-10-21,20:00 ,9,Sat,Away,W,2,1,Sheffield Utd,1.1,1.4,62,"31,543",Bruno Fernandes,4-2-3-1,4-4-2,Michael Oliver
+9,2023-10-29,15:30 ,10,Sun,Home,L,0,3,Manchester City,0.9,4.0,40,"73,502",Bruno Fernandes,4-2-3-1,4-2-3-1,Paul Tierney
+10,2023-11-04,12:30 ,11,Sat,Away,W,1,0,Fulham,0.7,1.0,55,"24,415",Bruno Fernandes,4-2-3-1,4-2-3-1,John Brooks
+11,2023-11-11,15:00 ,12,Sat,Home,W,1,0,Luton Town,2.2,0.4,64,"73,599",Bruno Fernandes,4-2-3-1,3-4-3,Graham Scott
+12,2023-11-26,16:30 ,13,Sun,Away,W,3,0,Everton,2.2,2.4,49,"39,257",Bruno Fernandes,4-2-3-1,4-4-1-1,John Brooks
+13,2023-12-02,20:00 ,14,Sat,Away,L,0,1,Newcastle Utd,0.5,2.4,42,"52,214",Bruno Fernandes,4-2-3-1,4-3-3,Robert Jones
+14,2023-12-06,20:15 ,15,Wed,Home,W,2,1,Chelsea,4.1,1.5,45,"73,607",Bruno Fernandes,4-2-3-1,4-2-3-1,Chris Kavanagh
+15,2023-12-09,15:00 ,16,Sat,Home,L,0,3,Bournemouth,1.1,1.5,68,"73,427",Bruno Fernandes,4-2-3-1,4-2-3-1,Peter Bankes
+16,2023-12-17,16:30 ,17,Sun,Away,D,0,0,Liverpool,0.8,2.3,32,"57,158",Scott McTominay,4-2-3-1,4-3-3,Michael Oliver
+17,2023-12-23,12:30 ,18,Sat,Away,L,0,2,West Ham,1.0,1.2,65,"64,472",Bruno Fernandes,4-2-3-1,4-2-3-1,Simon Hooper
+18,2023-12-26,20:00 ,19,Tue,Home,W,3,2,Aston Villa,1.1,1.7,46,"73,574",Bruno Fernandes,4-2-3-1,4-2-3-1,Craig Pawson
+19,2023-12-30,17:30 ,20,Sat,Away,L,1,2,Nott'ham Forest,0.8,0.7,56,"29,529",Bruno Fernandes,4-2-3-1,4-2-3-1,Tim Robinson
+20,2024-01-14,16:30 ,21,Sun,Home,D,2,2,Tottenham,0.8,1.2,37,"73,489",Bruno Fernandes,4-2-3-1,4-3-3,John Brooks
+21,2024-02-01,20:15 ,22,Thu,Away,W,4,3,Wolves,3.3,2.1,47,"31,641",Bruno Fernandes,4-2-3-1,3-4-3,Jarred Gillett
+22,2024-02-04,14:00 ,23,Sun,Home,W,3,0,West Ham,0.7,1.4,51,"73,612",Bruno Fernandes,4-2-3-1,4-2-3-1,Andy Madley
+23,2024-02-11,16:30 ,24,Sun,Away,W,2,1,Aston Villa,1.8,2.4,44,"42,185",Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones
+24,2024-02-18,16:30 ,25,Sun,Away,W,2,1,Luton Town,2.9,1.8,42,"11,483",Bruno Fernandes,4-2-3-1,3-4-3,David Coote
+25,2024-02-24,15:00 ,26,Sat,Home,L,1,2,Fulham,1.7,1.2,57,"73,487",Bruno Fernandes,4-2-3-1,4-2-3-1,Michael Oliver
+26,2024-03-03,15:30 ,27,Sun,Away,L,1,3,Manchester City,0.2,3.3,27,"53,514",Bruno Fernandes,4-2-4-0,3-2-4-1,Andy Madley
+27,2024-03-09,12:30 ,28,Sat,Home,W,2,0,Everton,2.7,1.6,51,"73,601",Bruno Fernandes,4-2-4-0,4-4-1-1,Simon Hooper
+28,2024-03-30,20:00 ,30,Sat,Away,D,1,1,Brentford,0.6,3.2,53,"17,138",Bruno Fernandes,4-2-3-1,3-5-2,Simon Hooper
+29,2024-04-04,20:15 ,31,Thu,Away,L,3,4,Chelsea,1.5,3.0,43,"39,694",Bruno Fernandes,4-2-3-1,4-2-3-1,Jarred Gillett
+30,2024-04-07,15:30 ,32,Sun,Home,D,2,2,Liverpool,0.7,3.6,38,"73,501",Bruno Fernandes,4-2-3-1,4-3-3,Anthony Taylor
+31,2024-04-13,17:30 ,33,Sat,Away,D,2,2,Bournemouth,1.2,1.6,57,"11,229",Bruno Fernandes,4-2-3-1,4-2-3-1,Tony Harrington
+32,2024-04-24,20:00 ,29,Wed,Home,W,4,2,Sheffield Utd,2.9,0.8,71,"73,549",Bruno Fernandes,4-2-3-1,3-5-2,Michael Salisbury
+33,2024-04-27,15:00 ,35,Sat,Home,D,1,1,Burnley,2.7,2.1,48,"73,571",Bruno Fernandes,4-2-3-1,4-4-2,John Brooks
+34,2024-05-06,20:00 ,36,Mon,Away,L,0,4,Crystal Palace,0.4,1.7,57,"25,190",Casemiro,4-2-3-1,3-4-3,Jarred Gillett
+35,2024-05-12,16:30 ,37,Sun,Home,L,0,1,Arsenal,0.5,1.5,54,"73,600",Scott McTominay,4-2-3-1,4-3-3,Paul Tierney
+36,2024-05-15,20:00 ,34,Wed,Home,W,3,2,Newcastle Utd,1.5,2.2,45,"73,582",Bruno Fernandes,4-2-2-2,4-3-3,Robert Jones
+37,2024-05-19,16:00 ,38,Sun,Away,W,2,0,Brighton,1.3,1.7,45,"31,662",Bruno Fernandes,4-2-2-2,4-2-3-1,Craig Pawson
+38,2022-08-07,14:00 ,1,Sun,Home,L,1,2,Brighton,1.4,1.5,62,"73,711",Harry Maguire,4-3-3,3-3-3-1,Paul Tierney
+39,2022-08-13,17:30 ,2,Sat,Away,L,0,4,Brentford,0.9,1.6,66,"17,051",Harry Maguire,4-2-3-1,5-3-2,Stuart Attwell
+40,2022-08-22,20:00 ,3,Mon,Home,W,2,1,Liverpool,1.8,1.3,30,"74,147",Bruno Fernandes,4-2-3-1,4-3-3,Michael Oliver
+41,2022-08-27,12:30 ,4,Sat,Away,W,1,0,Southampton,1.1,1.4,51,"31,196",Bruno Fernandes,4-2-3-1,4-2-3-1,Andy Madley
+42,2022-09-01,20:00 ,5,Thu,Away,W,1,0,Leicester City,1.5,0.7,47,"32,226",Bruno Fernandes,4-2-3-1,4-1-4-1,Craig Pawson
+43,2022-09-04,16:30 ,6,Sun,Home,W,3,1,Arsenal,1.5,1.3,40,"73,431",Bruno Fernandes,4-2-3-1,4-3-3,Paul Tierney
+44,2022-10-02,14:00 ,9,Sun,Away,L,3,6,Manchester City,1.7,3.2,47,"53,475",Bruno Fernandes,4-2-3-1,4-3-3,Michael Oliver
+45,2022-10-09,19:00 ,10,Sun,Away,W,2,1,Everton,1.4,0.6,60,"39,258",Bruno Fernandes,4-2-3-1,4-3-3,David Coote
+46,2022-10-16,14:00 ,11,Sun,Home,D,0,0,Newcastle Utd,0.8,0.8,63,"73,726",Bruno Fernandes,4-2-3-1,4-3-3,Craig Pawson
+47,2022-10-19,20:15 ,12,Wed,Home,W,2,0,Tottenham,1.5,0.6,52,"73,677",Bruno Fernandes,4-2-3-1,3-5-2,Simon Hooper
+48,2022-10-22,17:30 ,13,Sat,Away,D,1,1,Chelsea,0.8,1.1,52,"39,503",Bruno Fernandes,4-1-4-1,3-4-3,Stuart Attwell
+49,2022-10-30,16:15 ,14,Sun,Home,W,1,0,West Ham,1.2,1.1,53,"73,682",Harry Maguire,4-2-3-1,4-2-3-1,Chris Kavanagh
+50,2022-11-06,14:00 ,15,Sun,Away,L,1,3,Aston Villa,0.5,0.6,58,"42,058",Cristiano Ronaldo,4-2-3-1,4-2-2-2,Anthony Taylor
+51,2022-11-13,16:30 ,16,Sun,Away,W,2,1,Fulham,2.5,1.4,47,"24,246",Bruno Fernandes,4-2-3-1,4-2-3-1,Paul Tierney
+52,2022-12-27,20:00 ,17,Tue,Home,W,3,0,Nott'ham Forest,2.4,0.7,65,"73,608",Bruno Fernandes,4-2-3-1,4-3-3,Anthony Taylor
+53,2022-12-31,12:30 ,18,Sat,Away,W,1,0,Wolves,2.0,0.7,54,"31,658",Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones
+54,2023-01-03,20:00 ,19,Tue,Home,W,3,0,Bournemouth,2.2,0.6,58,"73,322",Harry Maguire,4-2-3-1,4-4-2,Michael Salisbury
+55,2023-01-14,12:30 ,20,Sat,Home,W,2,1,Manchester City,1.7,0.6,30,"75,546",Bruno Fernandes,4-2-3-1,4-3-3,Stuart Attwell
+56,2023-01-18,20:00 ,7,Wed,Away,D,1,1,Crystal Palace,2.1,0.5,60,"23,343",Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones
+57,2023-01-22,16:30 ,21,Sun,Away,L,2,3,Arsenal,0.4,3.1,43,"60,325",Bruno Fernandes,4-2-3-1,4-3-3,Anthony Taylor
+58,2023-02-04,15:00 ,22,Sat,Home,W,2,1,Crystal Palace,2.0,1.3,52,"73,420",Bruno Fernandes,4-2-3-1,4-2-3-1,Andre Marriner
+59,2023-02-08,20:00 ,8,Wed,Home,D,2,2,Leeds United,2.0,0.6,66,"73,456",Bruno Fernandes,4-2-3-1,4-2-3-1,Simon Hooper
+60,2023-02-12,14:00 ,23,Sun,Away,W,2,0,Leeds United,1.1,1.8,66,"36,919",Harry Maguire,4-2-3-1,4-2-3-1,Paul Tierney
+61,2023-02-19,14:00 ,24,Sun,Home,W,3,0,Leicester City,4.4,1.6,57,"73,578",Bruno Fernandes,4-2-3-1,4-2-3-1,Stuart Attwell
+62,2023-03-05,16:30 ,26,Sun,Away,L,0,7,Liverpool,0.8,2.8,41,"53,001",Bruno Fernandes,4-2-3-1,4-3-3,Andy Madley
+63,2023-03-12,14:00 ,27,Sun,Home,D,0,0,Southampton,0.8,1.0,47,"73,439",Bruno Fernandes,4-1-4-1,4-2-3-1,Anthony Taylor
+64,2023-04-02,16:30 ,29,Sun,Away,L,0,2,Newcastle Utd,0.4,3.7,54,"52,268",Bruno Fernandes,4-2-3-1,4-3-3,Stuart Attwell
+65,2023-04-05,20:00 ,25,Wed,Home,W,1,0,Brentford,1.2,0.7,64,"73,309",Bruno Fernandes,4-2-3-1,5-3-2,John Brooks
+66,2023-04-08,12:30 ,30,Sat,Home,W,2,0,Everton,3.4,1.0,63,"73,509",Harry Maguire,4-2-3-1,4-4-2,Michael Oliver
+67,2023-04-16,16:30 ,31,Sun,Away,W,2,0,Nott'ham Forest,3.5,0.7,68,"29,435",Harry Maguire,4-2-3-1,3-4-1-2,Simon Hooper
+68,2023-04-27,20:15 ,33,Thu,Away,D,2,2,Tottenham,2.0,2.5,60,"61,586",Bruno Fernandes,4-2-3-1,3-4-3,Anthony Taylor
+69,2023-04-30,14:00 ,34,Sun,Home,W,1,0,Aston Villa,1.2,0.6,57,"73,592",Bruno Fernandes,4-1-4-1,4-2-3-1,Jarred Gillett
+70,2023-05-04,20:00 ,28,Thu,Away,L,0,1,Brighton,1.4,2.3,41,"31,577",Bruno Fernandes,4-3-3,4-2-3-1,Andre Marriner
+71,2023-05-07,19:00 ,35,Sun,Away,L,0,1,West Ham,1.2,1.3,65,"62,477",Bruno Fernandes,4-2-3-1,4-2-3-1,Peter Bankes
+72,2023-05-13,15:00 ,36,Sat,Home,W,2,0,Wolves,3.2,0.3,48,"73,570",Bruno Fernandes,4-2-3-1,4-4-2,John Brooks
+73,2023-05-20,15:00 ,37,Sat,Away,W,1,0,Bournemouth,1.4,1.0,59,"10,240",Bruno Fernandes,4-2-3-1,4-2-3-1,Chris Kavanagh
+74,2023-05-25,20:00 ,32,Thu,Home,W,4,1,Chelsea,5.2,1.9,42,"73,561",Bruno Fernandes,4-2-3-1,4-3-3,Stuart Attwell
+75,2023-05-28,16:30 ,38,Sun,Home,W,2,1,Fulham,2.9,1.8,53,"73,465",Harry Maguire,4-2-3-1,4-2-3-1,Robert Jones
+76,2021-08-14,12:30 ,1,Sat,Home,W,5,1,Leeds United,1.5,0.5,49,"72,732",Harry Maguire,4-2-3-1,4-1-4-1,Paul Tierney
+77,2021-08-22,14:00 ,2,Sun,Away,D,1,1,Southampton,1.8,0.7,63,"32,000",Harry Maguire,4-2-3-1,4-4-2,Craig Pawson
+78,2021-08-29,16:30 ,3,Sun,Away,W,1,0,Wolves,0.6,2.1,56,"30,621",Harry Maguire,4-2-3-1,3-4-3,Mike Dean
+79,2021-09-11,15:00 ,4,Sat,Home,W,4,1,Newcastle Utd,2.5,0.4,63,"72,732",Harry Maguire,4-2-3-1,5-4-1,Anthony Taylor
+80,2021-09-19,14:00 ,5,Sun,Away,W,2,1,West Ham,2.0,1.6,60,"60,000",Harry Maguire,4-2-3-1,4-4-2,Martin Atkinson
+81,2021-09-25,12:30 ,6,Sat,Home,L,0,1,Aston Villa,2.2,1.0,59,"72,922",Harry Maguire,4-2-3-1,3-5-2,Mike Dean
+82,2021-10-02,12:30 ,7,Sat,Home,D,1,1,Everton,1.0,1.3,72,"73,128",Bruno Fernandes,4-2-3-1,4-4-1-1,Michael Oliver
+83,2021-10-16,15:00 ,8,Sat,Away,L,2,4,Leicester City,1.2,2.4,51,"32,219",Harry Maguire,4-2-3-1,3-4-1-2,Craig Pawson
+84,2021-10-24,16:30 ,9,Sun,Home,L,0,5,Liverpool,1.6,3.4,38,"73,088",Harry Maguire,4-2-3-1,4-3-3,Anthony Taylor
+85,2021-10-30,17:30 ,10,Sat,Away,W,3,0,Tottenham,1.5,1.0,42,"60,356",Harry Maguire,3-5-2,4-2-3-1,Stuart Attwell
+86,2021-11-06,12:30 ,11,Sat,Home,L,0,2,Manchester City,0.9,1.6,33,"73,086",Harry Maguire,3-5-2,4-3-3,Michael Oliver
+87,2021-11-20,15:00 ,12,Sat,Away,L,1,4,Watford,1.4,2.7,61,"21,087",Harry Maguire,4-2-3-1,4-1-4-1,Jonathan Moss
+88,2021-11-28,16:30 ,13,Sun,Away,D,1,1,Chelsea,0.9,2.7,35,"40,041",Bruno Fernandes,4-3-1-2,3-4-3,Anthony Taylor
+89,2021-12-02,20:15 ,14,Thu,Home,W,3,2,Arsenal,1.9,1.4,44,"73,123",Harry Maguire,4-2-3-1,4-4-1-1,Martin Atkinson
+90,2021-12-05,14:00 ,15,Sun,Home,W,1,0,Crystal Palace,0.9,0.5,61,"73,172",Harry Maguire,4-2-2-2,4-3-3,Craig Pawson
+91,2021-12-11,17:30 ,16,Sat,Away,W,1,0,Norwich City,2.0,1.2,52,"27,606",Harry Maguire,4-2-2-2,4-3-3,Darren England
+92,2021-12-27,20:00 ,19,Mon,Away,D,1,1,Newcastle Utd,1.6,1.3,68,"52,178",Harry Maguire,4-2-2-2,4-5-1,Craig Pawson
+93,2021-12-30,20:15 ,20,Thu,Home,W,3,1,Burnley,2.4,1.1,57,"73,121",Harry Maguire,4-2-2-2,4-4-2,Jonathan Moss
+94,2022-01-03,17:30 ,21,Mon,Home,L,0,1,Wolves,0.8,0.7,51,"73,045",Cristiano Ronaldo,4-2-2-2,3-4-3,Mike Dean
+95,2022-01-15,17:30 ,22,Sat,Away,D,2,2,Aston Villa,1.0,1.9,46,"41,968",Bruno Fernandes,4-3-3,4-3-3,David Coote
+96,2022-01-19,20:00 ,17,Wed,Away,W,3,1,Brentford,2.3,2.3,56,"17,094",Bruno Fernandes,4-2-3-1,3-5-2,Andre Marriner
+97,2022-01-22,15:00 ,23,Sat,Home,W,1,0,West Ham,1.9,0.3,57,"73,130",Harry Maguire,4-2-3-1,4-2-3-1,Jonathan Moss
+98,2022-02-08,20:00 ,24,Tue,Away,D,1,1,Burnley,1.8,0.4,63,"21,233",Harry Maguire,4-2-3-1,4-4-2,Mike Dean
+99,2022-02-12,12:30 ,25,Sat,Home,D,1,1,Southampton,2.1,0.8,53,"73,084",Harry Maguire,4-2-3-1,4-4-2,Stuart Attwell
+100,2022-02-15,20:15 ,18,Tue,Home,W,2,0,Brighton,1.7,0.7,50,"73,012",Harry Maguire,4-2-3-1,4-1-2-1-2,Peter Bankes
+101,2022-02-20,14:00 ,26,Sun,Away,W,4,2,Leeds United,2.2,1.8,46,"36,715",Harry Maguire,4-2-3-1,4-2-3-1,Paul Tierney
+102,2022-02-26,15:00 ,27,Sat,Home,D,0,0,Watford,2.8,0.6,67,"73,152",Bruno Fernandes,4-2-3-1,4-3-3,Kevin Friend
+103,2022-03-06,16:30 ,28,Sun,Away,L,1,4,Manchester City,0.5,2.7,31,"53,165",Harry Maguire,4-2-3-1,4-3-3,Michael Oliver
+104,2022-03-12,17:30 ,29,Sat,Home,W,3,2,Tottenham,1.0,1.5,43,"73,458",Harry Maguire,4-2-3-1,3-4-3,Jonathan Moss
+105,2022-04-02,17:30 ,31,Sat,Home,D,1,1,Leicester City,0.9,0.8,54,"73,444",Harry Maguire,4-2-3-1,4-2-3-1,Andre Marriner
+106,2022-04-09,12:30 ,32,Sat,Away,L,0,1,Everton,0.8,0.4,67,"39,080",Harry Maguire,4-2-3-1,4-3-3,Jonathan Moss
+107,2022-04-16,15:00 ,33,Sat,Home,W,3,2,Norwich City,1.9,1.5,61,"73,381",Harry Maguire,4-3-3,4-2-3-1,Andy Madley
+108,2022-04-19,20:00 ,30,Tue,Away,L,0,4,Liverpool,0.1,2.0,29,"52,686",Harry Maguire,3-4-3,4-3-3,Martin Atkinson
+109,2022-04-23,12:30 ,34,Sat,Away,L,1,3,Arsenal,1.8,2.3,46,"60,223",Bruno Fernandes,4-2-3-1,4-2-3-1,Craig Pawson
+110,2022-04-28,19:45 ,37,Thu,Home,D,1,1,Chelsea,0.5,1.9,36,"73,564",Bruno Fernandes,4-2-3-1,3-4-1-2,Mike Dean
+111,2022-05-02,20:00 ,35,Mon,Home,W,3,0,Brentford,2.0,0.6,63,"73,482",Bruno Fernandes,4-2-3-1,5-3-2,Chris Kavanagh
+112,2022-05-07,17:30 ,36,Sat,Away,L,0,4,Brighton,0.9,2.3,58,"31,637",Bruno Fernandes,4-2-3-1,3-4-3,Andy Madley
+113,2022-05-22,16:00 ,38,Sun,Away,L,0,1,Crystal Palace,0.7,0.6,61,"25,434",Harry Maguire,4-2-3-1,4-3-3,Martin Atkinson
+114,2020-09-19,17:30 ,2,Sat,Home,L,1,3,Crystal Palace,1.2,1.6,75,,Harry Maguire,4-2-3-1,4-4-2,Martin Atkinson
+115,2020-09-26,12:30 ,3,Sat,Away,W,3,2,Brighton,1.5,2.5,47,,Harry Maguire,4-2-3-1,3-4-3,Chris Kavanagh
+116,2020-10-04,16:30 ,4,Sun,Home,L,1,6,Tottenham,0.9,3.4,39,,Harry Maguire,4-2-3-1,4-3-3,Anthony Taylor
+117,2020-10-17,20:00 ,5,Sat,Away,W,4,1,Newcastle Utd,2.3,0.9,63,,Harry Maguire,4-2-3-1,4-1-4-1,Craig Pawson
+118,2020-10-24,17:30 ,6,Sat,Home,D,0,0,Chelsea,0.6,0.2,51,,Harry Maguire,4-2-3-1,3-4-3,Martin Atkinson
+119,2020-11-01,16:30 ,7,Sun,Home,L,0,1,Arsenal,0.4,1.0,54,,Harry Maguire,4-1-2-1-2◆,3-4-3,Mike Dean
+120,2020-11-07,12:30 ,8,Sat,Away,W,3,1,Everton,1.5,0.4,45,,Harry Maguire,4-2-3-1,4-3-3,Paul Tierney
+121,2020-11-21,20:00 ,9,Sat,Home,W,1,0,West Brom,2.4,0.6,63,,Harry Maguire,4-2-3-1,5-4-1,David Coote
+122,2020-11-29,14:00 ,10,Sun,Away,W,3,2,Southampton,2.1,0.5,50,,Harry Maguire,4-3-1-2,4-4-2,Jonathan Moss
+123,2020-12-05,17:30 ,11,Sat,Away,W,3,1,West Ham,1.7,2.0,60,"2,000",Harry Maguire,4-2-3-1,3-4-3,Andre Marriner
+124,2020-12-12,17:30 ,12,Sat,Home,D,0,0,Manchester City,0.6,1.3,46,,Harry Maguire,4-2-3-1,4-2-3-1,Chris Kavanagh
+125,2020-12-17,20:00 ,13,Thu,Away,W,3,2,Sheffield Utd,1.9,1.5,60,,Harry Maguire,4-2-3-1,5-3-2,Michael Oliver
+126,2020-12-20,16:30 ,14,Sun,Home,W,6,2,Leeds United,3.6,1.8,41,,Harry Maguire,4-2-3-1,4-1-4-1,Anthony Taylor
+127,2020-12-26,12:30 ,15,Sat,Away,D,2,2,Leicester City,1.7,0.9,46,,Harry Maguire,4-2-3-1,4-2-3-1,Mike Dean
+128,2020-12-29,20:00 ,16,Tue,Home,W,1,0,Wolves,1.5,0.5,58,,Harry Maguire,4-2-3-1,3-4-1-2,Jonathan Moss
+129,2021-01-01,20:00 ,17,Fri,Home,W,2,1,Aston Villa,2.1,1.4,48,,Harry Maguire,4-2-3-1,4-2-3-1,Michael Oliver
+130,2021-01-12,20:15 ,1,Tue,Away,W,1,0,Burnley,1.2,0.9,62,,Harry Maguire,4-2-3-1,4-4-2,Kevin Friend
+131,2021-01-17,16:30 ,19,Sun,Away,D,0,0,Liverpool,1.1,1.2,35,,Harry Maguire,4-2-3-1,4-3-3,Paul Tierney
+132,2021-01-20,20:15 ,18,Wed,Away,W,2,1,Fulham,1.7,0.9,62,,Harry Maguire,4-2-3-1,3-4-3,Martin Atkinson
+133,2021-01-27,20:15 ,20,Wed,Home,L,1,2,Sheffield Utd,1.1,1.0,75,,Harry Maguire,4-2-3-1,3-5-2,Peter Bankes
+134,2021-01-30,17:30 ,21,Sat,Away,D,0,0,Arsenal,1.6,0.9,57,,Harry Maguire,4-2-3-1,4-2-3-1,Michael Oliver
+135,2021-02-02,20:15 ,22,Tue,Home,W,9,0,Southampton,4.7,0.5,74,,Harry Maguire,4-2-3-1,4-4-2,Mike Dean
+136,2021-02-06,20:00 ,23,Sat,Home,D,3,3,Everton,1.8,1.5,61,,Harry Maguire,4-2-3-1,4-3-1-2,Jonathan Moss
+137,2021-02-14,14:00 ,24,Sun,Away,D,1,1,West Brom,0.5,1.0,73,,Harry Maguire,4-2-3-1,4-1-4-1,Craig Pawson
+138,2021-02-21,19:00 ,25,Sun,Home,W,3,1,Newcastle Utd,1.7,0.4,71,,Harry Maguire,4-2-3-1,4-3-1-2,Paul Tierney
+139,2021-02-28,16:30 ,26,Sun,Away,D,0,0,Chelsea,0.4,1.1,43,,Harry Maguire,4-2-3-1,3-4-3,Stuart Attwell
+140,2021-03-03,20:15 ,29,Wed,Away,D,0,0,Crystal Palace,0.9,0.9,63,,Harry Maguire,4-2-3-1,4-4-2,Andre Marriner
+141,2021-03-07,16:30 ,27,Sun,Away,W,2,0,Manchester City,1.7,1.3,34,,Harry Maguire,4-2-3-1,4-2-3-1,Anthony Taylor
+142,2021-03-14,19:15 ,28,Sun,Home,W,1,0,West Ham,1.5,0.6,61,,Harry Maguire,4-2-3-1,3-1-4-2,Martin Atkinson
+143,2021-04-04,19:30 ,30,Sun,Home,W,2,1,Brighton,1.5,1.2,57,,Harry Maguire,4-2-3-1,3-4-1-2,Mike Dean
+144,2021-04-11,16:30 ,31,Sun,Away,W,3,1,Tottenham,2.1,0.9,53,,Harry Maguire,4-2-3-1,4-3-3,Chris Kavanagh
+145,2021-04-18,16:00 ,32,Sun,Home,W,3,1,Burnley,2.5,0.9,69,,Harry Maguire,4-2-3-1,4-4-1-1,Jonathan Moss
+146,2021-04-25,14:00 ,33,Sun,Away,D,0,0,Leeds United,1.2,0.3,56,,Harry Maguire,4-2-3-1,4-1-4-1,Craig Pawson
+147,2021-05-09,14:05 ,35,Sun,Away,W,3,1,Aston Villa,1.7,0.5,59,,Harry Maguire,4-2-3-1,4-2-3-1,Chris Kavanagh
+148,2021-05-11,18:00 ,36,Tue,Home,L,1,2,Leicester City,0.2,0.9,53,,Nemanja Matić,4-2-3-1,4-4-2,Craig Pawson
+149,2021-05-13,20:15 ,34,Thu,Home,L,2,4,Liverpool,1.9,2.7,53,,Bruno Fernandes,4-2-3-1,4-3-3,Anthony Taylor
+150,2021-05-18,18:00 ,37,Tue,Home,D,1,1,Fulham,0.9,0.9,57,"10,000",Bruno Fernandes,4-2-3-1,3-4-3,Lee Mason
+151,2021-05-23,16:00 ,38,Sun,Away,W,2,1,Wolves,2.0,0.9,43,"4,500",Nemanja Matić,4-2-3-1,3-5-2,Mike Dean
+152,2019-08-11,16:30 ,1,Sun,Home,W,4,0,Chelsea,2.2,1.0,46,"73,620",David de Gea,4-2-3-1,4-2-3-1,Anthony Taylor
+153,2019-08-19,20:00 ,2,Mon,Away,D,1,1,Wolves,1.2,0.3,65,"31,314",David de Gea,4-2-3-1,3-5-2,Jonathan Moss
+154,2019-08-24,15:00 ,3,Sat,Home,L,1,2,Crystal Palace,2.5,1.1,71,"73,454",David de Gea,4-2-3-1,4-5-1,Paul Tierney
+155,2019-08-31,12:30 ,4,Sat,Away,D,1,1,Southampton,1.5,0.9,59,"30,499",Ashley Young,4-2-3-1,4-2-2-2,Mike Dean
+156,2019-09-14,15:00 ,5,Sat,Home,W,1,0,Leicester City,1.2,0.6,42,"73,689",Ashley Young,4-2-3-1,4-1-4-1,Martin Atkinson
+157,2019-09-22,14:00 ,6,Sun,Away,L,0,2,West Ham,0.9,0.4,53,"59,936",Ashley Young,4-2-3-1,4-1-4-1,Anthony Taylor
+158,2019-09-30,20:00 ,7,Mon,Home,D,1,1,Arsenal,0.9,1.9,55,"73,201",Ashley Young,4-2-3-1,4-3-3,Kevin Friend
+159,2019-10-06,16:30 ,8,Sun,Away,L,0,1,Newcastle Utd,0.9,0.8,68,"51,198",Ashley Young,4-2-3-1,5-4-1,Mike Dean
+160,2019-10-20,16:30 ,9,Sun,Home,D,1,1,Liverpool,0.7,1.2,34,"73,737",Ashley Young,3-4-1-2,4-3-3,Martin Atkinson
+161,2019-10-27,16:30 ,10,Sun,Away,W,3,1,Norwich City,4.2,1.0,54,"27,108",Ashley Young,4-2-3-1,4-1-4-1,Stuart Attwell
+162,2019-11-02,12:30 ,11,Sat,Away,L,0,1,Bournemouth,0.8,1.9,57,"10,669",Ashley Young,4-2-3-1,4-4-2,Chris Kavanagh
+163,2019-11-10,14:00 ,12,Sun,Home,W,3,1,Brighton,3.6,0.8,42,"73,556",Harry Maguire,4-2-3-1,4-4-2,Jonathan Moss
+164,2019-11-24,16:30 ,13,Sun,Away,D,3,3,Sheffield Utd,1.3,1.3,59,"32,024",Harry Maguire,3-4-3,3-5-2,Andre Marriner
+165,2019-12-01,16:30 ,14,Sun,Home,D,2,2,Aston Villa,1.7,1.2,62,"73,381",Harry Maguire,4-2-3-1,4-3-3,Craig Pawson
+166,2019-12-04,19:30 ,15,Wed,Home,W,2,1,Tottenham,1.4,0.9,47,"73,252",Ashley Young,4-2-3-1,4-2-3-1,Paul Tierney
+167,2019-12-07,17:30 ,16,Sat,Away,W,2,1,Manchester City,1.4,2.2,28,"54,403",Harry Maguire,4-2-3-1,4-3-3,Anthony Taylor
+168,2019-12-15,14:00 ,17,Sun,Home,D,1,1,Everton,1.4,0.3,66,"63,328",Harry Maguire,4-2-3-1,4-4-2,Michael Oliver
+169,2019-12-22,14:00 ,18,Sun,Away,L,0,2,Watford,1.8,1.5,63,"21,488",Harry Maguire,4-2-3-1,4-2-3-1,Lee Mason
+170,2019-12-26,17:30 ,19,Thu,Home,W,4,1,Newcastle Utd,1.9,0.8,72,"73,206",Harry Maguire,4-2-3-1,3-5-2,Kevin Friend
+171,2019-12-28,19:45 ,20,Sat,Away,W,2,0,Burnley,2.2,0.5,61,"21,924",Ashley Young,4-2-3-1,4-4-2,Mike Dean
+172,2020-01-01,20:00 ,21,Wed,Away,L,0,2,Arsenal,0.7,1.5,51,"60,328",Harry Maguire,4-2-3-1,4-2-3-1,Chris Kavanagh
+173,2020-01-11,15:00 ,22,Sat,Home,W,4,0,Norwich City,2.9,0.3,60,"73,271",Harry Maguire,4-2-3-1,4-2-3-1,Anthony Taylor
+174,2020-01-19,16:30 ,23,Sun,Away,L,0,2,Liverpool,1.3,1.9,47,"52,916",Harry Maguire,3-4-1-2,4-3-3,Craig Pawson
+175,2020-01-22,20:15 ,24,Wed,Home,L,0,2,Burnley,1.4,0.6,72,"73,198",Harry Maguire,4-2-3-1,4-4-2,Jonathan Moss
+176,2020-02-01,17:30 ,25,Sat,Home,D,0,0,Wolves,1.0,1.3,64,"73,363",Harry Maguire,4-2-3-1,3-4-3,Paul Tierney
+177,2020-02-17,20:00 ,26,Mon,Away,W,2,0,Chelsea,0.6,0.9,39,"40,504",Harry Maguire,3-4-1-2,4-3-3,Anthony Taylor
+178,2020-02-23,14:00 ,27,Sun,Home,W,3,0,Watford,2.4,0.3,57,"73,347",Harry Maguire,4-2-3-1,4-2-3-1,Martin Atkinson
+179,2020-03-01,14:00 ,28,Sun,Away,D,1,1,Everton,1.1,2.1,56,"39,374",Harry Maguire,4-1-2-1-2◆,4-4-2,Chris Kavanagh
+180,2020-03-08,16:30 ,29,Sun,Home,W,2,0,Manchester City,1.6,0.6,28,"73,288",Harry Maguire,3-4-1-2,4-3-3,Mike Dean
+181,2020-06-19,20:15 ,30,Fri,Away,D,1,1,Tottenham,1.7,0.4,61,,Harry Maguire,4-2-3-1,4-2-3-1,Jonathan Moss
+182,2020-06-24,18:00 ,31,Wed,Home,W,3,0,Sheffield Utd,2.4,0.1,68,,Harry Maguire,4-2-3-1,3-5-2,Anthony Taylor
+183,2020-06-30,20:15 ,32,Tue,Away,W,3,0,Brighton,1.0,0.4,62,,Harry Maguire,4-2-3-1,4-4-2,Andre Marriner
+184,2020-07-04,15:00 ,33,Sat,Home,W,5,2,Bournemouth,2.5,1.8,68,,Harry Maguire,4-2-3-1,4-4-2,Mike Dean
+185,2020-07-09,20:15 ,34,Thu,Away,W,3,0,Aston Villa,2.3,0.5,66,,Harry Maguire,4-2-3-1,4-4-1-1,Jonathan Moss
+186,2020-07-13,20:00 ,35,Mon,Home,D,2,2,Southampton,1.5,1.6,48,,Harry Maguire,4-2-3-1,4-4-2,Chris Kavanagh
+187,2020-07-16,20:15 ,36,Thu,Away,W,2,0,Crystal Palace,2.2,0.6,59,,Harry Maguire,4-2-3-1,4-4-2,Graham Scott
+188,2020-07-22,18:00 ,37,Wed,Home,D,1,1,West Ham,0.6,1.5,57,,Harry Maguire,4-2-3-1,4-2-3-1,Paul Tierney
+189,2020-07-26,16:00 ,38,Sun,Away,W,2,0,Leicester City,1.3,0.8,54,,Harry Maguire,4-2-3-1,3-5-2,Martin Atkinson
+190,2018-08-10,20:00 ,1,Fri,Home,W,2,1,Leicester City,1.5,1.8,47,"74,439",Paul Pogba,4-3-3,4-2-3-1,Andre Marriner
+191,2018-08-19,16:00 ,2,Sun,Away,L,2,3,Brighton,1.4,1.7,66,"30,592",Paul Pogba,4-3-3,4-4-1-1,Kevin Friend
+192,2018-08-27,20:00 ,3,Mon,Home,L,0,3,Tottenham,1.5,1.2,57,"74,400",Antonio Valencia,3-5-1-1,4-1-2-1-2,Craig Pawson
+193,2018-09-02,16:00 ,4,Sun,Away,W,2,0,Burnley,2.5,0.8,53,"21,525",Antonio Valencia,4-3-3,4-4-1-1,Jonathan Moss
+194,2018-09-15,17:30 ,5,Sat,Away,W,2,1,Watford,1.9,1.3,57,"20,537",Antonio Valencia,4-3-3,4-2-2-2,Mike Dean
+195,2018-09-22,15:00 ,6,Sat,Home,D,1,1,Wolves,0.6,1.0,64,"74,489",Antonio Valencia,4-3-3,3-4-3,Kevin Friend
+196,2018-09-29,12:30 ,7,Sat,Away,L,1,3,West Ham,0.7,1.4,52,"56,938",Ashley Young,5-3-2,4-1-4-1,Michael Oliver
+197,2018-10-06,17:30 ,8,Sat,Home,W,3,2,Newcastle Utd,1.9,1.6,72,"74,519",Ashley Young,4-3-3,4-4-1-1,Anthony Taylor
+198,2018-10-20,12:30 ,9,Sat,Away,D,2,2,Chelsea,0.8,1.8,38,"40,721",Ashley Young,4-2-3-1,4-3-3,Mike Dean
+199,2018-10-28,16:00 ,10,Sun,Home,W,2,1,Everton,2.3,1.8,54,"74,525",Ashley Young,4-3-3,4-2-3-1,Jonathan Moss
+200,2018-11-03,12:30 ,11,Sat,Away,W,2,1,Bournemouth,3.0,1.6,51,"10,792",Ashley Young,4-3-3,4-4-1-1,Paul Tierney
+201,2018-11-11,16:30 ,12,Sun,Away,L,1,3,Manchester City,1.1,1.9,35,"54,316",Ashley Young,4-3-3,4-3-3,Anthony Taylor
+202,2018-11-24,15:00 ,13,Sat,Home,D,0,0,Crystal Palace,0.9,1.2,59,"74,516",Ashley Young,4-3-3,4-4-2,Lee Mason
+203,2018-12-01,17:30 ,14,Sat,Away,D,2,2,Southampton,1.1,0.7,60,"30,187",Ashley Young,5-3-2,3-4-1-2,Kevin Friend
+204,2018-12-05,20:00 ,15,Wed,Home,D,2,2,Arsenal,1.1,1.1,45,"74,507",Chris Smalling,3-4-1-2,3-4-3,Andre Marriner
+205,2018-12-08,15:00 ,16,Sat,Home,W,4,1,Fulham,2.3,1.2,62,"74,523",Ashley Young,4-2-3-1,4-2-3-1,Lee Probert
+206,2018-12-16,16:00 ,17,Sun,Away,L,1,3,Liverpool,0.7,2.5,36,"52,908",Ashley Young,4-4-1-1,4-4-1-1,Martin Atkinson
+207,2018-12-22,17:30 ,18,Sat,Away,W,5,1,Cardiff City,2.8,1.4,73,"33,028",Ashley Young,4-3-3,4-1-4-1,Michael Oliver
+208,2018-12-26,15:00 ,19,Wed,Home,W,3,1,Huddersfield,1.5,1.1,64,"74,523",David de Gea,4-2-3-1,4-2-3-1,Jonathan Moss
+209,2018-12-30,16:30 ,20,Sun,Home,W,4,1,Bournemouth,2.9,0.5,65,"74,556",Ashley Young,4-2-3-1,3-5-2,Lee Mason
+210,2019-01-02,20:00 ,21,Wed,Away,W,2,0,Newcastle Utd,2.6,0.7,64,"52,217",Antonio Valencia,4-2-3-1,5-4-1,Andre Marriner
+211,2019-01-13,16:30 ,22,Sun,Away,W,1,0,Tottenham,0.8,1.8,39,"80,062",Ashley Young,4-1-2-1-2◆,4-1-2-1-2,Mike Dean
+212,2019-01-19,15:00 ,23,Sat,Home,W,2,1,Brighton,2.4,0.8,56,"74,532",Ashley Young,4-3-3,4-5-1,Paul Tierney
+213,2019-01-29,20:00 ,24,Tue,Home,D,2,2,Burnley,3.1,0.8,73,"74,529",Ashley Young,4-1-4-1,4-4-2,Jonathan Moss
+214,2019-02-03,14:05 ,25,Sun,Away,W,1,0,Leicester City,1.3,1.5,55,"32,148",Ashley Young,4-2-2-2,4-2-3-1,Mike Dean
+215,2019-02-09,12:30 ,26,Sat,Away,W,3,0,Fulham,1.9,2.2,49,"25,001",David de Gea,4-3-3,4-2-3-1,Paul Tierney
+216,2019-02-24,14:05 ,27,Sun,Home,D,0,0,Liverpool,0.3,0.5,36,"74,519",Ashley Young,4-3-1-2,4-3-3,Michael Oliver
+217,2019-02-27,20:00 ,28,Wed,Away,W,3,1,Crystal Palace,1.0,1.7,54,"25,754",Ashley Young,4-3-3,4-3-3,Martin Atkinson
+218,2019-03-02,15:00 ,29,Sat,Home,W,3,2,Southampton,2.2,0.4,64,"74,459",Ashley Young,4-3-1-2,3-4-3,Stuart Attwell
+219,2019-03-10,16:30 ,30,Sun,Away,L,0,2,Arsenal,2.3,1.7,54,"60,000",Ashley Young,4-4-2,3-4-1-2,Jonathan Moss
+220,2019-03-30,15:00 ,32,Sat,Home,W,2,1,Watford,1.6,1.5,52,"74,543",Ashley Young,4-3-1-2,4-2-2-2,Stuart Attwell
+221,2019-04-02,19:45 ,33,Tue,Away,L,1,2,Wolves,1.8,1.8,51,"31,302",Ashley Young,3-5-1-1,3-5-2,Mike Dean
+222,2019-04-13,17:30 ,34,Sat,Home,W,2,1,West Ham,2.5,1.4,43,"74,478",David de Gea,4-2-3-1,4-1-4-1,Graham Scott
+223,2019-04-21,13:30 ,35,Sun,Away,L,0,4,Everton,0.3,1.6,52,"39,395",David de Gea,4-3-3,4-2-3-1,Paul Tierney
+224,2019-04-24,20:00 ,31,Wed,Home,L,0,2,Manchester City,0.5,0.5,37,"74,431",Ashley Young,5-3-2,4-3-3,Andre Marriner
+225,2019-04-28,16:30 ,36,Sun,Home,D,1,1,Chelsea,1.1,1.7,52,"74,526",Ashley Young,4-3-1-2,4-3-3,Martin Atkinson
+226,2019-05-05,14:00 ,37,Sun,Away,D,1,1,Huddersfield,1.8,1.0,64,"24,263",Ashley Young,4-3-1-2,4-3-3,Lee Mason
+227,2019-05-12,15:00 ,38,Sun,Home,L,0,2,Cardiff City,1.5,1.6,73,"74,457",Ashley Young,4-3-1-2,4-4-1-1,Jonathan Moss
+228,2017-08-13,16:00 ,1,Sun,Home,W,4,0,West Ham,2.1,0.5,55,"74,928",Antonio Valencia,4-2-3-1,4-2-3-1,Martin Atkinson
+229,2017-08-19,12:30 ,2,Sat,Away,W,4,0,Swansea City,3.0,0.4,58,"20,862",Antonio Valencia,4-2-3-1,3-1-4-2,Jonathan Moss
+230,2017-08-26,17:30 ,3,Sat,Home,W,2,0,Leicester City,2.8,0.9,69,"75,021",Antonio Valencia,4-2-3-1,4-4-1-1,Michael Oliver
+231,2017-09-09,17:30 ,4,Sat,Away,D,2,2,Stoke City,2.1,1.2,63,"29,320",Antonio Valencia,4-3-3,3-4-3,Niel Swarbrick
+232,2017-09-17,16:00 ,5,Sun,Home,W,4,0,Everton,2.9,1.1,49,"75,042",Antonio Valencia,4-2-3-1,3-4-3,Andre Marriner
+233,2017-09-23,15:00 ,6,Sat,Away,W,1,0,Southampton,1.2,1.0,40,"31,930",Antonio Valencia,4-2-3-1,4-2-3-1,Craig Pawson
+234,2017-09-30,15:00 ,7,Sat,Home,W,4,0,Crystal Palace,2.8,0.4,59,"75,118",David de Gea,4-2-3-1,4-3-3,Mike Dean
+235,2017-10-14,12:30 ,8,Sat,Away,D,0,0,Liverpool,0.2,1.5,38,"52,912",Antonio Valencia,4-2-3-1,4-3-3,Martin Atkinson
+236,2017-10-21,15:00 ,9,Sat,Away,L,1,2,Huddersfield,0.8,1.2,77,"24,426",Antonio Valencia,4-2-3-1,4-2-3-1,Lee Mason
+237,2017-10-28,12:30 ,10,Sat,Home,W,1,0,Tottenham,0.8,1.2,45,"75,034",Antonio Valencia,3-4-1-2,3-5-1-1,Jonathan Moss
+238,2017-11-05,16:30 ,11,Sun,Away,L,0,1,Chelsea,0.7,1.6,46,"41,615",Antonio Valencia,3-4-1-2,3-1-4-2,Anthony Taylor
+239,2017-11-18,17:30 ,12,Sat,Home,W,4,1,Newcastle Utd,3.1,1.1,65,"75,035",Antonio Valencia,4-2-3-1,4-4-2,Craig Pawson
+240,2017-11-25,15:00 ,13,Sat,Home,W,1,0,Brighton,1.2,0.5,58,"75,018",Antonio Valencia,4-2-3-1,4-5-1,Niel Swarbrick
+241,2017-11-28,20:00 ,14,Tue,Away,W,4,2,Watford,1.2,1.4,41,"20,552",Antonio Valencia,3-4-3,3-5-2,Jonathan Moss
+242,2017-12-02,17:30 ,15,Sat,Away,W,3,1,Arsenal,1.8,4.7,25,"59,547",Antonio Valencia,3-4-1-2,3-4-3,Andre Marriner
+243,2017-12-10,16:30 ,16,Sun,Home,L,1,2,Manchester City,1.4,1.7,36,"74,847",Antonio Valencia,4-2-3-1,4-3-3,Michael Oliver
+244,2017-12-13,20:00 ,17,Wed,Home,W,1,0,Bournemouth,1.1,0.8,57,"74,798",Antonio Valencia,4-2-3-1,4-4-1-1,Graham Scott
+245,2017-12-17,14:15 ,18,Sun,Away,W,2,1,West Brom,0.7,1.1,56,"24,782",Antonio Valencia,4-2-3-1,4-3-3,Anthony Taylor
+246,2017-12-23,19:45 ,19,Sat,Away,D,2,2,Leicester City,1.9,1.4,51,"32,202",Paul Pogba,4-2-3-1,4-2-3-1,Jonathan Moss
+247,2017-12-26,15:00 ,20,Tue,Home,D,2,2,Burnley,2.0,0.5,71,"75,046",Paul Pogba,4-2-3-1,4-1-4-1,Martin Atkinson
+248,2017-12-30,17:30 ,21,Sat,Home,D,0,0,Southampton,1.7,0.6,54,"75,051",Paul Pogba,4-2-3-1,4-2-3-1,Craig Pawson
+249,2018-01-01,17:30 ,22,Mon,Away,W,2,0,Everton,1.4,1.2,60,"39,188",Paul Pogba,4-3-3,4-2-3-1,Andre Marriner
+250,2018-01-15,20:00 ,23,Mon,Home,W,3,0,Stoke City,1.5,1.3,60,"74,726",Antonio Valencia,4-2-3-1,4-2-3-1,Anthony Taylor
+251,2018-01-20,15:00 ,24,Sat,Away,W,1,0,Burnley,0.8,1.0,52,"21,841",Antonio Valencia,4-3-3,4-4-1-1,Mike Dean
+252,2018-01-31,20:00 ,25,Wed,Away,L,0,2,Tottenham,1.0,1.5,48,"81,978",Antonio Valencia,4-2-3-1,4-2-3-1,Andre Marriner
+253,2018-02-03,15:00 ,26,Sat,Home,W,2,0,Huddersfield,1.6,0.2,74,"74,742",Antonio Valencia,4-2-3-1,4-1-4-1,Stuart Attwell
+254,2018-02-11,14:15 ,27,Sun,Away,L,0,1,Newcastle Utd,1.9,0.5,64,"52,309",Antonio Valencia,4-2-3-1,4-4-1-1,Craig Pawson
+255,2018-02-25,14:05 ,28,Sun,Home,W,2,1,Chelsea,1.2,1.7,44,"75,060",Antonio Valencia,4-1-2-1-2◆,3-4-3,Martin Atkinson
+256,2018-03-05,20:00 ,29,Mon,Away,W,3,2,Crystal Palace,1.2,0.6,69,"25,840",Antonio Valencia,4-3-3,4-4-2,Niel Swarbrick
+257,2018-03-10,12:30 ,30,Sat,Home,W,2,1,Liverpool,0.7,0.7,33,"74,855",Antonio Valencia,4-2-3-1,4-3-3,Craig Pawson
+258,2018-03-31,15:00 ,32,Sat,Home,W,2,0,Swansea City,2.2,0.2,66,"75,038",Antonio Valencia,4-2-3-1,5-4-1,Robert Madley
+259,2018-04-07,17:30 ,33,Sat,Away,W,3,2,Manchester City,1.1,2.6,36,"54,259",Antonio Valencia,4-3-3,4-3-3,Martin Atkinson
+260,2018-04-15,16:00 ,34,Sun,Home,L,0,1,West Brom,0.7,0.7,70,"75,095",Antonio Valencia,4-3-3,4-4-1-1,Paul Tierney
+261,2018-04-18,19:45 ,35,Wed,Away,W,2,0,Bournemouth,1.3,1.2,55,"10,952",David de Gea,4-3-3,4-4-1-1,Graham Scott
+262,2018-04-29,16:30 ,36,Sun,Home,W,2,1,Arsenal,1.7,0.5,59,"75,035",Antonio Valencia,4-3-3,4-2-3-1,Kevin Friend
+263,2018-05-04,20:00 ,37,Fri,Away,L,0,1,Brighton,0.8,1.0,68,"30,611",Ashley Young,4-3-3,4-3-3,Craig Pawson
+264,2018-05-10,19:45 ,31,Thu,Away,D,0,0,West Ham,0.8,0.6,56,"56,902",Antonio Valencia,5-3-2,3-4-3,Jonathan Moss
+265,2018-05-13,15:00 ,38,Sun,Home,W,1,0,Watford,0.4,0.6,52,"75,049",Michael Carrick,4-3-3,4-1-4-1,Lee Mason

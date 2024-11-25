@@ -1,0 +1,229 @@
+,Date,Time,Matchweek,Day,Venue,Result,Goals Scored,Goals Conceded,Opponent,xG,xGA,Possession,Attendance,Captain,Formation,Opposition Formation,Referee
+0,2023-08-14,20:00 ,1,Mon,Away,L,0,1,Manchester Utd,2.2,2.2,49,"73,358",Max Kilman,4-4-2,4-1-4-1,Simon Hooper
+1,2023-08-19,15:00 ,2,Sat,Home,L,1,4,Brighton,2.1,2.2,47,"31,317",Max Kilman,4-4-1-1,4-2-3-1,Andy Madley
+2,2023-08-26,15:00 ,3,Sat,Away,W,1,0,Everton,1.1,1.3,53,"38,851",Max Kilman,4-4-1-1,4-1-4-1,Craig Pawson
+3,2023-09-03,14:00 ,4,Sun,Away,L,2,3,Crystal Palace,1.2,2.1,57,"24,741",Max Kilman,4-4-2,4-3-3,Robert Jones
+4,2023-09-16,12:30 ,5,Sat,Home,L,1,3,Liverpool,0.6,2.5,35,"31,257",Max Kilman,4-2-3-1,4-3-3,Michael Oliver
+5,2023-09-23,15:00 ,6,Sat,Away,D,1,1,Luton Town,0.6,2.1,43,"10,893",Max Kilman,4-2-3-1,3-4-3,Joshua Smith
+6,2023-09-30,15:00 ,7,Sat,Home,W,2,1,Manchester City,0.4,0.9,32,"31,415",Max Kilman,3-4-3,4-2-3-1,Craig Pawson
+7,2023-10-08,14:00 ,8,Sun,Home,D,1,1,Aston Villa,1.7,1.6,47,"31,425",Max Kilman,3-4-3,4-4-2,Robert Jones
+8,2023-10-21,15:00 ,9,Sat,Away,W,2,1,Bournemouth,2.4,0.6,65,"11,175",Max Kilman,3-4-3,4-2-3-1,Paul Tierney
+9,2023-10-28,17:30 ,10,Sat,Home,D,2,2,Newcastle Utd,0.9,2.2,43,"31,584",Max Kilman,4-4-2,4-3-3,Anthony Taylor
+10,2023-11-04,15:00 ,11,Sat,Away,L,1,2,Sheffield Utd,1.2,1.0,61,"29,454",Max Kilman,4-4-1-1,3-4-1-2,Robert Jones
+11,2023-11-11,12:30 ,12,Sat,Home,W,2,1,Tottenham,2.1,0.7,42,"31,642",Max Kilman,3-5-2,4-3-3,Tim Robinson
+12,2023-11-27,20:00 ,13,Mon,Away,L,2,3,Fulham,1.4,2.9,40,"24,366",Max Kilman,3-5-2,4-2-3-1,Michael Salisbury
+13,2023-12-02,15:00 ,14,Sat,Away,L,1,2,Arsenal,0.7,2.8,43,"60,262",Max Kilman,3-5-2,4-3-3,Peter Bankes
+14,2023-12-05,19:30 ,15,Tue,Home,W,1,0,Burnley,0.8,0.9,51,"30,439",Max Kilman,3-4-3,4-4-2,Jarred Gillett
+15,2023-12-09,15:00 ,16,Sat,Home,D,1,1,Nott'ham Forest,1.2,1.3,68,"31,543",Max Kilman,3-4-3,3-5-2,Samuel Barrott
+16,2023-12-17,14:00 ,17,Sun,Away,L,0,3,West Ham,0.7,1.1,55,"62,455",Max Kilman,3-4-3,4-2-3-1,Chris Kavanagh
+17,2023-12-24,13:00 ,18,Sun,Home,W,2,1,Chelsea,1.3,2.0,32,"31,641",Max Kilman,3-4-3,4-2-3-1,David Coote
+18,2023-12-27,19:30 ,19,Wed,Away,W,4,1,Brentford,2.4,2.2,40,"17,109",Max Kilman,3-4-3,4-3-3,Andy Madley
+19,2023-12-30,15:00 ,20,Sat,Home,W,3,0,Everton,1.9,0.4,53,"31,639",Max Kilman,3-4-3,5-4-1,Thomas Bramall
+20,2024-01-22,19:45 ,21,Mon,Away,D,0,0,Brighton,1.1,1.0,28,"41,505",Max Kilman,3-4-3,4-3-3,Craig Pawson
+21,2024-02-01,20:15 ,22,Thu,Home,L,3,4,Manchester Utd,2.1,3.3,53,"31,641",Max Kilman,3-4-3,4-2-3-1,Jarred Gillett
+22,2024-02-04,14:00 ,23,Sun,Away,W,4,2,Chelsea,2.0,1.7,36,"39,628",Max Kilman,3-4-3,4-2-3-1,Tim Robinson
+23,2024-02-10,15:00 ,24,Sat,Home,L,0,2,Brentford,1.0,1.9,71,"30,731",Max Kilman,3-4-3,3-5-2,Simon Hooper
+24,2024-02-17,15:00 ,25,Sat,Away,W,2,1,Tottenham,1.8,1.6,29,"61,532",José Sá,3-4-3,4-2-3-1,Anthony Taylor
+25,2024-02-25,13:30 ,26,Sun,Home,W,1,0,Sheffield Utd,1.3,0.6,63,"30,789",Max Kilman,3-4-3,3-5-2,Darren Bond
+26,2024-03-02,15:00 ,27,Sat,Away,L,0,3,Newcastle Utd,0.8,2.1,56,"52,206",Max Kilman,3-4-3,4-3-3,Tim Robinson
+27,2024-03-09,15:00 ,28,Sat,Home,W,2,1,Fulham,0.8,2.6,48,"30,860",Max Kilman,4-2-3-1,4-2-3-1,Tony Harrington
+28,2024-03-30,17:30 ,30,Sat,Away,L,0,2,Aston Villa,1.5,1.0,52,"42,640",Max Kilman,3-4-3,4-4-2,Paul Tierney
+29,2024-04-02,19:45 ,31,Tue,Away,D,1,1,Burnley,0.9,1.3,49,"21,528",Max Kilman,4-4-1-1,4-4-2,Thomas Bramall
+30,2024-04-06,15:00 ,32,Sat,Home,L,1,2,West Ham,1.5,1.2,58,"31,504",Max Kilman,3-4-3,4-2-3-1,Tony Harrington
+31,2024-04-13,15:00 ,33,Sat,Away,D,2,2,Nott'ham Forest,1.0,1.9,54,"29,604",Max Kilman,3-4-1-2,4-2-3-1,Craig Pawson
+32,2024-04-20,19:30 ,34,Sat,Home,L,0,2,Arsenal,0.2,1.2,46,"31,621",Max Kilman,4-4-2,4-3-3,Paul Tierney
+33,2024-04-24,19:45 ,29,Wed,Home,L,0,1,Bournemouth,0.5,1.9,63,"25,541",Max Kilman,4-1-4-1,4-2-3-1,Stuart Attwell
+34,2024-04-27,15:00 ,35,Sat,Home,W,2,1,Luton Town,1.2,0.6,58,"31,531",Max Kilman,3-5-1-1,3-4-3,David Coote
+35,2024-05-04,17:30 ,36,Sat,Away,L,1,5,Manchester City,0.3,3.7,42,"52,439",Max Kilman,3-5-2,4-2-3-1,Craig Pawson
+36,2024-05-11,15:00 ,37,Sat,Home,L,1,3,Crystal Palace,1.6,2.6,62,"31,424",Max Kilman,3-5-1-1,3-4-3,Thomas Bramall
+37,2024-05-19,16:00 ,38,Sun,Away,L,0,2,Liverpool,0.5,4.5,33,"60,059",Max Kilman,3-5-1-1,4-3-3,Chris Kavanagh
+38,2022-08-06,15:00 ,1,Sat,Away,L,1,2,Leeds United,1.3,0.8,60,"36,347",Rúben Neves,4-2-3-1,4-2-3-1,Robert Jones
+39,2022-08-13,15:00 ,2,Sat,Home,D,0,0,Fulham,0.9,1.5,59,"31,178",Rúben Neves,4-2-3-1,4-2-3-1,John Brooks
+40,2022-08-20,12:30 ,3,Sat,Away,L,0,1,Tottenham,0.7,1.7,50,"61,298",Rúben Neves,3-5-2,3-4-3,Simon Hooper
+41,2022-08-28,14:00 ,4,Sun,Home,D,1,1,Newcastle Utd,0.7,1.7,37,"31,311",Rúben Neves,4-3-3,4-3-3,Peter Bankes
+42,2022-08-31,19:30 ,5,Wed,Away,D,0,0,Bournemouth,1.5,0.4,65,"10,113",Rúben Neves,4-3-3,4-4-2,Anthony Taylor
+43,2022-09-03,15:00 ,6,Sat,Home,W,1,0,Southampton,0.8,1.2,51,"30,546",Rúben Neves,4-3-3,4-2-3-1,John Brooks
+44,2022-09-17,12:30 ,8,Sat,Home,L,0,3,Manchester City,0.4,1.1,41,"31,578",Rúben Neves,4-3-3,4-3-3,Anthony Taylor
+45,2022-10-01,17:30 ,9,Sat,Away,L,0,2,West Ham,0.7,0.9,61,"62,444",Rúben Neves,3-4-3,4-2-3-1,Paul Tierney
+46,2022-10-08,15:00 ,10,Sat,Away,L,0,3,Chelsea,1.1,1.9,43,"39,940",João Moutinho,4-2-3-1,4-2-3-1,Simon Hooper
+47,2022-10-15,15:00 ,11,Sat,Home,W,1,0,Nott'ham Forest,1.3,1.5,58,"31,554",Rúben Neves,4-2-3-1,4-3-3,Thomas Bramall
+48,2022-10-18,20:15 ,12,Tue,Away,L,1,2,Crystal Palace,0.8,1.2,49,"25,125",Rúben Neves,4-2-3-1,4-3-3,David Coote
+49,2022-10-23,14:00 ,13,Sun,Home,L,0,4,Leicester City,2.1,0.9,60,"31,425",Rúben Neves,4-2-3-1,4-1-4-1,Michael Oliver
+50,2022-10-29,15:00 ,14,Sat,Away,D,1,1,Brentford,0.6,1.4,42,"17,051",Rúben Neves,4-2-3-1,4-3-3,Robert Madley
+51,2022-11-05,15:00 ,15,Sat,Home,L,2,3,Brighton,1.2,1.5,29,"30,732",Rúben Neves,4-3-3,4-2-3-1,Graham Scott
+52,2022-11-12,19:45 ,16,Sat,Home,L,0,2,Arsenal,0.7,2.1,38,"34,624",João Moutinho,5-3-2,4-3-3,Stuart Attwell
+53,2022-12-26,15:00 ,17,Mon,Away,W,2,1,Everton,0.8,1.7,42,"39,252",Rúben Neves,4-3-3,4-3-3,Craig Pawson
+54,2022-12-31,12:30 ,18,Sat,Home,L,0,1,Manchester Utd,0.7,2.0,46,"31,658",Rúben Neves,4-2-3-1,4-2-3-1,Robert Jones
+55,2023-01-04,20:00 ,19,Wed,Away,D,1,1,Aston Villa,0.9,1.8,44,"39,978",Rúben Neves,4-2-3-1,4-4-2,Jarred Gillett
+56,2023-01-14,15:00 ,20,Sat,Home,W,1,0,West Ham,0.9,1.1,58,"31,511",Rúben Neves,4-2-3-1,4-3-3,Simon Hooper
+57,2023-01-22,14:00 ,21,Sun,Away,L,0,3,Manchester City,0.8,2.8,45,"53,282",Rúben Neves,4-3-3,3-2-4-1,David Coote
+58,2023-02-04,15:00 ,22,Sat,Home,W,3,0,Liverpool,2.0,1.8,41,"31,664",Rúben Neves,4-4-2,4-3-3,Paul Tierney
+59,2023-02-11,15:00 ,23,Sat,Away,W,2,1,Southampton,0.8,1.1,59,"29,751",Rúben Neves,4-2-3-1,5-3-2,Jarred Gillett
+60,2023-02-18,15:00 ,24,Sat,Home,L,0,1,Bournemouth,1.3,1.1,68,"31,222",Rúben Neves,4-2-3-1,4-2-3-1,Michael Salisbury
+61,2023-02-24,20:00 ,25,Fri,Away,D,1,1,Fulham,0.8,0.5,49,"24,399",Rúben Neves,4-4-2,4-2-3-1,Michael Oliver
+62,2023-03-01,20:00 ,7,Wed,Away,L,0,2,Liverpool,0.8,2.6,43,"53,259",Rúben Neves,4-2-3-1,4-3-3,Paul Tierney
+63,2023-03-04,15:00 ,26,Sat,Home,W,1,0,Tottenham,0.5,1.2,46,"31,585",Rúben Neves,4-2-3-1,3-4-3,Tim Robinson
+64,2023-03-12,16:30 ,27,Sun,Away,L,1,2,Newcastle Utd,1.1,1.8,57,"52,240",Rúben Neves,4-2-3-1,4-3-3,Andy Madley
+65,2023-03-18,15:00 ,28,Sat,Home,L,2,4,Leeds United,2.7,1.6,65,"31,570",Rúben Neves,4-3-3,4-2-3-1,Michael Salisbury
+66,2023-04-01,15:00 ,29,Sat,Away,D,1,1,Nott'ham Forest,0.5,1.3,71,"29,368",Rúben Neves,4-2-3-1,4-3-2-1,Chris Kavanagh
+67,2023-04-08,15:00 ,30,Sat,Home,W,1,0,Chelsea,0.6,1.1,38,"31,614",Max Kilman,4-4-2,4-3-3,Peter Bankes
+68,2023-04-15,15:00 ,31,Sat,Home,W,2,0,Brentford,0.8,1.1,50,"30,769",Max Kilman,4-4-2,4-3-3,Paul Tierney
+69,2023-04-22,15:00 ,32,Sat,Away,L,1,2,Leicester City,0.9,2.4,58,"32,053",Max Kilman,4-4-2,4-2-3-1,Andy Madley
+70,2023-04-25,19:30 ,33,Tue,Home,W,2,0,Crystal Palace,1.4,0.8,41,"30,294",Rúben Neves,4-4-2,4-3-3,Robert Jones
+71,2023-04-29,15:00 ,34,Sat,Away,L,0,6,Brighton,0.8,3.3,43,"31,584",Rúben Neves,4-4-2,4-2-3-1,David Coote
+72,2023-05-06,15:00 ,35,Sat,Home,W,1,0,Aston Villa,0.8,1.5,38,"31,641",Rúben Neves,4-4-2,4-4-2,Stuart Attwell
+73,2023-05-13,15:00 ,36,Sat,Away,L,0,2,Manchester Utd,0.3,3.2,52,"73,570",Rúben Neves,4-4-2,4-2-3-1,John Brooks
+74,2023-05-20,15:00 ,37,Sat,Home,D,1,1,Everton,1.6,2.0,52,"31,684",Rúben Neves,4-4-2,4-1-4-1,David Coote
+75,2023-05-28,16:30 ,38,Sun,Away,L,0,5,Arsenal,0.5,2.8,49,"60,095",Max Kilman,4-3-3,4-3-3,Andre Marriner
+76,2021-08-14,15:00 ,1,Sat,Away,L,0,1,Leicester City,1.3,0.5,44,"31,983",Conor Coady,3-4-3,4-2-3-1,Craig Pawson
+77,2021-08-22,14:00 ,2,Sun,Home,L,0,1,Tottenham,1.7,1.7,58,"30,368",Conor Coady,3-4-3,4-3-3,Stuart Attwell
+78,2021-08-29,16:30 ,3,Sun,Home,L,0,1,Manchester Utd,2.1,0.6,44,"30,621",Conor Coady,3-4-3,4-2-3-1,Mike Dean
+79,2021-09-11,15:00 ,4,Sat,Away,W,2,0,Watford,2.2,0.2,55,"20,019",Conor Coady,3-4-3,4-1-4-1,Peter Bankes
+80,2021-09-18,12:30 ,5,Sat,Home,L,0,2,Brentford,0.6,2.5,62,"30,000",Conor Coady,3-4-3,3-5-2,Darren England
+81,2021-09-26,14:00 ,6,Sun,Away,W,1,0,Southampton,1.0,1.0,43,"28,002",Conor Coady,3-4-3,4-4-2,Andy Madley
+82,2021-10-02,15:00 ,7,Sat,Home,W,2,1,Newcastle Utd,1.0,0.6,52,"30,483",Conor Coady,3-4-3,4-1-4-1,Graham Scott
+83,2021-10-16,15:00 ,8,Sat,Away,W,3,2,Aston Villa,2.0,1.0,52,"41,951",Conor Coady,3-4-3,3-4-1-2,Michael Oliver
+84,2021-10-23,15:00 ,9,Sat,Away,D,1,1,Leeds United,0.9,1.6,38,"36,475",Conor Coady,3-4-3,4-4-1-1,Robert Jones
+85,2021-11-01,20:00 ,10,Mon,Home,W,2,1,Everton,1.7,1.5,61,"30,617",Conor Coady,3-4-3,4-4-2,Martin Atkinson
+86,2021-11-06,15:00 ,11,Sat,Away,L,0,2,Crystal Palace,0.3,1.9,40,"24,390",Conor Coady,3-4-3,4-3-3,Graham Scott
+87,2021-11-20,15:00 ,12,Sat,Home,W,1,0,West Ham,1.4,0.4,52,"30,667",Conor Coady,3-4-3,4-2-3-1,Mike Dean
+88,2021-11-27,15:00 ,13,Sat,Away,D,0,0,Norwich City,0.3,1.6,57,"26,911",Conor Coady,3-4-3,4-1-4-1,Simon Hooper
+89,2021-12-01,19:30 ,14,Wed,Home,D,0,0,Burnley,0.7,0.2,65,"30,328",Conor Coady,3-4-3,4-4-2,John Brooks
+90,2021-12-04,15:00 ,15,Sat,Home,L,0,1,Liverpool,0.1,2.7,34,"30,729",Conor Coady,3-4-3,4-3-3,Chris Kavanagh
+91,2021-12-11,12:30 ,16,Sat,Away,L,0,1,Manchester City,0.2,3.2,29,"52,613",Conor Coady,3-5-2,4-3-3,Jonathan Moss
+92,2021-12-15,19:30 ,17,Wed,Away,W,1,0,Brighton,1.0,1.2,41,"30,362",Conor Coady,3-4-3,4-3-3,Tony Harrington
+93,2021-12-19,14:00 ,18,Sun,Home,D,0,0,Chelsea,0.2,0.9,37,"30,631",Conor Coady,3-5-2,3-4-3,David Coote
+94,2022-01-03,17:30 ,21,Mon,Away,W,1,0,Manchester Utd,0.7,0.8,49,"73,045",Conor Coady,3-4-3,4-2-2-2,Mike Dean
+95,2022-01-15,15:00 ,22,Sat,Home,W,3,1,Southampton,2.5,0.8,43,"30,057",Conor Coady,3-4-3,3-5-2,Michael Salisbury
+96,2022-01-22,15:00 ,23,Sat,Away,W,2,1,Brentford,0.2,1.1,50,"16,982",Conor Coady,3-5-2,3-5-2,Peter Bankes
+97,2022-02-10,19:45 ,24,Thu,Home,L,0,1,Arsenal,0.8,1.8,58,"31,523",Conor Coady,3-4-3,4-2-3-1,Michael Oliver
+98,2022-02-13,14:00 ,25,Sun,Away,W,2,0,Tottenham,1.3,1.2,42,"56,452",Conor Coady,3-5-2,3-4-3,Kevin Friend
+99,2022-02-20,16:30 ,26,Sun,Home,W,2,1,Leicester City,0.5,1.7,37,"31,587",Conor Coady,3-5-2,4-3-3,Craig Pawson
+100,2022-02-24,19:45 ,20,Thu,Away,L,1,2,Arsenal,1.0,3.1,44,"59,888",Conor Coady,3-4-3,4-2-3-1,Martin Atkinson
+101,2022-02-27,14:00 ,27,Sun,Away,L,0,1,West Ham,0.7,1.8,61,"59,946",Conor Coady,3-4-3,3-4-3,Anthony Taylor
+102,2022-03-05,15:00 ,28,Sat,Home,L,0,2,Crystal Palace,0.7,2.7,63,"31,395",Conor Coady,3-4-3,4-2-3-1,Andy Madley
+103,2022-03-10,19:30 ,19,Thu,Home,W,4,0,Watford,0.7,0.6,66,"29,658",Conor Coady,3-4-3,4-3-3,Darren England
+104,2022-03-13,14:00 ,29,Sun,Away,W,1,0,Everton,0.8,0.4,61,"39,112",Conor Coady,3-5-2,3-4-3,Michael Oliver
+105,2022-03-18,20:00 ,30,Fri,Home,L,2,3,Leeds United,1.2,2.0,48,"31,842",Conor Coady,3-4-3,4-2-3-1,Kevin Friend
+106,2022-04-02,15:00 ,31,Sat,Home,W,2,1,Aston Villa,1.3,2.1,49,"31,012",Conor Coady,3-4-3,4-3-1-2,Darren England
+107,2022-04-08,20:00 ,32,Fri,Away,L,0,1,Newcastle Utd,0.4,1.5,58,"52,164",Conor Coady,3-4-3,4-3-3,Peter Bankes
+108,2022-04-24,14:00 ,34,Sun,Away,L,0,1,Burnley,0.6,1.4,64,"19,246",Conor Coady,3-4-3,4-4-2,Anthony Taylor
+109,2022-04-30,15:00 ,35,Sat,Home,L,0,3,Brighton,0.7,2.6,49,"31,243",Conor Coady,3-5-2,3-4-3,Simon Hooper
+110,2022-05-07,15:00 ,36,Sat,Away,D,2,2,Chelsea,2.0,1.7,41,"32,190",Conor Coady,3-5-2,3-4-1-2,Peter Bankes
+111,2022-05-11,20:15 ,33,Wed,Home,L,1,5,Manchester City,0.5,2.3,34,"32,000",Conor Coady,3-5-2,4-2-3-1,Martin Atkinson
+112,2022-05-15,14:00 ,37,Sun,Home,D,1,1,Norwich City,0.9,1.1,64,"31,219",Conor Coady,3-4-3,3-4-3,Tony Harrington
+113,2022-05-22,16:00 ,38,Sun,Away,L,1,3,Liverpool,1.3,2.7,37,"53,097",Conor Coady,3-5-2,4-3-3,Anthony Taylor
+114,2020-09-14,18:00 ,1,Mon,Away,W,2,0,Sheffield Utd,1.4,1.0,45,,Conor Coady,3-4-3,3-5-2,Mike Dean
+115,2020-09-21,20:15 ,2,Mon,Home,L,1,3,Manchester City,0.6,1.9,35,,Conor Coady,5-3-2,4-2-3-1,Andre Marriner
+116,2020-09-27,19:00 ,3,Sun,Away,L,0,4,West Ham,0.5,2.4,63,,Conor Coady,3-4-3,5-4-1,Martin Atkinson
+117,2020-10-04,14:00 ,4,Sun,Home,W,1,0,Fulham,1.2,0.9,48,,Conor Coady,3-5-2,4-2-3-1,Darren England
+118,2020-10-19,20:00 ,5,Mon,Away,W,1,0,Leeds United,0.4,1.0,34,,Conor Coady,3-5-2,4-1-4-1,David Coote
+119,2020-10-25,16:30 ,6,Sun,Home,D,1,1,Newcastle Utd,0.7,0.3,63,,Conor Coady,3-4-3,5-3-2,Lee Mason
+120,2020-10-30,20:00 ,7,Fri,Home,W,2,0,Crystal Palace,1.3,0.7,45,,Conor Coady,3-4-3,4-3-3,Martin Atkinson
+121,2020-11-08,14:00 ,8,Sun,Away,L,0,1,Leicester City,0.8,2.0,51,,Conor Coady,3-4-3,3-4-3,Anthony Taylor
+122,2020-11-23,20:00 ,9,Mon,Home,D,1,1,Southampton,1.5,1.0,46,,Rúben Neves,4-3-3,4-4-2,Andre Marriner
+123,2020-11-29,19:15 ,10,Sun,Away,W,2,1,Arsenal,1.8,1.5,44,,Conor Coady,4-2-3-1,4-2-3-1,Michael Oliver
+124,2020-12-06,19:15 ,11,Sun,Away,L,0,4,Liverpool,0.4,1.2,40,"2,000",Conor Coady,4-3-3,4-3-3,Craig Pawson
+125,2020-12-12,12:30 ,12,Sat,Home,L,0,1,Aston Villa,1.1,1.4,50,,Conor Coady,4-2-3-1,4-3-3,Mike Dean
+126,2020-12-15,18:00 ,13,Tue,Home,W,2,1,Chelsea,0.5,1.0,45,,Conor Coady,3-4-1-2,4-3-3,Stuart Attwell
+127,2020-12-21,17:30 ,14,Mon,Away,L,1,2,Burnley,1.5,1.7,63,,Conor Coady,3-4-1-2,4-4-2,Lee Mason
+128,2020-12-27,19:15 ,15,Sun,Home,D,1,1,Tottenham,0.9,0.4,55,,Conor Coady,4-2-3-1,3-4-1-2,Paul Tierney
+129,2020-12-29,20:00 ,16,Tue,Away,L,0,1,Manchester Utd,0.5,1.5,42,,Conor Coady,3-4-1-2,4-2-3-1,Jonathan Moss
+130,2021-01-02,17:30 ,17,Sat,Away,D,3,3,Brighton,1.6,2.2,46,,Conor Coady,4-2-3-1,3-4-3,Andy Madley
+131,2021-01-12,20:15 ,18,Tue,Home,L,1,2,Everton,0.7,0.6,52,,Conor Coady,4-3-3,4-4-2,Martin Atkinson
+132,2021-01-16,12:30 ,19,Sat,Home,L,2,3,West Brom,1.5,2.4,67,,Conor Coady,4-3-3,4-2-3-1,Michael Oliver
+133,2021-01-27,18:00 ,20,Wed,Away,D,0,0,Chelsea,0.5,0.7,22,,Conor Coady,3-4-1-2,3-4-3,Andy Madley
+134,2021-01-30,15:00 ,21,Sat,Away,L,0,1,Crystal Palace,0.4,1.4,52,,Conor Coady,3-4-3,4-2-3-1,Simon Hooper
+135,2021-02-02,18:00 ,22,Tue,Home,W,2,1,Arsenal,1.5,0.8,55,,Conor Coady,4-2-3-1,4-2-3-1,Craig Pawson
+136,2021-02-07,14:00 ,23,Sun,Home,D,0,0,Leicester City,1.1,0.8,44,,Conor Coady,3-4-3,4-2-3-1,Martin Atkinson
+137,2021-02-14,12:00 ,24,Sun,Away,W,2,1,Southampton,1.1,0.8,49,,Conor Coady,3-4-3,4-4-2,Graham Scott
+138,2021-02-19,20:00 ,25,Fri,Home,W,1,0,Leeds United,0.6,1.7,42,,Conor Coady,3-4-3,4-4-1-1,David Coote
+139,2021-02-27,20:00 ,26,Sat,Away,D,1,1,Newcastle Utd,1.1,1.7,52,,Conor Coady,3-4-3,4-3-3,Mike Dean
+140,2021-03-02,20:00 ,29,Tue,Away,L,1,4,Manchester City,0.3,3.3,28,,Conor Coady,3-4-3,4-3-3,Chris Kavanagh
+141,2021-03-06,17:30 ,27,Sat,Away,D,0,0,Aston Villa,1.6,0.6,51,,Conor Coady,3-4-3,4-3-3,Andy Madley
+142,2021-03-15,20:00 ,28,Mon,Home,L,0,1,Liverpool,1.1,0.9,53,,Conor Coady,3-4-1-2,4-3-3,Craig Pawson
+143,2021-04-05,20:15 ,30,Mon,Home,L,2,3,West Ham,2.1,1.3,65,,Conor Coady,4-2-3-1,4-2-3-1,Michael Oliver
+144,2021-04-09,20:00 ,31,Fri,Away,W,1,0,Fulham,0.5,0.9,50,,Conor Coady,4-2-3-1,3-4-3,Jonathan Moss
+145,2021-04-17,20:15 ,32,Sat,Home,W,1,0,Sheffield Utd,1.1,0.5,48,,Conor Coady,3-4-3,3-4-3,Robert Jones
+146,2021-04-25,12:00 ,33,Sun,Home,L,0,4,Burnley,0.4,2.0,58,,Conor Coady,3-4-1-2,4-4-2,Darren England
+147,2021-05-03,18:00 ,34,Mon,Away,D,1,1,West Brom,1.0,1.1,57,,Conor Coady,4-2-3-1,3-5-1-1,Paul Tierney
+148,2021-05-09,12:00 ,35,Sun,Home,W,2,1,Brighton,1.1,0.3,61,,Conor Coady,4-2-3-1,4-4-1-1,Jonathan Moss
+149,2021-05-16,14:05 ,36,Sun,Away,L,0,2,Tottenham,0.9,3.2,38,,Conor Coady,4-2-3-1,4-2-3-1,Martin Atkinson
+150,2021-05-19,18:00 ,37,Wed,Away,L,0,1,Everton,0.3,0.7,59,"4,988",Conor Coady,3-4-1-2,4-4-2,Andy Madley
+151,2021-05-23,16:00 ,38,Sun,Home,L,1,2,Manchester Utd,0.9,2.0,57,"4,500",Conor Coady,3-5-2,4-2-3-1,Mike Dean
+152,2019-08-11,14:00 ,1,Sun,Away,D,0,0,Leicester City,0.7,0.7,31,"32,015",Conor Coady,3-5-2,4-1-4-1,Andre Marriner
+153,2019-08-19,20:00 ,2,Mon,Home,D,1,1,Manchester Utd,0.3,1.2,35,"31,314",Conor Coady,3-5-2,4-2-3-1,Jonathan Moss
+154,2019-08-25,16:30 ,3,Sun,Home,D,1,1,Burnley,1.5,1.6,65,"30,522",Conor Coady,3-5-2,4-4-2,Craig Pawson
+155,2019-09-01,14:00 ,4,Sun,Away,L,2,3,Everton,2.0,1.3,42,"39,374",Conor Coady,3-5-2,4-2-3-1,Anthony Taylor
+156,2019-09-14,15:00 ,5,Sat,Home,L,2,5,Chelsea,1.7,2.7,46,"31,534",Conor Coady,3-5-2,3-4-3,Graham Scott
+157,2019-09-22,14:00 ,6,Sun,Away,D,1,1,Crystal Palace,1.5,0.9,49,"25,122",Conor Coady,3-4-3,4-5-1,Stuart Attwell
+158,2019-09-28,15:00 ,7,Sat,Home,W,2,0,Watford,1.4,1.4,39,"30,711",Conor Coady,3-4-3,4-3-3,Paul Tierney
+159,2019-10-06,14:00 ,8,Sun,Away,W,2,0,Manchester City,1.0,1.4,25,"54,435",Conor Coady,3-5-2,4-2-3-1,Craig Pawson
+160,2019-10-19,15:00 ,9,Sat,Home,D,1,1,Southampton,0.9,1.4,57,"30,915",Conor Coady,3-5-2,3-4-3,Peter Bankes
+161,2019-10-27,14:00 ,10,Sun,Away,D,1,1,Newcastle Utd,2.1,1.0,56,"46,019",Conor Coady,3-5-2,5-4-1,Kevin Friend
+162,2019-11-02,15:00 ,11,Sat,Away,D,1,1,Arsenal,1.8,0.9,43,"60,383",Conor Coady,3-4-3,4-3-1-2,Michael Oliver
+163,2019-11-10,14:00 ,12,Sun,Home,W,2,1,Aston Villa,2.4,0.6,50,"31,607",Conor Coady,3-4-3,4-3-3,Anthony Taylor
+164,2019-11-23,15:00 ,13,Sat,Away,W,2,1,Bournemouth,1.1,0.6,53,"10,539",Conor Coady,3-4-3,3-4-3,Simon Hooper
+165,2019-12-01,14:00 ,14,Sun,Home,D,1,1,Sheffield Utd,1.3,1.5,59,"31,642",Conor Coady,3-4-3,3-5-2,David Coote
+166,2019-12-04,19:30 ,15,Wed,Home,W,2,0,West Ham,1.5,0.6,50,"31,217",Conor Coady,3-4-3,4-4-1-1,Andre Marriner
+167,2019-12-08,16:30 ,16,Sun,Away,D,2,2,Brighton,1.5,1.2,39,"30,189",Conor Coady,3-4-3,4-3-3,Jonathan Moss
+168,2019-12-15,14:00 ,17,Sun,Home,L,1,2,Tottenham,0.9,0.9,58,"31,674",Conor Coady,3-4-3,4-2-3-1,Stuart Attwell
+169,2019-12-21,15:00 ,18,Sat,Away,W,2,1,Norwich City,1.4,1.3,50,"27,053",Conor Coady,3-4-3,4-2-3-1,Peter Bankes
+170,2019-12-27,19:45 ,19,Fri,Home,W,3,2,Manchester City,2.6,1.5,62,"31,737",Conor Coady,3-4-3,4-2-3-1,Martin Atkinson
+171,2019-12-29,16:30 ,20,Sun,Away,L,0,1,Liverpool,0.5,1.2,38,"53,326",Conor Coady,3-5-2,4-2-3-1,Anthony Taylor
+172,2020-01-01,15:00 ,21,Wed,Away,L,1,2,Watford,1.2,1.1,63,"20,584",Conor Coady,3-4-3,4-2-3-1,Andy Madley
+173,2020-01-11,15:00 ,22,Sat,Home,D,1,1,Newcastle Utd,1.6,0.2,65,"31,570",Conor Coady,3-4-3,5-4-1,Peter Bankes
+174,2020-01-18,15:00 ,23,Sat,Away,W,3,2,Southampton,2.4,0.7,47,"31,152",Conor Coady,3-4-3,4-4-2,Darren England
+175,2020-01-23,20:00 ,24,Thu,Home,L,1,2,Liverpool,1.8,1.1,47,"31,746",Conor Coady,3-4-1-2,4-3-3,Michael Oliver
+176,2020-02-01,17:30 ,25,Sat,Away,D,0,0,Manchester Utd,1.3,1.0,36,"73,363",Conor Coady,3-4-3,4-2-3-1,Paul Tierney
+177,2020-02-14,20:00 ,26,Fri,Home,D,0,0,Leicester City,1.0,0.7,42,"31,682",Conor Coady,3-4-3,4-1-4-1,Mike Dean
+178,2020-02-23,14:00 ,27,Sun,Home,W,3,0,Norwich City,2.9,0.4,40,"31,046",Conor Coady,3-5-2,4-2-3-1,Chris Kavanagh
+179,2020-03-01,14:00 ,28,Sun,Away,W,3,2,Tottenham,2.6,1.7,35,"58,064",Conor Coady,3-4-3,3-4-3,Stuart Attwell
+180,2020-03-07,15:00 ,29,Sat,Home,D,0,0,Brighton,0.8,0.3,43,"31,490",Conor Coady,3-5-2,4-3-3,Andre Marriner
+181,2020-06-20,17:30 ,30,Sat,Away,W,2,0,West Ham,1.0,0.5,58,,Conor Coady,3-5-2,4-2-3-1,Anthony Taylor
+182,2020-06-24,18:00 ,31,Wed,Home,W,1,0,Bournemouth,1.7,0.1,54,,Conor Coady,3-4-3,4-5-1,Michael Oliver
+183,2020-06-27,12:30 ,32,Sat,Away,W,1,0,Aston Villa,0.7,0.6,52,,Conor Coady,3-5-2,4-1-2-1-2,Craig Pawson
+184,2020-07-04,17:30 ,33,Sat,Home,L,0,2,Arsenal,1.2,1.3,53,,Conor Coady,3-5-2,3-4-3,Michael Oliver
+185,2020-07-08,18:00 ,34,Wed,Away,L,0,1,Sheffield Utd,0.4,0.5,56,,Conor Coady,3-4-3,3-5-2,Martin Atkinson
+186,2020-07-12,12:00 ,35,Sun,Home,W,3,0,Everton,2.6,0.3,55,,Conor Coady,3-4-3,3-5-2,Anthony Taylor
+187,2020-07-15,18:00 ,36,Wed,Away,D,1,1,Burnley,1.2,1.9,53,,Conor Coady,3-4-3,4-4-2,Mike Dean
+188,2020-07-20,20:15 ,37,Mon,Home,W,2,0,Crystal Palace,1.5,0.4,53,,Conor Coady,3-4-3,4-4-2,Peter Bankes
+189,2020-07-26,16:00 ,38,Sun,Away,L,0,2,Chelsea,0.2,1.4,38,,Conor Coady,3-4-3,3-4-3,Stuart Attwell
+190,2018-08-11,17:30 ,1,Sat,Home,D,2,2,Everton,1.0,1.0,58,"31,231",Conor Coady,3-4-3,4-2-3-1,Craig Pawson
+191,2018-08-18,15:00 ,2,Sat,Away,L,0,2,Leicester City,1.1,0.2,57,"32,043",Conor Coady,3-4-3,4-2-3-1,Mike Dean
+192,2018-08-25,12:30 ,3,Sat,Home,D,1,1,Manchester City,1.0,1.6,29,"31,322",Conor Coady,3-4-3,4-3-3,Martin Atkinson
+193,2018-09-01,15:00 ,4,Sat,Away,W,1,0,West Ham,1.0,1.1,52,"56,947",Conor Coady,3-4-3,4-2-3-1,Chris Kavanagh
+194,2018-09-16,13:30 ,5,Sun,Home,W,1,0,Burnley,2.6,0.3,59,"30,406",Conor Coady,3-4-3,4-4-2,Andre Marriner
+195,2018-09-22,15:00 ,6,Sat,Away,D,1,1,Manchester Utd,1.0,0.6,36,"74,489",Conor Coady,3-4-3,4-3-3,Kevin Friend
+196,2018-09-29,15:00 ,7,Sat,Home,W,2,0,Southampton,1.6,0.8,49,"31,147",Conor Coady,3-4-3,4-4-2,Stuart Attwell
+197,2018-10-06,15:00 ,8,Sat,Away,W,1,0,Crystal Palace,0.7,1.4,33,"25,715",Conor Coady,3-4-3,4-4-2,Michael Oliver
+198,2018-10-20,15:00 ,9,Sat,Home,L,0,2,Watford,0.7,1.1,45,"31,144",Conor Coady,3-4-3,4-2-2-2,Lee Mason
+199,2018-10-27,15:00 ,10,Sat,Away,L,0,1,Brighton,1.4,0.9,60,"30,654",Conor Coady,3-4-3,4-4-1-1,Anthony Taylor
+200,2018-11-03,19:45 ,11,Sat,Home,L,2,3,Tottenham,2.7,1.4,49,"31,185",Conor Coady,3-4-3,4-3-2-1,Mike Dean
+201,2018-11-11,16:30 ,12,Sun,Away,D,1,1,Arsenal,1.9,0.9,29,"60,030",Conor Coady,3-4-3,4-2-3-1,Stuart Attwell
+202,2018-11-25,16:00 ,13,Sun,Home,L,0,2,Huddersfield,0.8,0.7,46,"30,130",Conor Coady,3-4-3,3-5-1-1,Kevin Friend
+203,2018-11-30,20:00 ,14,Fri,Away,L,1,2,Cardiff City,0.8,1.0,52,"30,213",Conor Coady,3-4-3,3-1-4-2,Andre Marriner
+204,2018-12-05,19:45 ,15,Wed,Home,W,2,1,Chelsea,0.7,1.3,30,"31,300",Conor Coady,3-4-3,4-3-3,Jonathan Moss
+205,2018-12-09,16:00 ,16,Sun,Away,W,2,1,Newcastle Utd,1.8,0.6,49,"50,223",Conor Coady,3-4-3,3-5-1-1,Mike Dean
+206,2018-12-15,15:00 ,17,Sat,Home,W,2,0,Bournemouth,1.8,0.6,38,"30,997",Conor Coady,3-4-1-2,3-4-3,Simon Hooper
+207,2018-12-21,20:00 ,18,Fri,Home,L,0,2,Liverpool,0.9,1.9,39,"31,358",Conor Coady,3-4-1-2,4-2-3-1,Craig Pawson
+208,2018-12-26,12:30 ,19,Wed,Away,D,1,1,Fulham,1.4,1.2,70,"24,382",Conor Coady,3-4-1-2,3-4-3,Andre Marriner
+209,2018-12-29,15:00 ,20,Sat,Away,W,3,1,Tottenham,0.9,0.3,40,"46,356",Conor Coady,3-4-3,4-1-2-1-2,Stuart Attwell
+210,2019-01-02,19:45 ,21,Wed,Home,L,0,2,Crystal Palace,0.5,1.9,52,"30,666",Conor Coady,3-4-3,4-3-3,Roger East
+211,2019-01-14,20:00 ,22,Mon,Away,L,0,3,Manchester City,0.1,2.8,24,"54,171",Conor Coady,3-5-2,4-3-3,Craig Pawson
+212,2019-01-19,12:30 ,23,Sat,Home,W,4,3,Leicester City,1.9,1.9,46,"31,278",Conor Coady,3-5-2,4-2-3-1,Chris Kavanagh
+213,2019-01-29,19:45 ,24,Tue,Home,W,3,0,West Ham,2.2,0.2,55,"31,122",Conor Coady,3-5-2,4-4-2,David Coote
+214,2019-02-02,15:00 ,25,Sat,Away,W,3,1,Everton,1.4,1.2,36,"39,380",Conor Coady,3-5-2,4-1-4-1,Lee Mason
+215,2019-02-11,20:00 ,26,Mon,Home,D,1,1,Newcastle Utd,2.3,0.4,59,"30,687",Conor Coady,3-5-2,3-5-1-1,Graham Scott
+216,2019-02-23,15:00 ,27,Sat,Away,D,1,1,Bournemouth,1.5,2.4,55,"10,671",Conor Coady,3-5-2,4-4-1-1,Roger East
+217,2019-02-26,19:45 ,28,Tue,Away,L,0,1,Huddersfield,0.6,1.6,50,"22,714",Conor Coady,3-5-2,4-1-2-1-2,David Coote
+218,2019-03-02,15:00 ,29,Sat,Home,W,2,0,Cardiff City,2.8,0.6,56,"31,309",Conor Coady,3-5-2,4-1-2-1-2,Andre Marriner
+219,2019-03-10,14:05 ,30,Sun,Away,D,1,1,Chelsea,0.5,1.1,24,"40,692",Conor Coady,3-5-2,4-3-3,Michael Oliver
+220,2019-03-30,15:00 ,32,Sat,Away,L,0,2,Burnley,0.5,0.5,62,"20,990",Conor Coady,3-5-2,4-4-2,Chris Kavanagh
+221,2019-04-02,19:45 ,33,Tue,Home,W,2,1,Manchester Utd,1.8,1.8,49,"31,302",Conor Coady,3-5-2,3-5-1-1,Mike Dean
+222,2019-04-13,15:00 ,34,Sat,Away,L,1,3,Southampton,0.8,2.9,69,"31,708",Conor Coady,3-5-2,3-4-3,Jonathan Moss
+223,2019-04-20,15:00 ,35,Sat,Home,D,0,0,Brighton,2.7,0.2,68,"31,096",Conor Coady,3-5-2,4-3-3,Craig Pawson
+224,2019-04-24,19:45 ,31,Wed,Home,W,3,1,Arsenal,1.2,0.8,30,"31,436",Conor Coady,3-5-2,4-2-3-1,Stuart Attwell
+225,2019-04-27,15:00 ,36,Sat,Away,W,2,1,Watford,2.0,0.8,44,"20,323",Conor Coady,3-5-2,4-2-2-2,Simon Hooper
+226,2019-05-04,15:00 ,37,Sat,Home,W,1,0,Fulham,2.0,0.5,40,"30,456",Conor Coady,3-5-2,5-3-2,Jonathan Moss
+227,2019-05-12,15:00 ,38,Sun,Away,L,0,2,Liverpool,1.3,1.6,41,"53,331",Conor Coady,3-5-2,4-3-3,Martin Atkinson

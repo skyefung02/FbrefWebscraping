@@ -1,0 +1,267 @@
+,Date,Time,Matchweek,Day,Venue,Result,Goals Scored,Goals Conceded,Opponent,xG,xGA,Possession,Attendance,Captain,Formation,Opposition Formation,Referee
+0,2023-08-12,15:00 ,1,Sat,Home,L,0,1,Fulham,2.7,1.5,42,"39,940",James Tarkowski,4-4-1-1,4-3-3,Stuart Attwell
+1,2023-08-20,14:00 ,2,Sun,Away,L,0,4,Aston Villa,0.6,2.9,40,"41,694",James Tarkowski,4-1-4-1,4-2-3-1,Anthony Taylor
+2,2023-08-26,15:00 ,3,Sat,Home,L,0,1,Wolves,1.3,1.1,47,"38,851",James Tarkowski,4-1-4-1,4-4-1-1,Craig Pawson
+3,2023-09-02,12:30 ,4,Sat,Away,D,2,2,Sheffield Utd,2.5,1.2,54,"31,124",James Tarkowski,4-4-1-1,3-5-2,Andy Madley
+4,2023-09-17,16:30 ,5,Sun,Home,L,0,1,Arsenal,0.3,1.0,26,"39,217",James Tarkowski,4-5-1,4-3-3,Simon Hooper
+5,2023-09-23,17:30 ,6,Sat,Away,W,3,1,Brentford,1.9,1.0,43,"16,981",James Tarkowski,4-4-1-1,4-3-3,Michael Oliver
+6,2023-09-30,15:00 ,7,Sat,Home,L,1,2,Luton Town,2.9,0.9,67,"39,289",James Tarkowski,4-4-1-1,3-4-3,Anthony Taylor
+7,2023-10-07,15:00 ,8,Sat,Home,W,3,0,Bournemouth,2.4,0.7,48,"38,815",James Tarkowski,4-4-1-1,4-2-3-1,David Coote
+8,2023-10-21,12:30 ,9,Sat,Away,L,0,2,Liverpool,0.1,2.2,23,"50,201",James Tarkowski,4-4-1-1,4-3-3,Craig Pawson
+9,2023-10-29,13:00 ,10,Sun,Away,W,1,0,West Ham,0.8,0.7,36,"62,469",James Tarkowski,4-4-1-1,4-2-3-1,Stuart Attwell
+10,2023-11-04,15:00 ,11,Sat,Home,D,1,1,Brighton,0.7,0.5,21,"38,683",James Tarkowski,4-4-1-1,4-3-3,Tim Robinson
+11,2023-11-11,15:00 ,12,Sat,Away,W,3,2,Crystal Palace,1.5,2.2,33,"25,103",James Tarkowski,4-4-1-1,4-2-3-1,Samuel Barrott
+12,2023-11-26,16:30 ,13,Sun,Home,L,0,3,Manchester Utd,2.4,2.2,51,"39,257",James Tarkowski,4-4-1-1,4-2-3-1,John Brooks
+13,2023-12-02,17:30 ,14,Sat,Away,W,1,0,Nott'ham Forest,0.7,0.7,39,"29,404",James Tarkowski,4-4-1-1,4-3-3,Paul Tierney
+14,2023-12-07,19:30 ,15,Thu,Home,W,3,0,Newcastle Utd,3.3,1.5,38,"38,198",Séamus Coleman,4-4-1-1,4-3-3,Tim Robinson
+15,2023-12-10,14:00 ,16,Sun,Home,W,2,0,Chelsea,1.2,0.9,29,"39,280",James Tarkowski,4-4-1-1,4-2-3-1,Michael Oliver
+16,2023-12-16,17:30 ,17,Sat,Away,W,2,0,Burnley,1.4,0.7,39,"21,413",James Tarkowski,5-4-1,4-4-2,Anthony Taylor
+17,2023-12-23,15:00 ,18,Sat,Away,L,1,2,Tottenham,1.8,1.5,39,"61,808",James Tarkowski,4-2-3-1,4-2-3-1,Stuart Attwell
+18,2023-12-27,20:15 ,19,Wed,Home,L,1,3,Manchester City,1.0,2.4,28,"39,327",James Tarkowski,4-2-3-1,4-2-3-1,John Brooks
+19,2023-12-30,15:00 ,20,Sat,Away,L,0,3,Wolves,0.4,1.9,47,"31,639",James Tarkowski,5-4-1,3-4-3,Thomas Bramall
+20,2024-01-14,14:00 ,21,Sun,Home,D,0,0,Aston Villa,1.1,1.2,32,"39,284",Séamus Coleman,4-2-3-1,4-4-2,David Coote
+21,2024-01-30,19:45 ,22,Tue,Away,D,0,0,Fulham,1.9,1.6,30,"24,376",James Tarkowski,4-4-1-1,4-2-3-1,Thomas Bramall
+22,2024-02-03,12:30 ,23,Sat,Home,D,2,2,Tottenham,2.6,1.0,43,"39,321",James Tarkowski,4-4-1-1,4-2-3-1,Michael Oliver
+23,2024-02-10,12:30 ,24,Sat,Away,L,0,2,Manchester City,0.3,1.6,28,"52,187",James Tarkowski,4-2-3-1,4-1-4-1,John Brooks
+24,2024-02-19,20:00 ,25,Mon,Home,D,1,1,Crystal Palace,1.7,0.7,61,"38,164",James Tarkowski,4-4-1-1,3-4-3,Paul Tierney
+25,2024-02-24,15:00 ,26,Sat,Away,D,1,1,Brighton,0.3,1.4,36,"41,646",James Tarkowski,4-4-1-1,4-2-3-1,Tony Harrington
+26,2024-03-02,15:00 ,27,Sat,Home,L,1,3,West Ham,2.7,1.9,55,"39,262",James Tarkowski,4-4-1-1,4-2-3-1,Craig Pawson
+27,2024-03-09,12:30 ,28,Sat,Away,L,0,2,Manchester Utd,1.6,2.7,49,"73,601",James Tarkowski,4-4-1-1,4-2-4-0,Simon Hooper
+28,2024-03-30,15:00 ,30,Sat,Away,L,1,2,Bournemouth,1.0,1.3,52,"11,207",Séamus Coleman,4-4-1-1,4-2-3-1,Samuel Barrott
+29,2024-04-02,19:30 ,31,Tue,Away,D,1,1,Newcastle Utd,1.4,2.4,43,"52,135",James Tarkowski,4-4-1-1,4-3-3,Tony Harrington
+30,2024-04-06,15:00 ,32,Sat,Home,W,1,0,Burnley,0.9,0.5,38,"39,125",Séamus Coleman,4-4-1-1,4-4-2,Michael Oliver
+31,2024-04-15,20:00 ,33,Mon,Away,L,0,6,Chelsea,1.5,3.1,42,"39,392",Séamus Coleman,4-4-1-1,4-2-3-1,Paul Tierney
+32,2024-04-21,13:30 ,34,Sun,Home,W,2,0,Nott'ham Forest,0.3,0.9,41,"39,239",James Tarkowski,4-1-4-1,4-2-3-1,Anthony Taylor
+33,2024-04-24,20:00 ,29,Wed,Home,W,2,0,Liverpool,1.2,2.1,25,"38,222",James Tarkowski,4-4-1-1,4-3-3,Andy Madley
+34,2024-04-27,17:30 ,35,Sat,Home,W,1,0,Brentford,0.8,0.9,48,"39,098",James Tarkowski,4-4-1-1,4-3-3,Darren England
+35,2024-05-03,20:00 ,36,Fri,Away,D,1,1,Luton Town,1.4,0.8,49,"11,873",James Tarkowski,4-4-1-1,3-4-3,Tim Robinson
+36,2024-05-11,15:00 ,37,Sat,Home,W,1,0,Sheffield Utd,2.3,0.6,58,"39,221",Séamus Coleman,4-4-1-1,3-5-2,Stuart Attwell
+37,2024-05-19,16:00 ,38,Sun,Away,L,1,2,Arsenal,0.6,2.9,32,"60,312",Séamus Coleman,4-4-1-1,4-3-3,Michael Oliver
+38,2022-08-06,17:30 ,1,Sat,Home,L,0,1,Chelsea,0.7,1.5,38,"39,254",Jordan Pickford,5-4-1,3-4-3,Craig Pawson
+39,2022-08-13,12:30 ,2,Sat,Away,L,1,2,Aston Villa,1.6,2.3,43,"41,883",Jordan Pickford,3-4-3,4-1-2-1-2,Michael Oliver
+40,2022-08-20,15:00 ,3,Sat,Home,D,1,1,Nott'ham Forest,1.5,1.0,49,"39,271",Jordan Pickford,3-4-3,3-4-1-2,Andre Marriner
+41,2022-08-27,15:00 ,4,Sat,Away,D,1,1,Brentford,1.1,2.1,42,"17,009",Jordan Pickford,3-4-3,4-3-3,John Brooks
+42,2022-08-30,20:00 ,5,Tue,Away,D,1,1,Leeds United,1.0,1.0,31,"36,338",Jordan Pickford,4-3-3,4-2-3-1,Darren England
+43,2022-09-03,12:30 ,6,Sat,Home,D,0,0,Liverpool,1.7,2.1,39,"39,240",Jordan Pickford,4-3-3,4-3-3,Anthony Taylor
+44,2022-09-18,14:15 ,8,Sun,Home,W,1,0,West Ham,0.4,1.0,53,"39,298",Conor Coady,4-3-3,4-2-3-1,Michael Oliver
+45,2022-10-01,15:00 ,9,Sat,Away,W,2,1,Southampton,2.0,1.7,45,"30,510",Séamus Coleman,4-3-3,4-4-2,Andre Marriner
+46,2022-10-09,19:00 ,10,Sun,Home,L,1,2,Manchester Utd,0.6,1.4,40,"39,258",Séamus Coleman,4-3-3,4-2-3-1,David Coote
+47,2022-10-15,17:30 ,11,Sat,Away,L,0,2,Tottenham,0.4,2.2,38,"61,812",Séamus Coleman,5-3-2,3-4-3,Paul Tierney
+48,2022-10-19,19:30 ,12,Wed,Away,L,0,1,Newcastle Utd,0.2,1.5,51,"52,247",Séamus Coleman,4-3-3,4-3-3,Tony Harrington
+49,2022-10-22,15:00 ,13,Sat,Home,W,3,0,Crystal Palace,1.4,0.9,46,"38,939",Séamus Coleman,4-2-3-1,4-1-4-1,Simon Hooper
+50,2022-10-29,17:30 ,14,Sat,Away,D,0,0,Fulham,0.9,1.9,44,"23,534",Séamus Coleman,4-2-3-1,4-2-3-1,John Brooks
+51,2022-11-05,17:30 ,15,Sat,Home,L,0,2,Leicester City,1.2,2.3,49,"39,206",Séamus Coleman,4-3-3,4-1-4-1,David Coote
+52,2022-11-12,15:00 ,16,Sat,Away,L,0,3,Bournemouth,0.8,2.4,64,"10,382",Jordan Pickford,4-3-3,4-4-2,Craig Pawson
+53,2022-12-26,15:00 ,17,Mon,Home,L,1,2,Wolves,1.7,0.8,58,"39,252",Jordan Pickford,4-3-3,4-3-3,Craig Pawson
+54,2022-12-31,15:00 ,18,Sat,Away,D,1,1,Manchester City,0.1,1.7,26,"53,444",Jordan Pickford,5-3-2,4-3-3,Andy Madley
+55,2023-01-03,19:45 ,19,Tue,Home,L,1,4,Brighton,1.3,2.2,49,"39,103",Jordan Pickford,4-3-3,4-2-3-1,Andre Marriner
+56,2023-01-14,15:00 ,20,Sat,Home,L,1,2,Southampton,1.4,1.2,52,"39,305",Séamus Coleman,3-4-3,4-2-3-1,John Brooks
+57,2023-01-21,15:00 ,21,Sat,Away,L,0,2,West Ham,0.5,2.2,67,"62,470",Séamus Coleman,3-4-3,3-4-3,Stuart Attwell
+58,2023-02-04,12:30 ,22,Sat,Home,W,1,0,Arsenal,1.7,0.9,30,"39,314",Séamus Coleman,4-5-1,4-3-3,David Coote
+59,2023-02-13,20:00 ,23,Mon,Away,L,0,2,Liverpool,0.4,2.3,41,"53,027",Séamus Coleman,4-5-1,4-3-3,Simon Hooper
+60,2023-02-18,15:00 ,24,Sat,Home,W,1,0,Leeds United,1.4,0.5,51,"39,232",Séamus Coleman,4-5-1,4-2-3-1,Andy Madley
+61,2023-02-25,15:00 ,25,Sat,Home,L,0,2,Aston Villa,1.6,1.9,47,"39,309",Séamus Coleman,4-1-4-1,4-4-2,Anthony Taylor
+62,2023-03-01,19:45 ,7,Wed,Away,L,0,4,Arsenal,1.2,2.4,27,"60,213",Séamus Coleman,4-5-1,4-3-3,Michael Oliver
+63,2023-03-05,14:00 ,26,Sun,Away,D,2,2,Nott'ham Forest,1.7,0.8,43,"29,353",Séamus Coleman,4-5-1,4-3-2-1,John Brooks
+64,2023-03-11,15:00 ,27,Sat,Home,W,1,0,Brentford,1.0,2.0,33,"39,274",Séamus Coleman,4-5-1,4-3-3,Simon Hooper
+65,2023-03-18,17:30 ,28,Sat,Away,D,2,2,Chelsea,1.2,2.3,32,"40,025",Séamus Coleman,4-5-1,3-4-3,Darren England
+66,2023-04-03,20:00 ,29,Mon,Home,D,1,1,Tottenham,0.9,1.4,39,"39,294",Séamus Coleman,4-1-4-1,3-4-3,David Coote
+67,2023-04-08,12:30 ,30,Sat,Away,L,0,2,Manchester Utd,1.0,3.4,37,"73,509",Séamus Coleman,4-4-2,4-2-3-1,Michael Oliver
+68,2023-04-15,15:00 ,31,Sat,Home,L,1,3,Fulham,1.4,1.8,46,"39,241",Jordan Pickford,4-4-2,4-2-3-1,Anthony Taylor
+69,2023-04-22,15:00 ,32,Sat,Away,D,0,0,Crystal Palace,0.4,0.5,44,"25,202",Jordan Pickford,4-2-3-1,4-3-3,John Brooks
+70,2023-04-27,19:45 ,33,Thu,Home,L,1,4,Newcastle Utd,0.9,2.4,40,"39,248",Jordan Pickford,4-3-3,4-3-3,Andre Marriner
+71,2023-05-01,20:00 ,34,Mon,Away,D,2,2,Leicester City,3.1,3.4,46,"32,173",Séamus Coleman,4-2-3-1,4-3-3,Michael Oliver
+72,2023-05-08,17:30 ,35,Mon,Away,W,5,1,Brighton,2.3,3.2,22,"31,567",Jordan Pickford,4-2-3-1,4-2-3-1,Simon Hooper
+73,2023-05-14,14:00 ,36,Sun,Home,L,0,3,Manchester City,1.6,0.8,37,"39,376",Jordan Pickford,4-2-3-1,4-2-3-1,Anthony Taylor
+74,2023-05-20,15:00 ,37,Sat,Away,D,1,1,Wolves,2.0,1.6,48,"31,684",Jordan Pickford,4-1-4-1,4-4-2,David Coote
+75,2023-05-28,16:30 ,38,Sun,Home,W,1,0,Bournemouth,1.0,0.5,38,"39,201",Jordan Pickford,3-4-3,4-2-3-1,Stuart Attwell
+76,2021-08-14,15:00 ,1,Sat,Home,W,3,1,Southampton,2.4,0.8,48,"38,487",Séamus Coleman,4-2-3-1,4-4-2,Andy Madley
+77,2021-08-21,15:00 ,2,Sat,Away,D,2,2,Leeds United,1.8,1.2,31,"36,293",Séamus Coleman,4-4-1-1,3-3-3-1,Darren England
+78,2021-08-28,15:00 ,3,Sat,Away,W,2,0,Brighton,1.4,0.7,35,"30,548",Séamus Coleman,4-4-1-1,3-4-3,Jonathan Moss
+79,2021-09-13,20:00 ,4,Mon,Home,W,3,1,Burnley,1.4,1.0,52,"30,000",Séamus Coleman,3-4-3,4-4-2,Martin Atkinson
+80,2021-09-18,17:30 ,5,Sat,Away,L,0,3,Aston Villa,0.7,0.8,45,"41,888",Lucas Digne,4-4-1-1,5-3-2,Craig Pawson
+81,2021-09-25,15:00 ,6,Sat,Home,W,2,0,Norwich City,1.9,0.5,47,"38,821",Lucas Digne,4-4-1-1,5-3-2,David Coote
+82,2021-10-02,12:30 ,7,Sat,Away,D,1,1,Manchester Utd,1.3,1.0,28,"73,128",Lucas Digne,4-4-1-1,4-2-3-1,Michael Oliver
+83,2021-10-17,14:00 ,8,Sun,Home,L,0,1,West Ham,0.9,1.2,39,"39,132",Séamus Coleman,4-4-1-1,4-2-3-1,Stuart Attwell
+84,2021-10-23,15:00 ,9,Sat,Home,L,2,5,Watford,1.5,3.7,49,"38,834",Séamus Coleman,4-4-1-1,4-1-4-1,Graham Scott
+85,2021-11-01,20:00 ,10,Mon,Away,L,1,2,Wolves,1.5,1.7,39,"30,617",Séamus Coleman,4-4-2,3-4-3,Martin Atkinson
+86,2021-11-07,14:00 ,11,Sun,Home,D,0,0,Tottenham,0.6,0.7,45,"39,059",Séamus Coleman,4-4-1-1,3-4-3,Chris Kavanagh
+87,2021-11-21,14:00 ,12,Sun,Away,L,0,3,Manchester City,0.2,2.5,23,"52,571",Séamus Coleman,4-4-1-1,4-3-3,Stuart Attwell
+88,2021-11-28,14:00 ,13,Sun,Away,L,0,1,Brentford,1.0,1.2,60,"16,957",Séamus Coleman,4-4-1-1,3-5-2,Darren England
+89,2021-12-01,20:15 ,14,Wed,Home,L,1,4,Liverpool,0.7,2.4,33,"39,641",Séamus Coleman,4-4-2,4-3-3,Paul Tierney
+90,2021-12-06,20:00 ,15,Mon,Home,W,2,1,Arsenal,0.9,1.0,37,"38,906",Séamus Coleman,4-4-1-1,4-2-3-1,Mike Dean
+91,2021-12-12,16:30 ,16,Sun,Away,L,1,3,Crystal Palace,1.0,1.8,39,"24,066",Séamus Coleman,4-1-4-1,4-3-3,Andy Madley
+92,2021-12-16,19:45 ,17,Thu,Away,D,1,1,Chelsea,0.6,2.9,20,"13,933",Michael Keane,5-4-1,3-4-3,Michael Oliver
+93,2022-01-02,14:00 ,21,Sun,Home,L,2,3,Brighton,1.6,1.7,50,"38,203",Séamus Coleman,5-4-1,4-4-2,John Brooks
+94,2022-01-15,15:00 ,22,Sat,Away,L,1,2,Norwich City,0.6,1.0,59,"26,629",Séamus Coleman,4-4-2,4-4-2,Andy Madley
+95,2022-01-22,12:30 ,23,Sat,Home,L,0,1,Aston Villa,1.6,0.8,50,"38,203",Yerry Mina,4-4-2,4-3-3,Craig Pawson
+96,2022-02-08,19:45 ,24,Tue,Away,L,1,3,Newcastle Utd,0.7,1.9,60,"52,186",Séamus Coleman,3-4-3,4-3-3,Anthony Taylor
+97,2022-02-12,15:00 ,25,Sat,Home,W,3,0,Leeds United,2.7,0.3,42,"39,150",Séamus Coleman,4-4-2,3-3-3-1,Graham Scott
+98,2022-02-19,15:00 ,26,Sat,Away,L,0,2,Southampton,0.3,2.5,45,"31,312",Séamus Coleman,4-4-2,4-4-2,Andy Madley
+99,2022-02-26,17:30 ,27,Sat,Home,L,0,1,Manchester City,0.5,1.8,33,"39,105",Séamus Coleman,4-3-3,4-3-3,Paul Tierney
+100,2022-03-07,20:00 ,28,Mon,Away,L,0,5,Tottenham,0.2,2.5,45,"59,647",Séamus Coleman,4-2-3-1,3-4-3,Stuart Attwell
+101,2022-03-13,14:00 ,29,Sun,Home,L,0,1,Wolves,0.4,0.8,39,"39,112",Séamus Coleman,3-4-3,3-5-2,Michael Oliver
+102,2022-03-17,19:45 ,20,Thu,Home,W,1,0,Newcastle Utd,0.7,0.9,39,"39,068",Séamus Coleman,4-2-3-1,4-3-3,Craig Pawson
+103,2022-04-03,14:00 ,31,Sun,Away,L,1,2,West Ham,0.7,1.2,45,"59,953",Michael Keane,4-3-3,4-2-3-1,Michael Oliver
+104,2022-04-06,19:30 ,19,Wed,Away,L,2,3,Burnley,2.4,2.0,48,"19,830",Jordan Pickford,4-3-3,4-4-2,Mike Dean
+105,2022-04-09,12:30 ,32,Sat,Home,W,1,0,Manchester Utd,0.4,0.8,33,"39,080",Séamus Coleman,4-3-3,4-2-3-1,Jonathan Moss
+106,2022-04-20,19:45 ,18,Wed,Home,D,1,1,Leicester City,1.8,0.9,37,"39,153",Séamus Coleman,4-3-3,4-2-3-1,David Coote
+107,2022-04-24,16:30 ,34,Sun,Away,L,0,2,Liverpool,0.4,1.7,18,"53,213",Séamus Coleman,4-3-3,4-3-3,Stuart Attwell
+108,2022-05-01,14:00 ,35,Sun,Home,W,1,0,Chelsea,0.8,0.8,23,"39,256",Séamus Coleman,5-4-1,3-4-1-2,Kevin Friend
+109,2022-05-08,14:00 ,36,Sun,Away,W,2,1,Leicester City,1.1,1.5,34,"32,001",Séamus Coleman,5-4-1,3-1-4-2,Craig Pawson
+110,2022-05-11,19:45 ,30,Wed,Away,D,0,0,Watford,0.7,0.3,52,"20,653",Séamus Coleman,5-4-1,4-3-3,Mike Dean
+111,2022-05-15,16:30 ,37,Sun,Home,L,2,3,Brentford,2.1,1.4,28,"38,819",Séamus Coleman,3-4-3,4-3-3,Michael Oliver
+112,2022-05-19,19:45 ,33,Thu,Home,W,3,2,Crystal Palace,0.8,1.1,43,"38,448",Séamus Coleman,3-4-3,4-3-3,Anthony Taylor
+113,2022-05-22,16:00 ,38,Sun,Away,L,1,5,Arsenal,1.1,4.2,27,"60,201",Asmir Begović,5-4-1,4-2-3-1,Andre Marriner
+114,2020-09-13,16:30 ,1,Sun,Away,W,1,0,Tottenham,1.2,1.1,48,,Séamus Coleman,4-3-3,4-2-3-1,Martin Atkinson
+115,2020-09-19,12:30 ,2,Sat,Home,W,5,2,West Brom,3.9,0.3,71,,Séamus Coleman,4-3-3,5-4-1,Mike Dean
+116,2020-09-26,15:00 ,3,Sat,Away,W,2,1,Crystal Palace,1.9,0.4,58,,Séamus Coleman,4-3-3,4-4-2,Kevin Friend
+117,2020-10-03,15:00 ,4,Sat,Home,W,4,2,Brighton,1.6,1.3,43,,Séamus Coleman,4-3-3,3-4-3,Simon Hooper
+118,2020-10-17,12:30 ,5,Sat,Home,D,2,2,Liverpool,1.2,2.6,42,,Séamus Coleman,4-3-3,4-3-3,Michael Oliver
+119,2020-10-25,14:00 ,6,Sun,Away,L,0,2,Southampton,0.4,0.7,46,,Gylfi Sigurðsson,4-3-3,4-4-2,Kevin Friend
+120,2020-11-01,14:00 ,7,Sun,Away,L,1,2,Newcastle Utd,1.5,2.9,61,,Gylfi Sigurðsson,4-3-2-1,5-3-2,Stuart Attwell
+121,2020-11-07,12:30 ,8,Sat,Home,L,1,3,Manchester Utd,0.4,1.5,55,,Séamus Coleman,4-3-3,4-2-3-1,Paul Tierney
+122,2020-11-22,12:00 ,9,Sun,Away,W,3,2,Fulham,2.0,1.9,46,,Lucas Digne,3-4-3,4-2-3-1,Andy Madley
+123,2020-11-28,17:30 ,10,Sat,Home,L,0,1,Leeds United,1.2,2.9,41,,Mason Holgate,3-4-3,4-4-1-1,Chris Kavanagh
+124,2020-12-05,12:30 ,11,Sat,Away,D,1,1,Burnley,2.2,0.8,58,,Michael Keane,3-4-3,4-4-2,Anthony Taylor
+125,2020-12-12,20:00 ,12,Sat,Home,W,1,0,Chelsea,1.2,0.7,29,"2,000",Gylfi Sigurðsson,4-3-3,4-3-3,Jonathan Moss
+126,2020-12-16,18:00 ,13,Wed,Away,W,2,0,Leicester City,1.4,0.8,39,,Gylfi Sigurðsson,4-3-3,4-2-3-1,Lee Mason
+127,2020-12-19,17:30 ,14,Sat,Home,W,2,1,Arsenal,0.6,1.4,43,,Gylfi Sigurðsson,4-2-3-1,3-4-3,Andre Marriner
+128,2020-12-26,20:00 ,15,Sat,Away,W,1,0,Sheffield Utd,0.7,1.4,56,,Gylfi Sigurðsson,4-2-3-1,3-4-3,David Coote
+129,2021-01-01,17:30 ,17,Fri,Home,L,0,1,West Ham,0.4,1.3,60,,Séamus Coleman,4-2-3-1,4-2-3-1,Kevin Friend
+130,2021-01-12,20:15 ,18,Tue,Away,W,2,1,Wolves,0.6,0.7,48,,Gylfi Sigurðsson,4-4-2,4-3-3,Martin Atkinson
+131,2021-01-27,20:15 ,20,Wed,Home,D,1,1,Leicester City,0.5,1.2,35,,Lucas Digne,4-4-2,4-2-3-1,Mike Dean
+132,2021-01-30,12:30 ,21,Sat,Home,L,0,2,Newcastle Utd,0.8,1.7,60,,Séamus Coleman,4-2-3-1,4-3-1-2,Stuart Attwell
+133,2021-02-03,19:30 ,22,Wed,Away,W,2,1,Leeds United,1.6,1.3,37,,Gylfi Sigurðsson,4-2-3-1,4-1-4-1,Michael Oliver
+134,2021-02-06,20:00 ,23,Sat,Away,D,3,3,Manchester Utd,1.5,1.8,39,,Lucas Digne,4-3-1-2,4-2-3-1,Jonathan Moss
+135,2021-02-14,19:00 ,24,Sun,Home,L,0,2,Fulham,0.3,2.5,50,,Séamus Coleman,4-3-1-2,4-4-2,Andy Madley
+136,2021-02-17,20:15 ,16,Wed,Home,L,1,3,Manchester City,1.0,1.0,29,,Gylfi Sigurðsson,4-4-1-1,4-3-3,Andre Marriner
+137,2021-02-20,17:30 ,25,Sat,Away,W,2,0,Liverpool,1.6,1.4,29,,Séamus Coleman,5-3-2,4-3-3,Chris Kavanagh
+138,2021-03-01,20:00 ,26,Mon,Home,W,1,0,Southampton,1.2,0.6,47,,Gylfi Sigurðsson,4-3-1-2,4-4-2,Martin Atkinson
+139,2021-03-04,18:00 ,29,Thu,Away,W,1,0,West Brom,1.0,1.0,51,,Lucas Digne,4-4-2,4-1-4-1,Darren England
+140,2021-03-08,18:00 ,27,Mon,Away,L,0,2,Chelsea,0.3,2.4,35,,Gylfi Sigurðsson,3-4-1-2,3-4-3,David Coote
+141,2021-03-13,17:30 ,28,Sat,Home,L,1,2,Burnley,1.5,0.8,65,,Lucas Digne,4-1-2-1-2◆,4-4-2,Jonathan Moss
+142,2021-04-05,18:00 ,30,Mon,Home,D,1,1,Crystal Palace,2.5,0.7,48,,Séamus Coleman,3-4-1-2,4-4-2,Kevin Friend
+143,2021-04-12,20:15 ,31,Mon,Away,D,0,0,Brighton,0.4,1.2,45,,Séamus Coleman,5-3-2,3-4-3,Darren England
+144,2021-04-16,20:00 ,32,Fri,Home,D,2,2,Tottenham,1.8,1.4,53,,Gylfi Sigurðsson,4-4-2,3-4-1-2,Michael Oliver
+145,2021-04-23,20:00 ,33,Fri,Away,W,1,0,Arsenal,0.5,0.8,41,,Séamus Coleman,4-2-3-1,4-2-3-1,Jonathan Moss
+146,2021-05-01,20:00 ,34,Sat,Home,L,1,2,Aston Villa,1.0,1.6,47,,Séamus Coleman,4-2-3-1,4-2-3-1,Simon Hooper
+147,2021-05-09,16:30 ,35,Sun,Away,W,1,0,West Ham,1.5,1.3,32,,Séamus Coleman,4-4-2,4-2-3-1,Stuart Attwell
+148,2021-05-13,18:00 ,19,Thu,Away,D,0,0,Aston Villa,1.0,0.6,42,,Séamus Coleman,4-4-2,4-2-3-1,Martin Atkinson
+149,2021-05-16,19:00 ,36,Sun,Home,L,0,1,Sheffield Utd,1.4,1.2,62,,Séamus Coleman,4-2-3-1,3-4-3,Jonathan Moss
+150,2021-05-19,18:00 ,37,Wed,Home,W,1,0,Wolves,0.7,0.3,41,"4,988",Séamus Coleman,4-4-2,3-4-1-2,Andy Madley
+151,2021-05-23,16:00 ,38,Sun,Away,L,0,5,Manchester City,1.1,2.5,33,"10,000",Gylfi Sigurðsson,4-3-1-2,4-3-3,Michael Oliver
+152,2019-08-10,15:00 ,1,Sat,Away,D,0,0,Crystal Palace,1.1,0.9,64,"25,151",Séamus Coleman,4-2-3-1,4-4-2,Jonathan Moss
+153,2019-08-17,15:00 ,2,Sat,Home,W,1,0,Watford,0.7,1.2,44,"39,066",Séamus Coleman,4-2-3-1,4-2-2-2,Lee Mason
+154,2019-08-23,20:00 ,3,Fri,Away,L,0,2,Aston Villa,1.3,1.0,64,"41,922",Séamus Coleman,4-2-3-1,4-1-4-1,Michael Oliver
+155,2019-09-01,14:00 ,4,Sun,Home,W,3,2,Wolves,1.3,2.0,58,"39,374",Séamus Coleman,4-2-3-1,3-5-2,Anthony Taylor
+156,2019-09-15,14:00 ,5,Sun,Away,L,1,3,Bournemouth,1.5,1.4,59,"10,416",Séamus Coleman,4-2-3-1,4-4-2,Paul Tierney
+157,2019-09-21,15:00 ,6,Sat,Home,L,0,2,Sheffield Utd,1.0,0.5,69,"39,354",Séamus Coleman,4-2-3-1,3-5-2,Simon Hooper
+158,2019-09-28,17:30 ,7,Sat,Home,L,1,3,Manchester City,2.4,2.8,37,"39,222",Séamus Coleman,4-2-3-1,4-3-3,Michael Oliver
+159,2019-10-05,15:00 ,8,Sat,Away,L,0,1,Burnley,1.3,0.6,58,"20,650",Séamus Coleman,4-2-3-1,4-4-2,Graham Scott
+160,2019-10-19,12:30 ,9,Sat,Home,W,2,0,West Ham,2.1,0.8,51,"39,263",Lucas Digne,4-2-3-1,4-1-4-1,Paul Tierney
+161,2019-10-26,15:00 ,10,Sat,Away,L,2,3,Brighton,0.9,1.2,45,"30,529",Lucas Digne,4-2-3-1,4-4-2,Andy Madley
+162,2019-11-03,16:30 ,11,Sun,Home,D,1,1,Tottenham,1.1,0.6,47,"39,001",Lucas Digne,4-1-4-1,4-2-3-1,Martin Atkinson
+163,2019-11-09,15:00 ,12,Sat,Away,W,2,1,Southampton,1.8,0.9,53,"29,754",Gylfi Sigurðsson,4-2-3-1,3-4-3,Paul Tierney
+164,2019-11-23,15:00 ,13,Sat,Home,L,0,2,Norwich City,0.9,1.7,57,"39,241",Gylfi Sigurðsson,4-2-3-1,4-2-3-1,Anthony Taylor
+165,2019-12-01,16:30 ,14,Sun,Away,L,1,2,Leicester City,1.1,2.2,32,"32,144",Gylfi Sigurðsson,3-4-3,4-1-4-1,Graham Scott
+166,2019-12-04,20:15 ,15,Wed,Away,L,2,5,Liverpool,1.5,2.0,42,"53,094",Gylfi Sigurðsson,5-4-1,4-2-3-1,Mike Dean
+167,2019-12-07,12:30 ,16,Sat,Home,W,3,1,Chelsea,1.8,1.1,31,"39,114",Gylfi Sigurðsson,4-4-2,4-2-3-1,Craig Pawson
+168,2019-12-15,14:00 ,17,Sun,Away,D,1,1,Manchester Utd,0.3,1.4,34,"63,328",Séamus Coleman,4-4-2,4-2-3-1,Michael Oliver
+169,2019-12-21,12:30 ,18,Sat,Home,D,0,0,Arsenal,0.5,0.6,43,"39,336",Gylfi Sigurðsson,4-4-2,4-2-3-1,Kevin Friend
+170,2019-12-26,15:00 ,19,Thu,Home,W,1,0,Burnley,1.4,0.3,67,"39,177",Séamus Coleman,3-4-1-2,4-4-2,Anthony Taylor
+171,2019-12-28,15:00 ,20,Sat,Away,W,2,1,Newcastle Utd,2.9,1.8,57,"52,211",Leighton Baines,4-4-2,3-5-2,Lee Mason
+172,2020-01-01,17:30 ,21,Wed,Away,L,1,2,Manchester City,1.0,1.5,35,"54,407",Séamus Coleman,3-5-2,3-4-3,Andre Marriner
+173,2020-01-11,15:00 ,22,Sat,Home,W,1,0,Brighton,1.7,1.3,53,"38,772",Gylfi Sigurðsson,4-4-2,3-4-3,David Coote
+174,2020-01-18,15:00 ,23,Sat,Away,D,1,1,West Ham,1.7,1.3,50,"59,915",Séamus Coleman,4-4-2,4-4-1-1,Andre Marriner
+175,2020-01-21,19:30 ,24,Tue,Home,D,2,2,Newcastle Utd,1.8,1.3,55,"38,822",Lucas Digne,4-4-2,5-4-1,Simon Hooper
+176,2020-02-01,15:00 ,25,Sat,Away,W,3,2,Watford,2.2,0.9,55,"21,229",Gylfi Sigurðsson,4-4-2,4-2-3-1,Craig Pawson
+177,2020-02-08,12:30 ,26,Sat,Home,W,3,1,Crystal Palace,2.5,1.1,47,"38,987",Séamus Coleman,4-4-2,4-1-4-1,David Coote
+178,2020-02-23,16:30 ,27,Sun,Away,L,2,3,Arsenal,2.7,1.3,49,"60,296",Leighton Baines,4-4-2,4-2-3-1,Stuart Attwell
+179,2020-03-01,14:00 ,28,Sun,Home,D,1,1,Manchester Utd,2.1,1.1,44,"39,374",Séamus Coleman,4-4-2,4-1-2-1-2,Chris Kavanagh
+180,2020-03-08,14:00 ,29,Sun,Away,L,0,4,Chelsea,0.5,1.8,40,"40,694",Gylfi Sigurðsson,4-4-2,4-3-3,Kevin Friend
+181,2020-06-21,19:00 ,30,Sun,Home,D,0,0,Liverpool,0.9,0.7,31,,Séamus Coleman,4-4-2,4-3-3,Mike Dean
+182,2020-06-24,18:00 ,31,Wed,Away,W,1,0,Norwich City,0.8,0.4,53,,Séamus Coleman,4-4-2,4-2-3-1,Andy Madley
+183,2020-07-01,18:00 ,32,Wed,Home,W,2,1,Leicester City,1.2,1.8,35,,Séamus Coleman,4-4-2,4-1-4-1,David Coote
+184,2020-07-06,20:00 ,33,Mon,Away,L,0,1,Tottenham,0.5,0.5,48,,Séamus Coleman,4-4-2,4-3-3,Graham Scott
+185,2020-07-09,18:00 ,34,Thu,Home,D,1,1,Southampton,1.0,2.4,39,,Séamus Coleman,4-4-2,4-4-2,Lee Mason
+186,2020-07-12,12:00 ,35,Sun,Away,L,0,3,Wolves,0.3,2.6,45,,Leighton Baines,3-5-2,3-4-3,Anthony Taylor
+187,2020-07-16,18:00 ,36,Thu,Home,D,1,1,Aston Villa,0.9,1.3,54,,Séamus Coleman,4-4-2,4-3-3,Anthony Taylor
+188,2020-07-20,18:00 ,37,Mon,Away,W,1,0,Sheffield Utd,0.4,0.5,49,,Gylfi Sigurðsson,4-2-3-1,3-5-2,Stuart Attwell
+189,2020-07-26,16:00 ,38,Sun,Home,L,1,3,Bournemouth,1.7,1.5,69,,Séamus Coleman,4-2-3-1,4-4-2,Chris Kavanagh
+190,2018-08-11,17:30 ,1,Sat,Away,D,2,2,Wolves,1.0,1.0,42,"31,231",Phil Jagielka,4-2-3-1,3-4-3,Craig Pawson
+191,2018-08-18,15:00 ,2,Sat,Home,W,2,1,Southampton,1.5,1.7,57,"38,601",Séamus Coleman,4-2-3-1,4-4-2,Lee Mason
+192,2018-08-25,15:00 ,3,Sat,Away,D,2,2,Bournemouth,0.6,2.2,50,"10,654",Leighton Baines,4-4-1-1,4-4-2,Lee Probert
+193,2018-09-01,15:00 ,4,Sat,Home,D,1,1,Huddersfield,0.8,0.4,57,"38,767",Séamus Coleman,4-2-3-1,5-4-1,Stuart Attwell
+194,2018-09-16,16:00 ,5,Sun,Home,L,1,3,West Ham,1.4,1.2,56,"39,161",Gylfi Sigurðsson,4-2-3-1,4-1-4-1,Martin Atkinson
+195,2018-09-23,16:00 ,6,Sun,Away,L,0,2,Arsenal,0.8,0.8,38,"59,964",Tom Davies,4-2-3-1,4-2-3-1,Jonathan Moss
+196,2018-09-29,15:00 ,7,Sat,Home,W,3,0,Fulham,2.3,0.5,51,"38,788",Tom Davies,4-2-3-1,4-4-1-1,Roger East
+197,2018-10-06,15:00 ,8,Sat,Away,W,2,1,Leicester City,1.3,0.9,48,"32,007",Tom Davies,4-2-3-1,4-2-3-1,Andre Marriner
+198,2018-10-21,16:00 ,9,Sun,Home,W,2,0,Crystal Palace,1.8,1.3,59,"38,668",Séamus Coleman,4-2-3-1,4-4-2,Anthony Taylor
+199,2018-10-28,16:00 ,10,Sun,Away,L,1,2,Manchester Utd,1.8,2.3,46,"74,525",Séamus Coleman,4-2-3-1,4-3-3,Jonathan Moss
+200,2018-11-03,15:00 ,11,Sat,Home,W,3,1,Brighton,2.0,0.5,61,"38,966",Séamus Coleman,4-2-3-1,4-4-1-1,David Coote
+201,2018-11-11,14:15 ,12,Sun,Away,D,0,0,Chelsea,0.3,1.2,32,"40,345",Séamus Coleman,4-2-3-1,4-3-3,Kevin Friend
+202,2018-11-24,15:00 ,13,Sat,Home,W,1,0,Cardiff City,2.1,1.0,70,"39,139",Séamus Coleman,4-2-3-1,4-1-4-1,Paul Tierney
+203,2018-12-02,16:15 ,14,Sun,Away,L,0,1,Liverpool,1.1,2.9,42,"51,756",Séamus Coleman,4-4-1-1,4-2-3-1,Chris Kavanagh
+204,2018-12-05,19:45 ,15,Wed,Home,D,1,1,Newcastle Utd,1.8,1.5,75,"39,350",Séamus Coleman,4-2-3-1,5-4-1,Lee Mason
+205,2018-12-10,20:00 ,16,Mon,Home,D,2,2,Watford,1.7,1.7,56,"38,400",Séamus Coleman,4-2-3-1,4-2-2-2,Kevin Friend
+206,2018-12-15,12:30 ,17,Sat,Away,L,1,3,Manchester City,1.5,1.7,33,"54,173",Séamus Coleman,5-4-1,4-3-3,Craig Pawson
+207,2018-12-23,16:00 ,18,Sun,Home,L,2,6,Tottenham,0.9,2.0,42,"39,319",Séamus Coleman,4-2-3-1,4-1-2-1-2,Paul Tierney
+208,2018-12-26,15:00 ,19,Wed,Away,W,5,1,Burnley,1.5,2.0,51,"21,484",Séamus Coleman,3-4-3,5-3-2,Michael Oliver
+209,2018-12-29,15:00 ,20,Sat,Away,L,0,1,Brighton,0.7,1.1,54,"30,597",Séamus Coleman,3-4-3,4-5-1,Andy Madley
+210,2019-01-01,12:30 ,21,Tue,Home,L,0,1,Leicester City,1.0,0.6,59,"39,052",Gylfi Sigurðsson,4-2-3-1,4-3-3,Martin Atkinson
+211,2019-01-13,14:15 ,22,Sun,Home,W,2,0,Bournemouth,1.0,1.9,51,"38,113",Séamus Coleman,4-2-3-1,4-4-1-1,Anthony Taylor
+212,2019-01-19,15:00 ,23,Sat,Away,L,1,2,Southampton,0.9,0.7,61,"29,989",Séamus Coleman,4-2-3-1,3-5-2,Graham Scott
+213,2019-01-29,19:45 ,24,Tue,Away,W,1,0,Huddersfield,1.1,0.7,42,"23,699",Leighton Baines,4-1-4-1,4-3-3,Stuart Attwell
+214,2019-02-02,15:00 ,25,Sat,Home,L,1,3,Wolves,1.2,1.4,64,"39,380",Leighton Baines,4-1-4-1,3-5-2,Lee Mason
+215,2019-02-06,19:45 ,27,Wed,Home,L,0,2,Manchester City,0.1,2.2,39,"39,322",Tom Davies,4-2-3-1,4-3-3,Craig Pawson
+216,2019-02-09,15:00 ,26,Sat,Away,L,0,1,Watford,0.7,1.3,56,"20,333",Tom Davies,4-2-3-1,4-2-2-2,Lee Probert
+217,2019-02-26,19:45 ,28,Tue,Away,W,3,0,Cardiff City,1.0,0.3,66,"31,849",Phil Jagielka,4-2-3-1,4-4-1-1,Kevin Friend
+218,2019-03-03,16:15 ,29,Sun,Home,D,0,0,Liverpool,0.3,1.1,43,"39,335",Séamus Coleman,4-4-1-1,4-3-3,Martin Atkinson
+219,2019-03-09,15:00 ,30,Sat,Away,L,2,3,Newcastle Utd,1.1,2.4,55,"52,242",Gylfi Sigurðsson,4-2-3-1,3-4-3,Lee Mason
+220,2019-03-17,16:30 ,31,Sun,Home,W,2,0,Chelsea,2.3,1.4,33,"39,356",Séamus Coleman,4-2-3-1,4-3-3,Anthony Taylor
+221,2019-03-30,17:30 ,32,Sat,Away,W,2,0,West Ham,1.8,0.1,51,"59,988",Séamus Coleman,4-2-3-1,4-4-2,Paul Tierney
+222,2019-04-07,14:05 ,33,Sun,Home,W,1,0,Arsenal,2.4,0.3,43,"39,400",Phil Jagielka,4-2-3-1,3-4-3,Kevin Friend
+223,2019-04-13,15:00 ,34,Sat,Away,L,0,2,Fulham,1.1,1.5,59,"24,971",Phil Jagielka,4-2-3-1,4-2-3-1,Lee Probert
+224,2019-04-21,13:30 ,35,Sun,Home,W,4,0,Manchester Utd,1.6,0.3,48,"39,395",Séamus Coleman,4-2-3-1,4-3-3,Paul Tierney
+225,2019-04-27,15:00 ,36,Sat,Away,D,0,0,Crystal Palace,1.5,0.3,63,"25,789",Séamus Coleman,4-2-3-1,4-4-2,Lee Mason
+226,2019-05-03,20:00 ,37,Fri,Home,W,2,0,Burnley,1.7,0.3,59,"39,303",Séamus Coleman,4-2-3-1,4-4-2,Chris Kavanagh
+227,2019-05-12,15:00 ,38,Sun,Away,D,2,2,Tottenham,2.0,0.6,45,"60,124",Gylfi Sigurðsson,4-2-3-1,4-2-3-1,Andre Marriner
+228,2017-08-12,15:00 ,1,Sat,Home,W,1,0,Stoke City,0.6,0.4,60,"39,045",Phil Jagielka,3-4-3,3-4-3,Niel Swarbrick
+229,2017-08-21,20:00 ,2,Mon,Away,D,1,1,Manchester City,0.6,1.1,36,"49,108",Phil Jagielka,3-5-2,3-1-4-2,Robert Madley
+230,2017-08-27,13:30 ,3,Sun,Away,L,0,2,Chelsea,0.4,1.0,43,"41,382",Phil Jagielka,3-4-3,3-4-3,Jonathan Moss
+231,2017-09-09,15:00 ,4,Sat,Home,L,0,3,Tottenham,0.9,1.8,51,"38,835",Leighton Baines,4-2-3-1,3-5-1-1,Graham Scott
+232,2017-09-17,16:00 ,5,Sun,Away,L,0,4,Manchester Utd,1.1,2.9,51,"75,042",Phil Jagielka,3-4-3,4-2-3-1,Andre Marriner
+233,2017-09-23,15:00 ,6,Sat,Home,W,2,1,Bournemouth,2.0,0.3,51,"38,133",Leighton Baines,4-3-3,4-4-1-1,Martin Atkinson
+234,2017-10-01,14:15 ,7,Sun,Home,L,0,1,Burnley,1.1,0.4,63,"38,448",Leighton Baines,4-2-2-2,4-4-1-1,Jonathan Moss
+235,2017-10-15,13:30 ,8,Sun,Away,D,1,1,Brighton,1.5,1.0,53,"30,565",Phil Jagielka,4-2-3-1,4-4-2,Michael Oliver
+236,2017-10-22,13:30 ,9,Sun,Home,L,2,5,Arsenal,1.0,3.5,33,"39,189",Phil Jagielka,3-4-3,3-4-3,Craig Pawson
+237,2017-10-29,16:00 ,10,Sun,Away,L,0,2,Leicester City,0.6,1.3,59,"31,891",Phil Jagielka,4-4-1-1,4-4-1-1,Andre Marriner
+238,2017-11-05,16:30 ,11,Sun,Home,W,3,2,Watford,2.1,2.0,38,"38,609",Phil Jagielka,4-3-3,4-3-3,Graham Scott
+239,2017-11-18,15:00 ,12,Sat,Away,D,2,2,Crystal Palace,1.8,2.0,31,"25,526",Phil Jagielka,4-3-3,4-4-2,Anthony Taylor
+240,2017-11-26,13:30 ,13,Sun,Away,L,1,4,Southampton,0.2,2.0,33,"30,461",Phil Jagielka,4-4-2,4-2-3-1,Kevin Friend
+241,2017-11-29,20:00 ,14,Wed,Home,W,4,0,West Ham,1.5,1.1,44,"38,242",Wayne Rooney,4-1-4-1,4-1-4-1,Michael Oliver
+242,2017-12-02,15:00 ,15,Sat,Home,W,2,0,Huddersfield,0.7,0.3,47,"39,167",Wayne Rooney,4-1-4-1,4-2-3-1,Chris Kavanagh
+243,2017-12-10,14:15 ,16,Sun,Away,D,1,1,Liverpool,0.9,1.6,21,"53,082",Wayne Rooney,4-4-2,4-3-3,Craig Pawson
+244,2017-12-13,19:45 ,17,Wed,Away,W,1,0,Newcastle Utd,1.2,0.8,45,"51,042",Wayne Rooney,4-2-3-1,4-2-3-1,Martin Atkinson
+245,2017-12-18,20:00 ,18,Mon,Home,W,3,1,Swansea City,2.0,0.8,51,"37,580",Wayne Rooney,4-2-3-1,4-3-3,Jonathan Moss
+246,2017-12-23,12:30 ,19,Sat,Home,D,0,0,Chelsea,0.3,1.8,32,"39,191",Phil Jagielka,4-1-4-1,3-4-3,Robert Madley
+247,2017-12-26,15:00 ,20,Tue,Away,D,0,0,West Brom,0.4,1.5,48,"25,364",Ashley Williams,3-1-4-2,4-4-2,Roger East
+248,2017-12-30,15:00 ,21,Sat,Away,L,1,2,Bournemouth,0.5,1.5,53,"10,497",Phil Jagielka,4-3-3,4-4-1-1,Lee Probert
+249,2018-01-01,17:30 ,22,Mon,Home,L,0,2,Manchester Utd,1.2,1.4,40,"39,188",Wayne Rooney,4-2-3-1,4-3-3,Andre Marriner
+250,2018-01-13,17:30 ,23,Sat,Away,L,0,4,Tottenham,0.3,3.8,39,"76,251",Phil Jagielka,4-2-3-1,4-2-3-1,Craig Pawson
+251,2018-01-20,15:00 ,24,Sat,Home,D,1,1,West Brom,1.1,1.1,56,"39,061",Ashley Williams,4-2-3-1,4-4-2,Stuart Attwell
+252,2018-01-31,19:45 ,25,Wed,Home,W,2,1,Leicester City,1.2,2.2,44,"38,390",Phil Jagielka,4-2-3-1,4-2-3-1,Chris Kavanagh
+253,2018-02-03,17:30 ,26,Sat,Away,L,1,5,Arsenal,1.2,2.6,43,"59,306",Ashley Williams,3-4-3,4-2-3-1,Niel Swarbrick
+254,2018-02-10,15:00 ,27,Sat,Home,W,3,1,Crystal Palace,1.5,1.5,52,"39,139",Wayne Rooney,4-3-3,4-3-3,Jonathan Moss
+255,2018-02-24,17:30 ,28,Sat,Away,L,0,1,Watford,0.8,0.6,46,"20,430",Wayne Rooney,4-3-3,4-2-3-1,Anthony Taylor
+256,2018-03-03,12:30 ,29,Sat,Away,L,1,2,Burnley,1.5,2.1,45,"20,802",Ashley Williams,4-3-3,4-4-1-1,Chris Kavanagh
+257,2018-03-10,15:00 ,30,Sat,Home,W,2,0,Brighton,1.5,0.3,59,"39,199",Phil Jagielka,4-2-3-1,4-4-1-1,Roger East
+258,2018-03-17,15:00 ,31,Sat,Away,W,2,1,Stoke City,2.3,0.8,57,"30,022",Phil Jagielka,4-2-3-1,4-3-3,Martin Atkinson
+259,2018-03-31,17:30 ,32,Sat,Home,L,1,3,Manchester City,0.9,1.5,19,"39,221",Phil Jagielka,4-2-3-1,3-5-2,Paul Tierney
+260,2018-04-07,12:30 ,33,Sat,Home,D,0,0,Liverpool,0.6,0.9,39,"39,220",Phil Jagielka,4-3-3,4-3-3,Michael Oliver
+261,2018-04-14,15:00 ,34,Sat,Away,D,1,1,Swansea City,1.6,1.3,49,"20,933",Phil Jagielka,4-2-3-1,4-4-2,Lee Mason
+262,2018-04-23,20:00 ,35,Mon,Home,W,1,0,Newcastle Utd,0.7,0.8,56,"39,061",Phil Jagielka,4-3-3,4-4-1-1,Robert Madley
+263,2018-04-28,15:00 ,36,Sat,Away,W,2,0,Huddersfield,0.6,0.6,46,"24,121",Phil Jagielka,4-2-3-1,4-2-3-1,Lee Probert
+264,2018-05-05,17:30 ,37,Sat,Home,D,1,1,Southampton,0.5,0.7,54,"38,225",Phil Jagielka,4-2-3-1,3-4-3,Jonathan Moss
+265,2018-05-13,15:00 ,38,Sun,Away,L,1,3,West Ham,1.6,1.1,43,"56,926",Phil Jagielka,3-1-4-2,3-4-3,Graham Scott

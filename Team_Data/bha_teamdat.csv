@@ -1,0 +1,267 @@
+,Date,Time,Matchweek,Day,Venue,Result,Goals Scored,Goals Conceded,Opponent,xG,xGA,Possession,Attendance,Captain,Formation,Opposition Formation,Referee
+0,2023-08-12,15:00 ,1,Sat,Home,W,4,1,Luton Town,4.0,1.5,70,"31,872",Lewis Dunk,4-2-3-1,3-5-2,David Coote
+1,2023-08-19,15:00 ,2,Sat,Away,W,4,1,Wolves,2.2,2.1,53,"31,317",Lewis Dunk,4-2-3-1,4-4-1-1,Andy Madley
+2,2023-08-26,17:30 ,3,Sat,Home,L,1,3,West Ham,1.5,3.0,78,"31,508",Lewis Dunk,4-2-3-1,4-1-4-1,Anthony Taylor
+3,2023-09-02,17:30 ,4,Sat,Home,W,3,1,Newcastle Utd,1.3,1.2,56,"31,620",Lewis Dunk,4-2-3-1,4-3-3,Stuart Attwell
+4,2023-09-16,15:00 ,5,Sat,Away,W,3,1,Manchester Utd,1.7,1.0,56,"73,592",Lewis Dunk,4-2-3-1,4-1-2-1-2,Jarred Gillett
+5,2023-09-24,14:00 ,6,Sun,Home,W,3,1,Bournemouth,1.9,1.1,61,"31,617",Lewis Dunk,4-2-3-1,4-2-3-1,John Brooks
+6,2023-09-30,12:30 ,7,Sat,Away,L,1,6,Aston Villa,1.7,1.6,61,"40,636",Lewis Dunk,4-2-3-1,4-2-3-1,Andy Madley
+7,2023-10-08,14:00 ,8,Sun,Home,D,2,2,Liverpool,2.3,2.3,46,"31,752",Lewis Dunk,4-2-3-1,4-3-3,Anthony Taylor
+8,2023-10-21,15:00 ,9,Sat,Away,L,1,2,Manchester City,0.8,0.8,45,"53,466",Lewis Dunk,4-2-3-1,3-2-4-1,Robert Jones
+9,2023-10-29,14:00 ,10,Sun,Home,D,1,1,Fulham,1.4,0.7,71,"31,550",Lewis Dunk,3-4-3,4-2-3-1,Michael Salisbury
+10,2023-11-04,15:00 ,11,Sat,Away,D,1,1,Everton,0.5,0.7,79,"38,683",Lewis Dunk,4-3-3,4-4-1-1,Tim Robinson
+11,2023-11-12,14:00 ,12,Sun,Home,D,1,1,Sheffield Utd,1.5,1.1,61,"31,367",Pascal Groß,4-2-3-1,3-4-3,John Brooks
+12,2023-11-25,15:00 ,13,Sat,Away,W,3,2,Nott'ham Forest,1.3,1.9,53,"29,404",Lewis Dunk,4-2-3-1,4-1-4-1,Anthony Taylor
+13,2023-12-03,14:00 ,14,Sun,Away,L,2,3,Chelsea,1.1,2.1,68,"39,647",Adam Lallana,4-2-3-1,4-2-3-1,Craig Pawson
+14,2023-12-06,19:30 ,15,Wed,Home,W,2,1,Brentford,1.5,1.5,61,"31,571",Pascal Groß,4-2-3-1,4-4-2,Peter Bankes
+15,2023-12-09,15:00 ,16,Sat,Home,D,1,1,Burnley,2.6,0.6,72,"31,511",Lewis Dunk,4-2-3-1,4-4-2,Simon Hooper
+16,2023-12-17,14:00 ,17,Sun,Away,L,0,2,Arsenal,0.7,2.3,51,"60,257",Lewis Dunk,4-2-3-1,4-3-3,Tim Robinson
+17,2023-12-21,20:00 ,18,Thu,Away,D,1,1,Crystal Palace,1.2,1.3,65,"24,171",Lewis Dunk,4-2-3-1,4-3-3,John Brooks
+18,2023-12-28,19:30 ,19,Thu,Home,W,4,2,Tottenham,3.2,2.3,45,"31,675",Lewis Dunk,4-1-2-1-2◆,4-2-3-1,Jarred Gillett
+19,2024-01-02,19:30 ,20,Tue,Away,D,0,0,West Ham,2.3,0.7,68,"62,462",Pascal Groß,4-3-1-2,4-2-3-1,Samuel Barrott
+20,2024-01-22,19:45 ,21,Mon,Home,D,0,0,Wolves,1.0,1.1,72,"41,505",Lewis Dunk,4-3-3,3-4-3,Craig Pawson
+21,2024-01-30,19:45 ,22,Tue,Away,L,0,4,Luton Town,0.9,3.1,59,"10,994",Lewis Dunk,3-4-3,3-4-3,Robert Jones
+22,2024-02-03,15:00 ,23,Sat,Home,W,4,1,Crystal Palace,1.4,0.3,68,"31,345",Lewis Dunk,3-4-3,4-3-3,Simon Hooper
+23,2024-02-10,15:00 ,24,Sat,Away,L,1,2,Tottenham,1.2,1.6,48,"61,445",Lewis Dunk,4-2-3-1,4-2-3-1,Samuel Barrott
+24,2024-02-18,14:00 ,25,Sun,Away,W,5,0,Sheffield Utd,2.9,0.6,79,"29,522",Lewis Dunk,4-2-3-1,3-5-1-1,Stuart Attwell
+25,2024-02-24,15:00 ,26,Sat,Home,D,1,1,Everton,1.4,0.3,64,"41,646",Lewis Dunk,4-2-3-1,4-4-1-1,Tony Harrington
+26,2024-03-02,15:00 ,27,Sat,Away,L,0,3,Fulham,1.3,1.3,70,"24,460",Lewis Dunk,3-4-3,4-2-3-1,Simon Hooper
+27,2024-03-10,14:00 ,28,Sun,Home,W,1,0,Nott'ham Forest,0.4,0.7,63,"31,505",Lewis Dunk,4-2-3-1,4-3-3,Michael Salisbury
+28,2024-03-31,14:00 ,30,Sun,Away,L,1,2,Liverpool,0.5,2.8,45,"60,061",Lewis Dunk,4-2-3-1,4-3-3,David Coote
+29,2024-04-03,19:30 ,31,Wed,Away,D,0,0,Brentford,1.1,0.6,66,"17,024",Lewis Dunk,4-2-3-1,3-5-2,Andy Madley
+30,2024-04-06,17:30 ,32,Sat,Home,L,0,3,Arsenal,0.5,3.4,54,"31,677",Lewis Dunk,4-2-3-1,4-3-3,John Brooks
+31,2024-04-13,15:00 ,33,Sat,Away,D,1,1,Burnley,0.9,1.7,56,"20,687",Lewis Dunk,4-2-3-1,4-4-2,Simon Hooper
+32,2024-04-25,20:00 ,29,Thu,Home,L,0,4,Manchester City,0.6,1.4,36,"31,596",Lewis Dunk,4-2-3-1,4-1-4-1,Jarred Gillett
+33,2024-04-28,14:00 ,35,Sun,Away,L,0,3,Bournemouth,0.9,1.9,69,"11,188",Lewis Dunk,4-2-3-1,4-4-2,Paul Tierney
+34,2024-05-05,14:00 ,36,Sun,Home,W,1,0,Aston Villa,2.5,0.1,52,"31,596",Lewis Dunk,4-2-3-1,4-2-3-1,Robert Jones
+35,2024-05-11,15:00 ,37,Sat,Away,D,1,1,Newcastle Utd,1.4,2.2,43,"51,997",Lewis Dunk,4-2-3-1,4-3-3,Darren England
+36,2024-05-15,19:45 ,34,Wed,Home,L,1,2,Chelsea,1.3,1.5,55,"31,555",Lewis Dunk,4-2-3-1,4-2-3-1,Michael Salisbury
+37,2024-05-19,16:00 ,38,Sun,Home,L,0,2,Manchester Utd,1.7,1.3,55,"31,662",Adam Lallana,4-2-3-1,4-2-2-2,Craig Pawson
+38,2022-08-07,14:00 ,1,Sun,Away,W,2,1,Manchester Utd,1.5,1.4,38,"73,711",Lewis Dunk,3-3-3-1,4-3-3,Paul Tierney
+39,2022-08-13,15:00 ,2,Sat,Home,D,0,0,Newcastle Utd,1.5,0.2,54,"31,552",Lewis Dunk,3-4-1-2,4-3-3,Graham Scott
+40,2022-08-21,14:00 ,3,Sun,Away,W,2,0,West Ham,1.7,0.8,50,"62,449",Lewis Dunk,3-5-1-1,4-2-3-1,Anthony Taylor
+41,2022-08-27,15:00 ,4,Sat,Home,W,1,0,Leeds United,2.0,1.8,44,"30,953",Lewis Dunk,4-4-2,4-2-3-1,Michael Salisbury
+42,2022-08-30,19:30 ,5,Tue,Away,L,1,2,Fulham,1.4,0.7,61,"22,224",Lewis Dunk,3-5-2,4-2-3-1,Thomas Bramall
+43,2022-09-04,14:00 ,6,Sun,Home,W,5,2,Leicester City,2.6,1.4,53,"31,185",Lewis Dunk,3-5-2,4-4-2,Tony Harrington
+44,2022-10-01,15:00 ,9,Sat,Away,D,3,3,Liverpool,1.4,1.5,46,"53,320",Lewis Dunk,3-4-3,4-3-3,Andy Madley
+45,2022-10-08,17:30 ,10,Sat,Home,L,0,1,Tottenham,0.7,0.8,59,"31,498",Lewis Dunk,3-4-3,3-5-2,Tony Harrington
+46,2022-10-14,20:00 ,11,Fri,Away,L,0,2,Brentford,1.9,1.5,72,"17,016",Lewis Dunk,4-4-2,4-3-3,Michael Salisbury
+47,2022-10-18,19:30 ,12,Tue,Home,D,0,0,Nott'ham Forest,1.7,0.1,70,"31,463",Lewis Dunk,3-4-3,4-3-3,Darren England
+48,2022-10-22,15:00 ,13,Sat,Away,L,1,3,Manchester City,0.5,1.6,52,"53,223",Lewis Dunk,3-4-1-2,4-3-3,Craig Pawson
+49,2022-10-29,15:00 ,14,Sat,Home,W,4,1,Chelsea,2.4,1.4,41,"31,746",Lewis Dunk,4-2-3-1,3-4-3,Andy Madley
+50,2022-11-05,15:00 ,15,Sat,Away,W,3,2,Wolves,1.5,1.2,71,"30,732",Lewis Dunk,4-2-3-1,4-3-3,Graham Scott
+51,2022-11-13,14:00 ,16,Sun,Home,L,1,2,Aston Villa,0.6,1.5,65,"31,581",Lewis Dunk,4-2-3-1,4-4-2,Chris Kavanagh
+52,2022-12-26,15:00 ,17,Mon,Away,W,3,1,Southampton,0.6,1.9,66,"31,010",Lewis Dunk,4-2-3-1,4-2-3-1,Robert Jones
+53,2022-12-31,17:30 ,18,Sat,Home,L,2,4,Arsenal,1.2,2.9,68,"31,647",Lewis Dunk,4-2-3-1,4-3-3,Anthony Taylor
+54,2023-01-03,19:45 ,19,Tue,Away,W,4,1,Everton,2.2,1.3,51,"39,103",Lewis Dunk,4-2-3-1,4-3-3,Andre Marriner
+55,2023-01-14,15:00 ,20,Sat,Home,W,3,0,Liverpool,1.9,1.0,61,"31,645",Lewis Dunk,4-2-3-1,4-1-2-1-2,Darren England
+56,2023-01-21,15:00 ,21,Sat,Away,D,2,2,Leicester City,1.7,0.9,63,"32,056",Lewis Dunk,4-2-3-1,4-4-2,Thomas Bramall
+57,2023-02-04,15:00 ,22,Sat,Home,W,1,0,Bournemouth,2.2,1.1,71,"31,600",Lewis Dunk,3-4-3,4-4-1-1,Craig Pawson
+58,2023-02-11,15:00 ,23,Sat,Away,D,1,1,Crystal Palace,2.5,1.1,73,"24,827",Lewis Dunk,4-2-3-1,4-4-2,Michael Oliver
+59,2023-02-18,15:00 ,24,Sat,Home,L,0,1,Fulham,2.2,0.3,65,"31,619",Lewis Dunk,4-2-3-1,4-2-3-1,Darren England
+60,2023-03-04,15:00 ,26,Sat,Home,W,4,0,West Ham,3.5,0.3,65,"31,523",Lewis Dunk,4-2-3-1,4-2-3-1,Stuart Attwell
+61,2023-03-11,15:00 ,27,Sat,Away,D,2,2,Leeds United,2.7,0.9,62,"36,471",Lewis Dunk,4-2-3-1,4-2-3-1,Paul Tierney
+62,2023-03-15,19:30 ,8,Wed,Home,W,1,0,Crystal Palace,0.6,1.1,57,"30,933",Lewis Dunk,4-2-3-1,4-3-3,Peter Bankes
+63,2023-04-01,15:00 ,29,Sat,Home,D,3,3,Brentford,4.2,1.6,72,"31,493",Lewis Dunk,4-2-3-1,5-3-2,Michael Oliver
+64,2023-04-04,19:45 ,7,Tue,Away,W,2,0,Bournemouth,2.7,1.7,63,"10,266",Lewis Dunk,4-2-3-1,4-4-1-1,Darren Bond
+65,2023-04-08,15:00 ,30,Sat,Away,L,1,2,Tottenham,1.4,0.8,65,"61,405",Lewis Dunk,4-2-3-1,3-4-3,Stuart Attwell
+66,2023-04-15,15:00 ,31,Sat,Away,W,2,1,Chelsea,2.9,0.5,57,"40,126",Lewis Dunk,4-2-3-1,4-2-3-1,Robert Jones
+67,2023-04-26,19:30 ,33,Wed,Away,L,1,3,Nott'ham Forest,2.3,2.4,74,"28,808",Lewis Dunk,4-2-3-1,3-4-3,Jarred Gillett
+68,2023-04-29,15:00 ,34,Sat,Home,W,6,0,Wolves,3.3,0.8,57,"31,584",Lewis Dunk,4-2-3-1,4-4-2,David Coote
+69,2023-05-04,20:00 ,28,Thu,Home,W,1,0,Manchester Utd,2.3,1.4,59,"31,577",Lewis Dunk,4-2-3-1,4-3-3,Andre Marriner
+70,2023-05-08,17:30 ,35,Mon,Home,L,1,5,Everton,3.2,2.3,78,"31,567",Lewis Dunk,4-2-3-1,4-2-3-1,Simon Hooper
+71,2023-05-14,16:30 ,36,Sun,Away,W,3,0,Arsenal,1.7,0.9,59,"60,139",Lewis Dunk,4-2-3-1,4-3-3,Andy Madley
+72,2023-05-18,19:30 ,25,Thu,Away,L,1,4,Newcastle Utd,0.5,3.6,65,"52,122",Lewis Dunk,4-2-3-1,4-3-3,Robert Jones
+73,2023-05-21,14:00 ,37,Sun,Home,W,3,1,Southampton,2.5,0.6,63,"31,507",Lewis Dunk,4-2-3-1,4-1-4-1,Paul Tierney
+74,2023-05-24,20:00 ,32,Wed,Home,D,1,1,Manchester City,2.2,1.8,40,"31,388",Pascal Groß,4-2-3-1,4-3-3,Simon Hooper
+75,2023-05-28,16:30 ,38,Sun,Away,L,1,2,Aston Villa,1.4,2.8,59,,Pascal Groß,4-4-2,4-2-3-1,David Coote
+76,2021-08-14,15:00 ,1,Sat,Away,W,2,1,Burnley,1.0,1.5,63,"16,910",Lewis Dunk,4-1-4-1,4-4-2,David Coote
+77,2021-08-21,17:30 ,2,Sat,Home,W,2,0,Watford,1.3,0.5,56,"29,485",Lewis Dunk,4-4-1-1,4-1-4-1,Anthony Taylor
+78,2021-08-28,15:00 ,3,Sat,Home,L,0,2,Everton,0.7,1.4,65,"30,548",Lewis Dunk,3-4-3,4-4-1-1,Jonathan Moss
+79,2021-09-11,15:00 ,4,Sat,Away,W,1,0,Brentford,0.3,0.4,59,"16,518",Lewis Dunk,3-4-1-2,3-5-2,Graham Scott
+80,2021-09-19,14:00 ,5,Sun,Home,W,2,1,Leicester City,1.7,1.6,37,"31,078",Lewis Dunk,4-4-2,4-3-3,Stuart Attwell
+81,2021-09-27,20:00 ,6,Mon,Away,D,1,1,Crystal Palace,0.8,1.4,53,"22,975",Lewis Dunk,3-4-3,4-3-3,Andre Marriner
+82,2021-10-02,17:30 ,7,Sat,Home,D,0,0,Arsenal,1.1,0.4,58,"31,266",Lewis Dunk,3-5-2,4-2-3-1,Jonathan Moss
+83,2021-10-16,15:00 ,8,Sat,Away,D,0,0,Norwich City,0.8,1.2,64,"26,777",Lewis Dunk,3-5-2,5-3-2,Peter Bankes
+84,2021-10-23,17:30 ,9,Sat,Home,L,1,4,Manchester City,1.3,3.8,48,"31,215",Lewis Dunk,3-5-2,4-3-3,Kevin Friend
+85,2021-10-30,15:00 ,10,Sat,Away,D,2,2,Liverpool,1.0,1.5,42,"52,598",Lewis Dunk,4-2-3-1,4-3-3,Mike Dean
+86,2021-11-06,17:30 ,11,Sat,Home,D,1,1,Newcastle Utd,1.5,0.3,65,"31,267",Lewis Dunk,4-2-3-1,5-4-1,David Coote
+87,2021-11-20,15:00 ,12,Sat,Away,L,0,2,Aston Villa,0.4,0.7,62,"41,925",Lewis Dunk,3-5-2,4-3-3,Anthony Taylor
+88,2021-11-27,17:30 ,13,Sat,Home,D,0,0,Leeds United,2.1,0.6,57,"31,166",Lewis Dunk,4-2-3-1,4-2-3-1,Craig Pawson
+89,2021-12-01,19:30 ,14,Wed,Away,D,1,1,West Ham,1.3,1.3,65,"59,626",Lewis Dunk,4-2-3-1,4-2-3-1,Chris Kavanagh
+90,2021-12-04,15:00 ,15,Sat,Away,D,1,1,Southampton,1.6,1.6,56,"28,706",Shane Duffy,3-5-2,4-4-2,Anthony Taylor
+91,2021-12-15,19:30 ,17,Wed,Home,L,0,1,Wolves,1.2,1.0,59,"30,362",Dan Burn,4-3-3,3-4-3,Tony Harrington
+92,2021-12-26,20:00 ,19,Sun,Home,W,2,0,Brentford,0.8,0.7,50,"30,141",Adam Lallana,4-1-2-1-2◆,3-5-2,Darren England
+93,2021-12-29,19:30 ,20,Wed,Away,D,1,1,Chelsea,0.9,0.7,53,"40,080",Adam Lallana,3-4-3,3-4-3,Mike Dean
+94,2022-01-02,14:00 ,21,Sun,Away,W,3,2,Everton,1.7,1.6,50,"38,203",Adam Lallana,4-4-2,5-4-1,John Brooks
+95,2022-01-14,20:00 ,22,Fri,Home,D,1,1,Crystal Palace,2.0,0.2,63,"30,675",Adam Lallana,4-1-2-1-2◆,4-3-3,Robert Jones
+96,2022-01-18,20:00 ,24,Tue,Home,D,1,1,Chelsea,0.7,0.7,44,"30,880",Adam Webster,4-1-4-1,4-2-2-2,Kevin Friend
+97,2022-01-23,14:00 ,23,Sun,Away,D,1,1,Leicester City,1.1,1.4,56,"31,231",Adam Webster,4-1-2-1-2◆,4-2-3-1,Martin Atkinson
+98,2022-02-12,15:00 ,25,Sat,Away,W,2,0,Watford,1.6,0.5,64,"20,795",Lewis Dunk,3-1-4-2,4-4-2,Jonathan Moss
+99,2022-02-15,20:15 ,18,Tue,Away,L,0,2,Manchester Utd,0.7,1.7,50,"73,012",Lewis Dunk,4-1-2-1-2◆,4-2-3-1,Peter Bankes
+100,2022-02-19,15:00 ,26,Sat,Home,L,0,3,Burnley,0.6,0.7,68,"30,361",Adam Lallana,4-4-2,4-4-2,Kevin Friend
+101,2022-02-26,15:00 ,27,Sat,Home,L,0,2,Aston Villa,0.7,1.0,66,"31,475",Lewis Dunk,3-5-2,4-1-2-1-2,John Brooks
+102,2022-03-05,15:00 ,28,Sat,Away,L,1,2,Newcastle Utd,1.5,1.7,68,"52,214",Lewis Dunk,4-1-2-1-2◆,4-3-3,Martin Atkinson
+103,2022-03-12,12:30 ,29,Sat,Home,L,0,2,Liverpool,0.5,2.2,52,"31,474",Lewis Dunk,4-2-3-1,4-3-3,Mike Dean
+104,2022-03-16,19:30 ,16,Wed,Home,L,0,2,Tottenham,0.7,2.2,48,"31,144",Lewis Dunk,4-2-3-1,3-4-3,Robert Jones
+105,2022-04-02,15:00 ,31,Sat,Home,D,0,0,Norwich City,2.8,0.4,63,"31,245",Lewis Dunk,3-4-1-2,4-1-2-1-2,Simon Hooper
+106,2022-04-09,15:00 ,32,Sat,Away,W,2,1,Arsenal,0.6,1.9,36,"60,112",Lewis Dunk,3-5-2,4-2-3-1,David Coote
+107,2022-04-16,12:30 ,33,Sat,Away,W,1,0,Tottenham,0.6,0.5,51,"58,685",Lewis Dunk,3-5-2,3-4-3,Craig Pawson
+108,2022-04-20,20:00 ,30,Wed,Away,L,0,3,Manchester City,0.2,1.3,35,"52,226",Lewis Dunk,3-5-2,4-3-3,Mike Dean
+109,2022-04-24,14:00 ,34,Sun,Home,D,2,2,Southampton,1.7,0.9,48,"31,335",Lewis Dunk,4-3-1-2,4-4-2,Robert Jones
+110,2022-04-30,15:00 ,35,Sat,Away,W,3,0,Wolves,2.6,0.7,51,"31,243",Lewis Dunk,3-4-3,3-5-2,Simon Hooper
+111,2022-05-07,17:30 ,36,Sat,Home,W,4,0,Manchester Utd,2.3,0.9,42,"31,637",Lewis Dunk,3-4-3,4-2-3-1,Andy Madley
+112,2022-05-15,14:00 ,37,Sun,Away,D,1,1,Leeds United,2.2,1.6,50,"36,638",Lewis Dunk,3-4-3,4-2-3-1,Mike Dean
+113,2022-05-22,16:00 ,38,Sun,Home,W,3,1,West Ham,1.6,0.2,50,"31,604",Lewis Dunk,4-3-2-1,4-2-3-1,Kevin Friend
+114,2020-09-14,20:15 ,1,Mon,Home,L,1,3,Chelsea,1.1,1.2,52,,Lewis Dunk,3-5-2,4-2-2-2,Craig Pawson
+115,2020-09-20,14:00 ,2,Sun,Away,W,3,0,Newcastle Utd,1.8,0.5,53,,Lewis Dunk,3-4-3,4-4-2,Kevin Friend
+116,2020-09-26,12:30 ,3,Sat,Home,L,2,3,Manchester Utd,2.5,1.5,53,,Lewis Dunk,3-4-3,4-2-3-1,Chris Kavanagh
+117,2020-10-03,15:00 ,4,Sat,Away,L,2,4,Everton,1.3,1.6,57,,Lewis Dunk,3-4-3,4-3-3,Simon Hooper
+118,2020-10-18,14:00 ,5,Sun,Away,D,1,1,Crystal Palace,1.7,0.8,66,,Lewis Dunk,3-4-3,4-4-2,Stuart Attwell
+119,2020-10-26,17:30 ,6,Mon,Home,D,1,1,West Brom,0.5,0.4,50,,Adam Webster,3-4-3,4-1-4-1,Jonathan Moss
+120,2020-11-01,19:15 ,7,Sun,Away,L,1,2,Tottenham,0.3,1.7,56,,Adam Webster,3-5-1-1,4-2-3-1,Graham Scott
+121,2020-11-06,17:30 ,8,Fri,Home,D,0,0,Burnley,1.5,0.5,59,,Adam Webster,5-3-2,4-4-2,Mike Dean
+122,2020-11-21,15:00 ,9,Sat,Away,W,2,1,Aston Villa,1.4,1.5,44,,Lewis Dunk,3-4-1-2,4-2-3-1,Michael Oliver
+123,2020-11-28,12:30 ,10,Sat,Home,D,1,1,Liverpool,2.3,0.2,40,,Lewis Dunk,3-4-1-2,4-3-3,Stuart Attwell
+124,2020-12-07,20:00 ,11,Mon,Home,L,1,2,Southampton,1.9,1.4,48,"2,000",Lewis Dunk,3-4-1-2,4-4-2,David Coote
+125,2020-12-13,19:15 ,12,Sun,Away,L,0,3,Leicester City,0.9,1.5,46,,Lewis Dunk,4-2-3-1,3-4-3,Martin Atkinson
+126,2020-12-16,20:00 ,13,Wed,Away,D,0,0,Fulham,0.5,1.0,54,,Lewis Dunk,3-4-3,3-4-3,Robert Jones
+127,2020-12-20,12:00 ,14,Sun,Home,D,1,1,Sheffield Utd,2.8,0.5,73,,Lewis Dunk,3-4-3,5-3-2,Peter Bankes
+128,2020-12-27,14:15 ,15,Sun,Away,D,2,2,West Ham,1.1,1.3,56,,Lewis Dunk,3-4-3,3-4-1-2,Simon Hooper
+129,2020-12-29,18:00 ,16,Tue,Home,L,0,1,Arsenal,0.8,1.1,50,,Lewis Dunk,3-5-2,4-2-3-1,Martin Atkinson
+130,2021-01-02,17:30 ,17,Sat,Home,D,3,3,Wolves,2.2,1.6,54,,Lewis Dunk,3-4-3,4-2-3-1,Andy Madley
+131,2021-01-13,18:00 ,18,Wed,Away,L,0,1,Manchester City,0.2,2.0,35,,Lewis Dunk,4-1-2-1-2◆,4-3-3,Darren England
+132,2021-01-16,15:00 ,19,Sat,Away,W,1,0,Leeds United,1.4,0.3,34,,Lewis Dunk,3-4-3,4-1-4-1,Kevin Friend
+133,2021-01-27,19:30 ,20,Wed,Home,D,0,0,Fulham,1.8,0.5,50,,Lewis Dunk,3-5-2,3-4-3,Craig Pawson
+134,2021-01-31,19:15 ,21,Sun,Home,W,1,0,Tottenham,1.6,0.4,43,,Lewis Dunk,3-4-3,3-4-3,Peter Bankes
+135,2021-02-03,20:15 ,22,Wed,Away,W,1,0,Liverpool,1.3,1.0,37,,Lewis Dunk,3-5-2,4-3-3,Kevin Friend
+136,2021-02-06,15:00 ,23,Sat,Away,D,1,1,Burnley,0.5,1.8,45,,Lewis Dunk,3-4-1-2,4-4-2,Anthony Taylor
+137,2021-02-13,20:00 ,24,Sat,Home,D,0,0,Aston Villa,2.2,0.1,58,,Lewis Dunk,4-1-3-2,4-2-3-1,Darren England
+138,2021-02-22,20:00 ,25,Mon,Home,L,1,2,Crystal Palace,2.4,0.2,74,,Lewis Dunk,4-4-2,4-3-3,Kevin Friend
+139,2021-02-27,15:00 ,26,Sat,Away,L,0,1,West Brom,2.9,0.8,68,,Lewis Dunk,4-2-3-1,4-1-4-1,Lee Mason
+140,2021-03-06,20:00 ,27,Sat,Home,L,1,2,Leicester City,0.8,0.9,37,,Lewis Dunk,4-4-2,3-1-4-2,Michael Oliver
+141,2021-03-14,12:00 ,28,Sun,Away,W,2,1,Southampton,0.8,0.6,41,,Lewis Dunk,4-4-2,4-4-2,Stuart Attwell
+142,2021-03-20,20:00 ,29,Sat,Home,W,3,0,Newcastle Utd,0.9,0.1,65,,Lewis Dunk,3-4-1-2,4-3-3,Anthony Taylor
+143,2021-04-04,19:30 ,30,Sun,Away,L,1,2,Manchester Utd,1.2,1.5,43,,Lewis Dunk,3-4-1-2,4-2-3-1,Mike Dean
+144,2021-04-12,20:15 ,31,Mon,Home,D,0,0,Everton,1.2,0.4,55,,Lewis Dunk,3-4-3,5-3-2,Darren England
+145,2021-04-20,20:15 ,32,Tue,Away,D,0,0,Chelsea,0.5,0.7,36,,Lewis Dunk,3-1-4-2,3-4-3,Stuart Attwell
+146,2021-04-24,20:00 ,33,Sat,Away,L,0,1,Sheffield Utd,2.0,0.7,68,,Lewis Dunk,3-4-1-2,3-4-1-2,Kevin Friend
+147,2021-05-01,15:00 ,34,Sat,Home,W,2,0,Leeds United,2.3,0.6,42,,Lewis Dunk,3-4-1-2,4-1-4-1,Chris Kavanagh
+148,2021-05-09,12:00 ,35,Sun,Away,L,1,2,Wolves,0.3,1.1,39,,Lewis Dunk,4-4-1-1,4-2-3-1,Jonathan Moss
+149,2021-05-15,20:00 ,36,Sat,Home,D,1,1,West Ham,0.8,1.7,51,,Pascal Groß,3-4-3,4-2-3-1,Andre Marriner
+150,2021-05-18,19:00 ,37,Tue,Home,W,3,2,Manchester City,1.1,0.9,63,"7,945",Pascal Groß,3-5-2,4-3-3,Stuart Attwell
+151,2021-05-23,16:00 ,38,Sun,Away,L,0,2,Arsenal,0.2,0.8,46,"10,000",Lewis Dunk,4-3-3,4-2-3-1,Jonathan Moss
+152,2019-08-10,15:00 ,1,Sat,Away,W,3,0,Watford,0.8,0.7,51,"20,245",Lewis Dunk,3-4-3,4-2-2-2,Craig Pawson
+153,2019-08-17,15:00 ,2,Sat,Home,D,1,1,West Ham,2.0,0.8,57,"30,459",Lewis Dunk,3-4-3,4-1-4-1,Anthony Taylor
+154,2019-08-24,15:00 ,3,Sat,Home,L,0,2,Southampton,0.8,1.7,51,"30,019",Lewis Dunk,3-4-3,4-2-2-2,Kevin Friend
+155,2019-08-31,15:00 ,4,Sat,Away,L,0,4,Manchester City,0.9,1.9,47,"54,386",Lewis Dunk,3-4-3,4-3-3,Jonathan Moss
+156,2019-09-14,15:00 ,5,Sat,Home,D,1,1,Burnley,1.4,0.4,62,"29,398",Lewis Dunk,3-4-3,4-4-2,Michael Oliver
+157,2019-09-21,17:30 ,6,Sat,Away,D,0,0,Newcastle Utd,1.4,0.9,71,"43,316",Lewis Dunk,3-4-3,5-4-1,Martin Atkinson
+158,2019-09-28,15:00 ,7,Sat,Away,L,0,2,Chelsea,0.6,3.7,47,"40,683",Lewis Dunk,3-5-1-1,4-3-3,Chris Kavanagh
+159,2019-10-05,12:30 ,8,Sat,Home,W,3,0,Tottenham,2.4,0.4,48,"30,610",Lewis Dunk,4-4-2,4-2-3-1,Jonathan Moss
+160,2019-10-19,15:00 ,9,Sat,Away,L,1,2,Aston Villa,1.2,3.0,51,"41,826",Lewis Dunk,4-4-2,4-3-3,David Coote
+161,2019-10-26,15:00 ,10,Sat,Home,W,3,2,Everton,1.2,0.9,55,"30,529",Lewis Dunk,4-4-2,4-2-3-1,Andy Madley
+162,2019-11-02,15:00 ,11,Sat,Home,W,2,0,Norwich City,2.7,0.4,58,"30,539",Lewis Dunk,4-4-2,4-2-3-1,Kevin Friend
+163,2019-11-10,14:00 ,12,Sun,Away,L,1,3,Manchester Utd,0.8,3.6,58,"73,556",Lewis Dunk,4-4-2,4-2-3-1,Jonathan Moss
+164,2019-11-23,15:00 ,13,Sat,Home,L,0,2,Leicester City,0.6,3.6,53,"30,640",Dale Stephens,3-4-3,4-1-4-1,Mike Dean
+165,2019-11-30,15:00 ,14,Sat,Away,L,1,2,Liverpool,0.8,1.3,56,"53,319",Lewis Dunk,4-3-2-1,4-3-3,Martin Atkinson
+166,2019-12-05,20:15 ,15,Thu,Away,W,2,1,Arsenal,1.7,0.9,50,"60,164",Lewis Dunk,4-1-2-1-2◆,4-2-3-1,Graham Scott
+167,2019-12-08,16:30 ,16,Sun,Home,D,2,2,Wolves,1.2,1.5,61,"30,189",Lewis Dunk,4-3-3,3-4-3,Jonathan Moss
+168,2019-12-16,19:45 ,17,Mon,Away,D,1,1,Crystal Palace,2.3,0.7,65,"24,175",Lewis Dunk,4-2-3-1,4-3-3,Craig Pawson
+169,2019-12-21,15:00 ,18,Sat,Home,L,0,1,Sheffield Utd,0.5,1.3,69,"30,505",Lewis Dunk,4-2-3-1,3-5-2,Robert Jones
+170,2019-12-26,12:30 ,19,Thu,Away,L,1,2,Tottenham,1.0,0.8,46,"56,308",Dale Stephens,3-4-3,3-4-3,Graham Scott
+171,2019-12-28,12:30 ,20,Sat,Home,W,2,0,Bournemouth,0.8,0.5,55,"30,441",Lewis Dunk,4-2-3-1,4-4-2,Paul Tierney
+172,2020-01-01,12:30 ,21,Wed,Home,D,1,1,Chelsea,1.3,1.3,48,"30,559",Lewis Dunk,4-1-2-1-2◆,4-3-3,Stuart Attwell
+173,2020-01-11,15:00 ,22,Sat,Away,L,0,1,Everton,1.3,1.7,47,"38,772",Lewis Dunk,3-4-3,4-4-2,David Coote
+174,2020-01-18,15:00 ,23,Sat,Home,D,1,1,Aston Villa,1.1,0.6,55,"30,551",Lewis Dunk,4-4-2,3-4-3,Andy Madley
+175,2020-01-21,19:30 ,24,Tue,Away,L,1,3,Bournemouth,1.8,1.4,66,"10,065",Lewis Dunk,4-4-2,4-4-1-1,Kevin Friend
+176,2020-02-01,15:00 ,25,Sat,Away,D,3,3,West Ham,1.9,0.8,65,"59,952",Lewis Dunk,4-2-3-1,4-1-4-1,Michael Oliver
+177,2020-02-08,17:30 ,26,Sat,Home,D,1,1,Watford,0.8,0.2,66,"30,443",Lewis Dunk,4-2-3-1,4-2-3-1,Kevin Friend
+178,2020-02-22,15:00 ,27,Sat,Away,D,1,1,Sheffield Utd,1.2,1.6,35,"31,888",Lewis Dunk,5-3-2,3-5-2,Graham Scott
+179,2020-02-29,12:30 ,28,Sat,Home,L,0,1,Crystal Palace,2.2,2.5,65,"30,124",Lewis Dunk,4-2-3-1,4-1-4-1,Martin Atkinson
+180,2020-03-07,15:00 ,29,Sat,Away,D,0,0,Wolves,0.3,0.8,57,"31,490",Lewis Dunk,4-3-3,3-5-2,Andre Marriner
+181,2020-06-20,15:00 ,30,Sat,Home,W,2,1,Arsenal,1.0,0.8,41,,Lewis Dunk,4-2-3-1,4-3-3,Martin Atkinson
+182,2020-06-23,18:00 ,31,Tue,Away,D,0,0,Leicester City,1.1,0.6,34,,Lewis Dunk,4-2-2-2,4-4-2,Lee Mason
+183,2020-06-30,20:15 ,32,Tue,Home,L,0,3,Manchester Utd,0.4,1.0,38,,Lewis Dunk,4-4-2,4-2-3-1,Andre Marriner
+184,2020-07-04,12:30 ,33,Sat,Away,W,1,0,Norwich City,1.0,0.6,42,,Lewis Dunk,4-2-2-2,4-2-3-1,Stuart Attwell
+185,2020-07-08,20:15 ,34,Wed,Home,L,1,3,Liverpool,2.4,2.5,44,,Lewis Dunk,4-3-1-2,4-3-3,Craig Pawson
+186,2020-07-11,20:00 ,35,Sat,Home,L,0,5,Manchester City,0.2,4.4,30,,Lewis Dunk,4-4-1-1,4-3-3,Graham Scott
+187,2020-07-16,20:15 ,36,Thu,Away,D,1,1,Southampton,0.7,2.5,33,,Lewis Dunk,3-4-1-2,4-4-2,Andre Marriner
+188,2020-07-20,18:00 ,37,Mon,Home,D,0,0,Newcastle Utd,0.8,0.9,61,,Lewis Dunk,4-2-3-1,3-5-2,Simon Hooper
+189,2020-07-26,16:00 ,38,Sun,Away,W,2,1,Burnley,1.2,1.7,45,,Lewis Dunk,3-4-1-2,4-4-2,Jonathan Moss
+190,2018-08-11,15:00 ,1,Sat,Away,L,0,2,Watford,0.3,1.2,47,"20,051",Bruno,4-4-1-1,4-2-2-2,Jonathan Moss
+191,2018-08-19,16:00 ,2,Sun,Home,W,3,2,Manchester Utd,1.7,1.4,34,"30,592",Lewis Dunk,4-4-1-1,4-3-3,Kevin Friend
+192,2018-08-25,17:30 ,3,Sat,Away,L,0,1,Liverpool,0.6,1.6,31,"53,294",Dale Stephens,4-5-1,4-3-3,Chris Kavanagh
+193,2018-09-01,15:00 ,4,Sat,Home,D,2,2,Fulham,2.8,1.6,42,"30,526",Lewis Dunk,4-4-1-1,4-3-3,Lee Probert
+194,2018-09-17,20:00 ,5,Mon,Away,D,2,2,Southampton,1.4,2.0,49,"28,811",Lewis Dunk,4-1-4-1,4-4-2,Anthony Taylor
+195,2018-09-22,17:30 ,6,Sat,Home,L,1,2,Tottenham,0.8,1.9,30,"30,531",Lewis Dunk,4-1-4-1,4-2-3-1,Chris Kavanagh
+196,2018-09-29,15:00 ,7,Sat,Away,L,0,2,Manchester City,0.2,2.7,21,"54,152",Lewis Dunk,4-1-4-1,4-3-3,Lee Mason
+197,2018-10-05,20:00 ,8,Fri,Home,W,1,0,West Ham,1.2,1.4,36,"30,544",Bruno,4-4-1-1,4-1-4-1,Kevin Friend
+198,2018-10-20,15:00 ,9,Sat,Away,W,1,0,Newcastle Utd,0.8,1.8,33,"50,329",Bruno,4-4-1-1,4-4-1-1,Andre Marriner
+199,2018-10-27,15:00 ,10,Sat,Home,W,1,0,Wolves,0.9,1.4,40,"30,654",Bruno,4-4-1-1,3-4-3,Anthony Taylor
+200,2018-11-03,15:00 ,11,Sat,Away,L,1,3,Everton,0.5,2.0,39,"38,966",Bruno,4-4-1-1,4-2-3-1,David Coote
+201,2018-11-10,12:30 ,12,Sat,Away,L,1,2,Cardiff City,0.5,2.1,40,"29,402",Lewis Dunk,4-4-1-1,4-1-4-1,Martin Atkinson
+202,2018-11-24,15:00 ,13,Sat,Home,D,1,1,Leicester City,1.0,1.2,54,"30,553",Bruno,4-4-1-1,4-2-3-1,Chris Kavanagh
+203,2018-12-01,15:00 ,14,Sat,Away,W,2,1,Huddersfield,1.2,0.6,67,"22,973",Bruno,4-3-3,3-5-1-1,Michael Oliver
+204,2018-12-04,19:45 ,15,Tue,Home,W,3,1,Crystal Palace,1.3,1.7,32,"29,663",Lewis Dunk,4-3-3,4-4-2,Kevin Friend
+205,2018-12-08,15:00 ,16,Sat,Away,L,0,1,Burnley,1.0,1.4,62,"18,497",Bruno,4-3-3,4-4-2,Martin Atkinson
+206,2018-12-16,13:30 ,17,Sun,Home,L,1,2,Chelsea,0.4,1.2,43,"30,645",Lewis Dunk,4-4-1-1,4-3-3,Stuart Attwell
+207,2018-12-22,15:00 ,18,Sat,Away,L,0,2,Bournemouth,0.8,0.8,43,"10,491",Lewis Dunk,4-1-4-1,4-4-2,Mike Dean
+208,2018-12-26,17:15 ,19,Wed,Home,D,1,1,Arsenal,1.1,0.8,33,"30,608",Dale Stephens,4-5-1,4-1-2-1-2,Anthony Taylor
+209,2018-12-29,15:00 ,20,Sat,Home,W,1,0,Everton,1.1,0.7,46,"30,597",Lewis Dunk,4-5-1,3-4-3,Andy Madley
+210,2019-01-02,19:45 ,21,Wed,Away,D,2,2,West Ham,0.7,0.8,45,"59,870",Lewis Dunk,4-5-1,4-4-2,Chris Kavanagh
+211,2019-01-12,15:00 ,22,Sat,Home,L,0,1,Liverpool,0.4,2.0,30,"30,682",Lewis Dunk,4-5-1,4-2-3-1,Kevin Friend
+212,2019-01-19,15:00 ,23,Sat,Away,L,1,2,Manchester Utd,0.8,2.4,44,"74,532",Lewis Dunk,4-5-1,4-3-3,Paul Tierney
+213,2019-01-29,19:45 ,24,Tue,Away,L,2,4,Fulham,2.2,3.3,39,"22,008",Lewis Dunk,4-3-3,3-4-3,Lee Probert
+214,2019-02-02,15:00 ,25,Sat,Home,D,0,0,Watford,1.6,0.3,55,"30,414",Lewis Dunk,4-3-3,4-2-2-2,Simon Hooper
+215,2019-02-09,17:30 ,26,Sat,Home,L,1,3,Burnley,1.1,2.1,68,"29,323",Lewis Dunk,4-3-3,4-4-2,Stuart Attwell
+216,2019-02-26,19:45 ,28,Tue,Away,L,1,2,Leicester City,1.2,1.8,51,"30,558",Lewis Dunk,4-3-3,4-3-3,Lee Probert
+217,2019-03-02,15:00 ,29,Sat,Home,W,1,0,Huddersfield,1.2,0.2,54,"30,182",Lewis Dunk,4-3-3,4-1-2-1-2,Mike Dean
+218,2019-03-09,12:30 ,30,Sat,Away,W,2,1,Crystal Palace,0.2,1.5,38,"24,972",Lewis Dunk,4-5-1,4-3-3,Craig Pawson
+219,2019-03-30,15:00 ,32,Sat,Home,L,0,1,Southampton,0.7,0.7,60,"30,636",Lewis Dunk,4-3-3,4-2-2-2,Michael Oliver
+220,2019-04-03,19:45 ,27,Wed,Away,L,0,3,Chelsea,0.4,2.7,32,"38,593",Bruno,4-3-3,4-3-3,Graham Scott
+221,2019-04-13,15:00 ,34,Sat,Home,L,0,5,Bournemouth,0.3,2.5,51,"30,460",Lewis Dunk,4-3-3,4-4-2,Kevin Friend
+222,2019-04-16,19:45 ,31,Tue,Home,L,0,2,Cardiff City,0.6,0.9,64,"30,226",Bruno,4-2-3-1,4-2-3-1,Andre Marriner
+223,2019-04-20,15:00 ,35,Sat,Away,D,0,0,Wolves,0.2,2.7,32,"31,096",Bruno,4-3-3,3-5-2,Craig Pawson
+224,2019-04-23,19:45 ,33,Tue,Away,L,0,1,Tottenham,0.3,1.3,23,"56,251",Lewis Dunk,4-3-3,4-3-3,Chris Kavanagh
+225,2019-04-27,17:30 ,36,Sat,Home,D,1,1,Newcastle Utd,1.3,0.4,50,"30,587",Bruno,4-4-2,5-4-1,Mike Dean
+226,2019-05-05,16:30 ,37,Sun,Away,D,1,1,Arsenal,1.9,2.4,30,"59,965",Bruno,4-5-1,4-3-1-2,Anthony Taylor
+227,2019-05-12,15:00 ,38,Sun,Home,L,1,4,Manchester City,0.5,1.6,25,"30,662",Bruno,4-5-1,4-4-1-1,Michael Oliver
+228,2017-08-12,17:30 ,1,Sat,Home,L,0,2,Manchester City,0.3,1.9,23,"30,415",Bruno,4-4-2,3-1-4-2,Michael Oliver
+229,2017-08-19,15:00 ,2,Sat,Away,L,0,2,Leicester City,0.2,2.0,55,"31,902",Bruno,4-4-1-1,4-4-1-1,Lee Probert
+230,2017-08-26,15:00 ,3,Sat,Away,D,0,0,Watford,1.1,0.3,57,"20,181",Bruno,4-4-1-1,4-3-3,Graham Scott
+231,2017-09-09,15:00 ,4,Sat,Home,W,3,1,West Brom,0.4,1.0,48,"30,381",Bruno,4-4-1-1,4-1-4-1,Chris Kavanagh
+232,2017-09-15,20:00 ,5,Fri,Away,L,1,2,Bournemouth,0.9,1.2,38,"10,369",Lewis Dunk,4-4-1-1,4-4-1-1,Craig Pawson
+233,2017-09-24,16:00 ,6,Sun,Home,W,1,0,Newcastle Utd,1.0,1.5,49,"30,468",Bruno,4-4-1-1,4-2-3-1,Andre Marriner
+234,2017-10-01,12:00 ,7,Sun,Away,L,0,2,Arsenal,0.4,2.4,36,"59,378",Bruno,4-5-1,3-4-3,Kevin Friend
+235,2017-10-15,13:30 ,8,Sun,Home,D,1,1,Everton,1.0,1.5,47,"30,565",Bruno,4-4-2,4-2-3-1,Michael Oliver
+236,2017-10-20,20:00 ,9,Fri,Away,W,3,0,West Ham,1.4,0.7,35,"56,977",Bruno,4-4-2,4-2-3-1,Martin Atkinson
+237,2017-10-29,13:30 ,10,Sun,Home,D,1,1,Southampton,1.2,0.3,52,"30,564",Bruno,4-4-1-1,4-1-4-1,Niel Swarbrick
+238,2017-11-04,15:00 ,11,Sat,Away,W,1,0,Swansea City,0.9,1.3,44,"20,822",Bruno,4-4-2,4-3-3,Mike Dean
+239,2017-11-20,20:00 ,12,Mon,Home,D,2,2,Stoke City,0.5,1.0,53,"29,676",Bruno,4-4-1-1,3-4-3,Lee Mason
+240,2017-11-25,15:00 ,13,Sat,Away,L,0,1,Manchester Utd,0.5,1.2,42,"75,018",Bruno,4-5-1,4-2-3-1,Niel Swarbrick
+241,2017-11-28,19:45 ,14,Tue,Home,D,0,0,Crystal Palace,0.6,0.5,54,"29,889",Bruno,4-4-1-1,4-4-2,Andre Marriner
+242,2017-12-02,15:00 ,15,Sat,Home,L,1,5,Liverpool,1.7,1.8,43,"30,634",Bruno,4-4-1-1,3-5-1-1,Graham Scott
+243,2017-12-09,15:00 ,16,Sat,Away,L,0,2,Huddersfield,0.3,2.2,42,"24,018",Bruno,4-4-1-1,4-2-3-1,Stuart Attwell
+244,2017-12-13,20:00 ,17,Wed,Away,L,0,2,Tottenham,0.4,1.5,26,"46,438",Lewis Dunk,4-5-1,4-2-3-1,Robert Madley
+245,2017-12-16,15:00 ,18,Sat,Home,D,0,0,Burnley,1.5,1.2,58,"29,921",Bruno,4-2-3-1,4-4-1-1,Chris Kavanagh
+246,2017-12-23,15:00 ,19,Sat,Home,W,1,0,Watford,1.1,1.5,51,"30,473",Bruno,4-4-1-1,4-2-3-1,Paul Tierney
+247,2017-12-26,15:00 ,20,Tue,Away,L,0,2,Chelsea,0.5,2.1,33,"41,568",Lewis Dunk,4-5-1,3-5-1-1,Mike Dean
+248,2017-12-30,15:00 ,21,Sat,Away,D,0,0,Newcastle Utd,0.5,0.5,54,"52,209",Bruno,4-4-1-1,4-4-2,Anthony Taylor
+249,2018-01-01,12:30 ,22,Mon,Home,D,2,2,Bournemouth,2.4,1.5,49,"30,152",Lewis Dunk,4-4-1-1,4-4-2,Michael Oliver
+250,2018-01-13,15:00 ,23,Sat,Away,L,0,2,West Brom,0.6,1.0,56,"25,240",Bruno,4-4-1-1,4-4-2,Martin Atkinson
+251,2018-01-20,12:30 ,24,Sat,Home,L,0,4,Chelsea,0.8,1.3,42,"30,600",Lewis Dunk,5-3-2,3-4-3,Jonathan Moss
+252,2018-01-31,19:45 ,25,Wed,Away,D,1,1,Southampton,1.1,1.4,34,"30,034",Lewis Dunk,4-4-1-1,4-2-3-1,Mike Dean
+253,2018-02-03,15:00 ,26,Sat,Home,W,3,1,West Ham,1.7,0.4,55,"30,589",Lewis Dunk,4-4-1-1,3-4-3,Roger East
+254,2018-02-10,15:00 ,27,Sat,Away,D,1,1,Stoke City,1.1,1.4,42,"29,876",Lewis Dunk,4-4-1-1,4-3-3,Robert Madley
+255,2018-02-24,15:00 ,28,Sat,Home,W,4,1,Swansea City,3.0,0.6,47,"30,523",Lewis Dunk,4-4-1-1,5-4-1,Mike Dean
+256,2018-03-04,13:30 ,29,Sun,Home,W,2,1,Arsenal,1.2,1.2,33,"30,620",Lewis Dunk,4-4-1-1,4-2-3-1,Stuart Attwell
+257,2018-03-10,15:00 ,30,Sat,Away,L,0,2,Everton,0.3,1.5,41,"39,199",Lewis Dunk,4-4-1-1,4-2-3-1,Roger East
+258,2018-03-31,15:00 ,32,Sat,Home,L,0,2,Leicester City,1.8,1.2,48,"30,629",Lewis Dunk,4-1-4-1,4-4-1-1,Chris Kavanagh
+259,2018-04-07,15:00 ,33,Sat,Home,D,1,1,Huddersfield,1.5,1.5,42,"30,501",Lewis Dunk,4-4-1-1,4-4-1-1,Anthony Taylor
+260,2018-04-14,15:00 ,34,Sat,Away,L,2,3,Crystal Palace,1.5,2.1,51,"24,656",Lewis Dunk,4-3-3,4-4-2,Andre Marriner
+261,2018-04-17,19:45 ,35,Tue,Home,D,1,1,Tottenham,1.1,1.3,37,"30,440",Bruno,4-4-1-1,4-2-3-1,Kevin Friend
+262,2018-04-28,15:00 ,36,Sat,Away,D,0,0,Burnley,0.4,1.5,55,"19,459",Bruno,4-4-1-1,4-4-2,Roger East
+263,2018-05-04,20:00 ,37,Fri,Home,W,1,0,Manchester Utd,1.0,0.8,32,"30,611",Bruno,4-3-3,4-3-3,Craig Pawson
+264,2018-05-09,20:00 ,31,Wed,Away,L,1,3,Manchester City,1.2,1.6,27,"54,013",Bruno,4-5-1,4-3-3,Paul Tierney
+265,2018-05-13,15:00 ,38,Sun,Away,L,0,4,Liverpool,0.1,2.8,28,"50,752",Lewis Dunk,4-2-3-1,4-2-3-1,Kevin Friend

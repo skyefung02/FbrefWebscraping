@@ -1,0 +1,39 @@
+,Date,Time,Matchweek,Day,Venue,Result,Goals Scored,Goals Conceded,Opponent,xG,xGA,Possession,Attendance,Captain,Formation,Opposition Formation,Referee
+0,2023-08-12,15:00 ,1,Sat,Away,L,1,4,Brighton,1.5,4.0,30,"31,872",Tom Lockyer,3-5-2,4-2-3-1,David Coote
+1,2023-08-25,20:00 ,3,Fri,Away,L,0,3,Chelsea,0.4,2.2,33,"39,893",Tom Lockyer,5-3-2,3-4-3,Robert Jones
+2,2023-09-01,20:00 ,4,Fri,Home,L,1,2,West Ham,1.4,1.0,39,"10,802",Carlton Morris,5-3-2,4-2-3-1,Paul Tierney
+3,2023-09-16,15:00 ,5,Sat,Away,L,0,1,Fulham,1.1,1.0,23,"24,467",Tom Lockyer,5-3-2,4-3-3,Michael Salisbury
+4,2023-09-23,15:00 ,6,Sat,Home,D,1,1,Wolves,2.1,0.6,57,"10,893",Tom Lockyer,3-4-3,4-2-3-1,Joshua Smith
+5,2023-09-30,15:00 ,7,Sat,Away,W,2,1,Everton,0.9,2.9,33,"39,289",Tom Lockyer,3-4-3,4-4-1-1,Anthony Taylor
+6,2023-10-03,19:30 ,2,Tue,Home,L,1,2,Burnley,1.3,1.1,49,"10,918",Tom Lockyer,3-4-3,4-3-3,Peter Bankes
+7,2023-10-07,12:30 ,8,Sat,Home,L,0,1,Tottenham,0.8,1.9,34,"10,290",Tom Lockyer,4-4-2,4-2-3-1,John Brooks
+8,2023-10-21,15:00 ,9,Sat,Away,D,2,2,Nott'ham Forest,1.7,2.9,43,"29,361",Tom Lockyer,4-4-2,4-3-3,Samuel Barrott
+9,2023-10-29,14:00 ,10,Sun,Away,L,1,3,Aston Villa,0.5,2.3,30,"41,785",Tom Lockyer,3-4-3,4-4-2,John Brooks
+10,2023-11-05,16:30 ,11,Sun,Home,D,1,1,Liverpool,0.8,2.6,27,"11,049",Tom Lockyer,3-4-3,4-3-3,Andy Madley
+11,2023-11-11,15:00 ,12,Sat,Away,L,0,1,Manchester Utd,0.4,2.2,36,"73,599",Tom Lockyer,3-4-3,4-2-3-1,Graham Scott
+12,2023-11-25,15:00 ,13,Sat,Home,W,2,1,Crystal Palace,0.9,1.6,39,"11,029",Tom Lockyer,3-4-3,4-2-3-1,Jarred Gillett
+13,2023-12-02,15:00 ,14,Sat,Away,L,1,3,Brentford,0.2,3.1,32,"17,075",Tom Lockyer,3-4-3,4-3-3,Anthony Taylor
+14,2023-12-05,20:15 ,15,Tue,Home,L,3,4,Arsenal,0.5,2.2,34,"11,031",Pelly Ruddock Mpanzu,3-4-3,4-3-3,Samuel Barrott
+15,2023-12-10,14:00 ,16,Sun,Home,L,1,2,Manchester City,0.3,1.6,35,"11,047",Tom Lockyer,3-4-3,4-2-3-1,Tim Robinson
+16,2023-12-23,15:00 ,18,Sat,Home,W,1,0,Newcastle Utd,1.4,1.4,35,"11,042",Amari'i Bell,3-4-3,4-3-3,Darren England
+17,2023-12-26,15:00 ,19,Tue,Away,W,3,2,Sheffield Utd,0.6,2.4,49,"31,041",Amari'i Bell,3-4-3,4-4-2,Samuel Allison
+18,2023-12-30,12:30 ,20,Sat,Home,L,2,3,Chelsea,2.3,1.5,52,"11,041",Amari'i Bell,3-4-3,4-2-3-1,Paul Tierney
+19,2024-01-12,19:45 ,21,Fri,Away,D,1,1,Burnley,0.9,1.1,61,"20,155",Amari'i Bell,3-4-3,4-4-2,Tony Harrington
+20,2024-01-30,19:45 ,22,Tue,Home,W,4,0,Brighton,3.1,0.9,41,"10,994",Carlton Morris,3-4-3,3-4-3,Robert Jones
+21,2024-02-03,15:00 ,23,Sat,Away,D,4,4,Newcastle Utd,2.4,2.3,45,"52,211",Carlton Morris,3-4-3,4-3-3,Thomas Bramall
+22,2024-02-10,15:00 ,24,Sat,Home,L,1,3,Sheffield Utd,1.8,1.7,74,"11,138",Carlton Morris,3-4-3,5-4-1,Chris Kavanagh
+23,2024-02-18,16:30 ,25,Sun,Home,L,1,2,Manchester Utd,1.8,2.9,58,"11,483",Carlton Morris,3-4-3,4-2-3-1,David Coote
+24,2024-02-21,19:30 ,26,Wed,Away,L,1,4,Liverpool,0.9,3.3,40,"59,713",Carlton Morris,3-4-3,4-3-3,Andy Madley
+25,2024-03-02,17:30 ,27,Sat,Home,L,2,3,Aston Villa,1.8,1.9,46,"11,594",Carlton Morris,3-4-3,4-2-3-1,Michael Oliver
+26,2024-03-09,15:00 ,28,Sat,Away,D,1,1,Crystal Palace,0.8,2.7,51,"25,103",Carlton Morris,3-4-3,3-4-3,Sunny Singh
+27,2024-03-13,19:30 ,17,Wed,Away,L,3,4,Bournemouth,2.0,2.3,41,"11,198",Carlton Morris,3-4-3,4-2-3-1,Samuel Allison
+28,2024-03-16,15:00 ,29,Sat,Home,D,1,1,Nott'ham Forest,0.6,2.0,60,"11,630",Carlton Morris,3-4-3,4-2-3-1,Darren England
+29,2024-03-30,15:00 ,30,Sat,Away,L,1,2,Tottenham,0.5,2.9,30,"61,534",Carlton Morris,4-3-3,4-2-3-1,Jarred Gillett
+30,2024-04-03,19:30 ,31,Wed,Away,L,0,2,Arsenal,0.3,0.7,42,"60,262",Carlton Morris,3-4-3,4-3-3,Craig Pawson
+31,2024-04-06,15:00 ,32,Sat,Home,W,2,1,Bournemouth,1.5,0.4,55,"11,797",Carlton Morris,3-4-3,4-2-3-1,Andy Madley
+32,2024-04-13,15:00 ,33,Sat,Away,L,1,5,Manchester City,0.5,4.2,27,"52,149",Carlton Morris,3-4-3,4-2-3-1,John Brooks
+33,2024-04-20,15:00 ,34,Sat,Home,L,1,5,Brentford,0.6,3.1,53,"11,877",Carlton Morris,3-4-3,4-3-3,Jarred Gillett
+34,2024-04-27,15:00 ,35,Sat,Away,L,1,2,Wolves,0.6,1.2,42,"31,531",Carlton Morris,3-4-3,3-5-1-1,David Coote
+35,2024-05-03,20:00 ,36,Fri,Home,D,1,1,Everton,0.8,1.4,51,"11,873",Carlton Morris,3-4-3,4-4-1-1,Tim Robinson
+36,2024-05-11,15:00 ,37,Sat,Away,L,1,3,West Ham,0.3,3.2,42,"62,475",Carlton Morris,3-4-3,4-2-3-1,Michael Oliver
+37,2024-05-19,16:00 ,38,Sun,Home,L,2,4,Fulham,2.0,1.1,41,"12,027",Carlton Morris,3-4-3,4-2-3-1,Matt Donohue

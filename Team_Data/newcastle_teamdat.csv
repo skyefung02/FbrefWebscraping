@@ -1,0 +1,267 @@
+,Date,Time,Matchweek,Day,Venue,Result,Goals Scored,Goals Conceded,Opponent,xG,xGA,Possession,Attendance,Captain,Formation,Opposition Formation,Referee
+0,2023-08-12,17:30 ,1,Sat,Home,W,5,1,Aston Villa,3.3,1.8,52,"52,207",Kieran Trippier,4-3-3,4-2-3-1,Andy Madley
+1,2023-08-19,20:00 ,2,Sat,Away,L,0,1,Manchester City,0.3,1.0,41,"53,419",Kieran Trippier,4-3-3,4-2-3-1,Robert Jones
+2,2023-08-27,16:30 ,3,Sun,Home,L,1,2,Liverpool,2.0,0.9,59,"52,214",Kieran Trippier,4-3-3,4-3-3,John Brooks
+3,2023-09-02,17:30 ,4,Sat,Away,L,1,3,Brighton,1.2,1.3,44,"31,620",Kieran Trippier,4-3-3,4-2-3-1,Stuart Attwell
+4,2023-09-16,17:30 ,5,Sat,Home,W,1,0,Brentford,1.4,0.5,56,"51,670",Kieran Trippier,4-3-3,5-3-2,Craig Pawson
+5,2023-09-24,16:30 ,6,Sun,Away,W,8,0,Sheffield Utd,3.9,0.9,58,"31,127",Kieran Trippier,4-3-3,3-4-3,Stuart Attwell
+6,2023-09-30,15:00 ,7,Sat,Home,W,2,0,Burnley,3.1,0.6,53,"51,687",Jamaal Lascelles,4-3-3,4-2-3-1,Thomas Bramall
+7,2023-10-08,14:00 ,8,Sun,Away,D,2,2,West Ham,2.0,1.2,64,"62,473",Jamaal Lascelles,4-3-3,4-2-3-1,Peter Bankes
+8,2023-10-21,15:00 ,9,Sat,Home,W,4,0,Crystal Palace,2.4,1.2,59,"52,189",Jamaal Lascelles,4-3-3,4-3-3,Tim Robinson
+9,2023-10-28,17:30 ,10,Sat,Away,D,2,2,Wolves,2.2,0.9,57,"31,584",Jamaal Lascelles,4-3-3,4-4-2,Anthony Taylor
+10,2023-11-04,17:30 ,11,Sat,Home,W,1,0,Arsenal,1.0,0.6,42,"52,194",Jamaal Lascelles,4-3-3,4-3-3,Stuart Attwell
+11,2023-11-11,17:30 ,12,Sat,Away,L,0,2,Bournemouth,0.5,2.4,52,"11,201",Jamaal Lascelles,4-3-3,4-2-3-1,Chris Kavanagh
+12,2023-11-25,15:00 ,13,Sat,Home,W,4,1,Chelsea,2.4,0.5,54,"52,227",Jamaal Lascelles,4-3-3,4-2-3-1,Simon Hooper
+13,2023-12-02,20:00 ,14,Sat,Home,W,1,0,Manchester Utd,2.4,0.5,58,"52,214",Jamaal Lascelles,4-3-3,4-2-3-1,Robert Jones
+14,2023-12-07,19:30 ,15,Thu,Away,L,0,3,Everton,1.5,3.3,62,"38,198",Jamaal Lascelles,4-3-3,4-4-1-1,Tim Robinson
+15,2023-12-10,16:30 ,16,Sun,Away,L,1,4,Tottenham,1.7,3.8,44,"61,171",Jamaal Lascelles,4-3-3,4-2-3-1,Chris Kavanagh
+16,2023-12-16,15:00 ,17,Sat,Home,W,3,0,Fulham,3.5,0.3,70,"52,055",Jamaal Lascelles,4-3-3,4-2-3-1,Samuel Barrott
+17,2023-12-23,15:00 ,18,Sat,Away,L,0,1,Luton Town,1.4,1.4,65,"11,042",Jamaal Lascelles,4-3-3,3-4-3,Darren England
+18,2023-12-26,12:30 ,19,Tue,Home,L,1,3,Nott'ham Forest,2.4,3.5,62,"52,207",Kieran Trippier,4-3-3,4-2-3-1,Chris Kavanagh
+19,2024-01-01,20:00 ,20,Mon,Away,L,2,4,Liverpool,0.6,7.0,39,"57,471",Dan Burn,4-3-3,4-3-3,Anthony Taylor
+20,2024-01-13,17:30 ,21,Sat,Home,L,2,3,Manchester City,1.3,3.0,28,"52,190",Kieran Trippier,4-3-3,4-2-3-1,Chris Kavanagh
+21,2024-01-30,20:15 ,22,Tue,Away,W,3,1,Aston Villa,2.6,1.4,39,"42,191",Kieran Trippier,4-3-3,4-4-2,John Brooks
+22,2024-02-03,15:00 ,23,Sat,Home,D,4,4,Luton Town,2.3,2.4,55,"52,211",Kieran Trippier,4-3-3,3-4-3,Thomas Bramall
+23,2024-02-10,17:30 ,24,Sat,Away,W,3,2,Nott'ham Forest,0.5,1.5,61,"29,451",Kieran Trippier,4-3-3,4-2-3-1,Anthony Taylor
+24,2024-02-17,15:00 ,25,Sat,Home,D,2,2,Bournemouth,2.2,2.2,62,"52,224",Kieran Trippier,4-3-3,4-2-3-1,Michael Salisbury
+25,2024-02-24,20:00 ,26,Sat,Away,L,1,4,Arsenal,0.2,2.8,45,"60,298",Kieran Trippier,4-3-3,4-3-3,Paul Tierney
+26,2024-03-02,15:00 ,27,Sat,Home,W,3,0,Wolves,2.1,0.8,44,"52,206",Kieran Trippier,4-3-3,3-4-3,Tim Robinson
+27,2024-03-11,20:00 ,28,Mon,Away,L,2,3,Chelsea,0.7,1.6,56,"37,753",Dan Burn,4-3-3,4-2-3-1,John Brooks
+28,2024-03-30,12:30 ,30,Sat,Home,W,4,3,West Ham,4.1,1.4,60,"52,199",Jamaal Lascelles,4-3-3,4-2-3-1,Robert Jones
+29,2024-04-02,19:30 ,31,Tue,Home,D,1,1,Everton,2.4,1.4,57,"52,135",Dan Burn,4-3-3,4-4-1-1,Tony Harrington
+30,2024-04-06,15:00 ,32,Sat,Away,W,1,0,Fulham,1.0,1.2,34,"24,418",Dan Burn,4-3-3,4-2-3-1,Samuel Allison
+31,2024-04-13,12:30 ,33,Sat,Home,W,4,0,Tottenham,2.8,0.8,28,"52,147",Dan Burn,4-3-3,4-2-3-1,Tim Robinson
+32,2024-04-24,20:00 ,29,Wed,Away,L,0,2,Crystal Palace,0.4,0.9,53,"25,002",Dan Burn,3-4-3,3-4-3,Thomas Bramall
+33,2024-04-27,15:00 ,35,Sat,Home,W,5,1,Sheffield Utd,3.1,1.5,60,"52,196",Dan Burn,4-3-3,3-5-2,Tony Harrington
+34,2024-05-04,15:00 ,36,Sat,Away,W,4,1,Burnley,3.4,1.0,53,"21,781",Dan Burn,4-4-2,4-2-3-1,Anthony Taylor
+35,2024-05-11,15:00 ,37,Sat,Home,D,1,1,Brighton,2.2,1.4,57,"51,997",Dan Burn,4-3-3,4-2-3-1,Darren England
+36,2024-05-15,20:00 ,34,Wed,Away,L,2,3,Manchester Utd,2.2,1.5,55,"73,582",Kieran Trippier,4-3-3,4-2-2-2,Robert Jones
+37,2024-05-19,16:00 ,38,Sun,Away,W,4,2,Brentford,3.4,1.1,46,"17,124",Dan Burn,4-3-3,4-3-3,Simon Hooper
+38,2022-08-06,15:00 ,1,Sat,Home,W,2,0,Nott'ham Forest,1.7,0.3,61,"52,245",Kieran Trippier,4-3-3,3-4-1-2,Simon Hooper
+39,2022-08-13,15:00 ,2,Sat,Away,D,0,0,Brighton,0.2,1.5,46,"31,552",Kieran Trippier,4-3-3,3-4-1-2,Graham Scott
+40,2022-08-21,16:30 ,3,Sun,Home,D,3,3,Manchester City,1.8,2.1,31,"52,258",Kieran Trippier,4-3-3,4-3-3,Jarred Gillett
+41,2022-08-28,14:00 ,4,Sun,Away,D,1,1,Wolves,1.7,0.7,63,"31,311",Kieran Trippier,4-3-3,4-3-3,Peter Bankes
+42,2022-08-31,20:00 ,5,Wed,Away,L,1,2,Liverpool,0.7,1.5,28,"53,316",Jamaal Lascelles,4-3-3,4-3-3,Andre Marriner
+43,2022-09-03,15:00 ,6,Sat,Home,D,0,0,Crystal Palace,2.8,1.0,52,"51,863",Kieran Trippier,4-3-3,4-3-3,Michael Salisbury
+44,2022-09-17,15:00 ,8,Sat,Home,D,1,1,Bournemouth,1.9,0.7,72,"52,238",Kieran Trippier,4-3-3,4-2-3-1,Craig Pawson
+45,2022-10-01,15:00 ,9,Sat,Away,W,4,1,Fulham,3.3,0.5,67,"22,913",Kieran Trippier,4-3-3,4-2-3-1,Darren England
+46,2022-10-08,15:00 ,10,Sat,Home,W,5,1,Brentford,1.5,1.2,54,"52,067",Kieran Trippier,4-3-3,3-5-2,John Brooks
+47,2022-10-16,14:00 ,11,Sun,Away,D,0,0,Manchester Utd,0.8,0.8,37,"73,726",Kieran Trippier,4-3-3,4-2-3-1,Craig Pawson
+48,2022-10-19,19:30 ,12,Wed,Home,W,1,0,Everton,1.5,0.2,49,"52,247",Kieran Trippier,4-3-3,4-3-3,Tony Harrington
+49,2022-10-23,16:30 ,13,Sun,Away,W,2,1,Tottenham,1.2,1.6,47,"61,726",Kieran Trippier,4-3-3,3-5-2,Jarred Gillett
+50,2022-10-29,15:00 ,14,Sat,Home,W,4,0,Aston Villa,3.4,0.4,59,"52,233",Kieran Trippier,4-3-3,4-2-3-1,Paul Tierney
+51,2022-11-06,14:00 ,15,Sun,Away,W,4,1,Southampton,0.9,1.7,45,"30,402",Kieran Trippier,4-3-3,4-2-3-1,Stuart Attwell
+52,2022-11-12,17:30 ,16,Sat,Home,W,1,0,Chelsea,1.0,0.3,49,"52,264",Kieran Trippier,4-3-3,3-4-3,Robert Jones
+53,2022-12-26,15:00 ,17,Mon,Away,W,3,0,Leicester City,1.9,0.5,40,"32,185",Kieran Trippier,4-3-3,4-2-3-1,Jarred Gillett
+54,2022-12-31,15:00 ,18,Sat,Home,D,0,0,Leeds United,2.2,0.4,60,"52,211",Kieran Trippier,4-3-3,4-2-3-1,Simon Hooper
+55,2023-01-03,19:45 ,19,Tue,Away,D,0,0,Arsenal,1.0,1.1,34,"60,319",Kieran Trippier,4-3-3,4-3-3,Andy Madley
+56,2023-01-15,14:00 ,20,Sun,Home,W,1,0,Fulham,2.2,1.1,62,"52,247",Kieran Trippier,4-3-3,4-2-3-1,Robert Jones
+57,2023-01-21,17:30 ,21,Sat,Away,D,0,0,Crystal Palace,1.2,0.3,60,"25,350",Kieran Trippier,4-3-3,4-2-3-1,Craig Pawson
+58,2023-02-04,17:30 ,22,Sat,Home,D,1,1,West Ham,1.0,1.0,62,"52,256",Kieran Trippier,4-3-3,3-4-3,Peter Bankes
+59,2023-02-11,17:30 ,23,Sat,Away,D,1,1,Bournemouth,1.3,1.5,66,"10,419",Kieran Trippier,4-3-3,4-4-1-1,Stuart Attwell
+60,2023-02-18,17:30 ,24,Sat,Home,L,0,2,Liverpool,2.0,1.9,38,"52,758",Kieran Trippier,4-3-3,4-3-3,Anthony Taylor
+61,2023-03-04,12:30 ,26,Sat,Away,L,0,2,Manchester City,0.4,1.3,44,"53,419",Jamaal Lascelles,4-3-3,4-2-3-1,Simon Hooper
+62,2023-03-12,16:30 ,27,Sun,Home,W,2,1,Wolves,1.8,1.1,43,"52,240",Kieran Trippier,4-3-3,4-2-3-1,Andy Madley
+63,2023-03-17,20:00 ,28,Fri,Away,W,2,1,Nott'ham Forest,2.4,0.4,61,"29,362",Kieran Trippier,4-3-3,4-2-3-1,Paul Tierney
+64,2023-04-02,16:30 ,29,Sun,Home,W,2,0,Manchester Utd,3.7,0.4,46,"52,268",Kieran Trippier,4-3-3,4-2-3-1,Stuart Attwell
+65,2023-04-05,20:00 ,7,Wed,Away,W,5,1,West Ham,3.3,1.0,58,"62,481",Kieran Trippier,4-3-3,4-2-3-1,Craig Pawson
+66,2023-04-08,15:00 ,30,Sat,Away,W,2,1,Brentford,1.3,2.6,58,"17,107",Kieran Trippier,4-3-3,5-3-2,Chris Kavanagh
+67,2023-04-15,12:30 ,31,Sat,Away,L,0,3,Aston Villa,0.5,1.9,48,"42,055",Kieran Trippier,4-3-3,4-2-3-1,John Brooks
+68,2023-04-23,14:00 ,32,Sun,Home,W,6,1,Tottenham,3.7,1.0,56,"52,252",Kieran Trippier,4-3-3,4-3-3,David Coote
+69,2023-04-27,19:45 ,33,Thu,Away,W,4,1,Everton,2.4,0.9,60,"39,248",Kieran Trippier,4-3-3,4-3-3,Andre Marriner
+70,2023-04-30,14:00 ,34,Sun,Home,W,3,1,Southampton,4.3,0.8,63,"52,234",Kieran Trippier,4-3-3,4-4-2,Anthony Taylor
+71,2023-05-07,16:30 ,35,Sun,Home,L,0,2,Arsenal,1.3,1.3,55,"50,267",Kieran Trippier,4-3-3,4-3-3,Chris Kavanagh
+72,2023-05-13,12:30 ,36,Sat,Away,D,2,2,Leeds United,2.3,2.0,64,"36,955",Kieran Trippier,4-3-3,4-3-3,Simon Hooper
+73,2023-05-18,19:30 ,25,Thu,Home,W,4,1,Brighton,3.6,0.5,35,"52,122",Kieran Trippier,4-3-3,4-2-3-1,Robert Jones
+74,2023-05-22,20:00 ,37,Mon,Home,D,0,0,Leicester City,2.1,0.1,77,"52,152",Kieran Trippier,4-3-3,5-3-2,Andre Marriner
+75,2023-05-28,16:30 ,38,Sun,Away,D,1,1,Chelsea,1.7,2.2,36,"40,130",Kieran Trippier,4-3-3,4-2-3-1,Jarred Gillett
+76,2021-08-15,14:00 ,1,Sun,Home,L,2,4,West Ham,1.8,2.7,46,"50,673",Federico Fernández,5-3-2,4-2-3-1,Martin Atkinson
+77,2021-08-21,15:00 ,2,Sat,Away,L,0,2,Aston Villa,0.7,1.2,53,"41,964",Jamaal Lascelles,5-3-2,4-3-3,David Coote
+78,2021-08-28,15:00 ,3,Sat,Home,D,2,2,Southampton,1.0,3.6,37,"44,017",Jamaal Lascelles,3-5-2,4-4-2,Paul Tierney
+79,2021-09-11,15:00 ,4,Sat,Away,L,1,4,Manchester Utd,0.4,2.5,37,"72,732",Jamaal Lascelles,5-4-1,4-2-3-1,Anthony Taylor
+80,2021-09-17,20:00 ,5,Fri,Home,D,1,1,Leeds United,1.3,1.5,35,"50,407",Jamaal Lascelles,5-4-1,4-1-4-1,Mike Dean
+81,2021-09-25,15:00 ,6,Sat,Away,D,1,1,Watford,1.9,0.9,47,"20,650",Federico Fernández,4-1-4-1,4-2-3-1,Jarred Gillett
+82,2021-10-02,15:00 ,7,Sat,Away,L,1,2,Wolves,0.6,1.0,48,"30,483",Federico Fernández,4-1-4-1,3-4-3,Graham Scott
+83,2021-10-17,16:30 ,8,Sun,Home,L,2,3,Tottenham,0.4,1.7,36,"52,214",Jamaal Lascelles,4-1-4-1,4-2-3-1,Andre Marriner
+84,2021-10-23,15:00 ,9,Sat,Away,D,1,1,Crystal Palace,0.3,1.9,26,"24,609",Jamaal Lascelles,5-3-2,4-3-3,Darren England
+85,2021-10-30,15:00 ,10,Sat,Home,L,0,3,Chelsea,0.2,2.2,21,"52,208",Jamaal Lascelles,5-3-2,3-4-3,Paul Tierney
+86,2021-11-06,17:30 ,11,Sat,Away,D,1,1,Brighton,0.3,1.5,35,"31,267",Jamaal Lascelles,5-4-1,4-2-3-1,David Coote
+87,2021-11-20,15:00 ,12,Sat,Home,D,3,3,Brentford,1.5,0.9,53,"52,131",Jamaal Lascelles,3-4-3,3-5-2,Robert Jones
+88,2021-11-27,12:30 ,13,Sat,Away,L,0,2,Arsenal,0.3,2.5,34,"59,886",Jamaal Lascelles,4-4-2,4-4-1-1,Stuart Attwell
+89,2021-11-30,19:30 ,14,Tue,Home,D,1,1,Norwich City,1.1,1.2,32,"50,757",Callum Wilson,4-4-2,4-1-4-1,Andy Madley
+90,2021-12-04,15:00 ,15,Sat,Home,W,1,0,Burnley,1.0,0.6,48,"51,948",Jamaal Lascelles,4-4-2,4-4-2,Paul Tierney
+91,2021-12-12,14:00 ,16,Sun,Away,L,0,4,Leicester City,1.0,2.6,53,"31,959",Jamaal Lascelles,4-4-2,4-2-3-1,Peter Bankes
+92,2021-12-16,20:00 ,17,Thu,Away,L,1,3,Liverpool,0.3,2.7,26,"52,951",Jamaal Lascelles,4-5-1,4-3-3,Mike Dean
+93,2021-12-19,14:15 ,18,Sun,Home,L,0,4,Manchester City,0.3,2.9,29,"52,127",Jamaal Lascelles,4-5-1,4-2-3-1,Martin Atkinson
+94,2021-12-27,20:00 ,19,Mon,Home,D,1,1,Manchester Utd,1.3,1.6,32,"52,178",Jamaal Lascelles,4-5-1,4-2-2-2,Craig Pawson
+95,2022-01-15,15:00 ,22,Sat,Home,D,1,1,Watford,1.2,1.4,52,"52,223",Jamaal Lascelles,4-3-3,4-3-3,Paul Tierney
+96,2022-01-22,15:00 ,23,Sat,Away,W,1,0,Leeds United,0.9,0.7,38,"36,405",Jamaal Lascelles,4-3-3,4-2-3-1,Chris Kavanagh
+97,2022-02-08,19:45 ,24,Tue,Home,W,3,1,Everton,1.9,0.7,40,"52,186",Jamaal Lascelles,4-3-3,3-4-3,Anthony Taylor
+98,2022-02-13,14:00 ,25,Sun,Home,W,1,0,Aston Villa,0.5,0.6,38,"52,207",Kieran Trippier,4-3-3,4-3-3,Craig Pawson
+99,2022-02-19,12:30 ,26,Sat,Away,D,1,1,West Ham,0.8,0.6,53,"59,949",Jonjo Shelvey,4-3-3,4-2-3-1,Chris Kavanagh
+100,2022-02-26,15:00 ,27,Sat,Away,W,2,0,Brentford,2.7,0.4,63,"17,039",Jonjo Shelvey,4-3-3,4-3-3,Mike Dean
+101,2022-03-05,15:00 ,28,Sat,Home,W,2,1,Brighton,1.7,1.5,32,"52,214",Jonjo Shelvey,4-3-3,4-1-2-1-2,Martin Atkinson
+102,2022-03-10,19:30 ,21,Thu,Away,W,2,1,Southampton,0.6,1.1,33,"30,056",Jonjo Shelvey,4-3-3,4-4-2,Kevin Friend
+103,2022-03-13,14:00 ,29,Sun,Away,L,0,1,Chelsea,0.3,1.1,29,"40,026",Jamaal Lascelles,5-4-1,4-3-3,David Coote
+104,2022-03-17,19:45 ,20,Thu,Away,L,0,1,Everton,0.9,0.7,61,"39,068",Fabian Schär,4-3-3,4-2-3-1,Craig Pawson
+105,2022-04-03,16:30 ,31,Sun,Away,L,1,5,Tottenham,0.5,3.1,40,"57,553",Jonjo Shelvey,4-3-3,3-4-3,Martin Atkinson
+106,2022-04-08,20:00 ,32,Fri,Home,W,1,0,Wolves,1.5,0.4,42,"52,164",Jonjo Shelvey,4-3-3,3-4-3,Peter Bankes
+107,2022-04-17,14:15 ,33,Sun,Home,W,2,1,Leicester City,1.8,0.6,32,"52,104",Jonjo Shelvey,4-3-3,4-1-4-1,Jarred Gillett
+108,2022-04-20,19:45 ,30,Wed,Home,W,1,0,Crystal Palace,0.9,0.5,37,"51,938",Jonjo Shelvey,4-3-3,4-2-3-1,Tony Harrington
+109,2022-04-23,15:00 ,34,Sat,Away,W,3,0,Norwich City,1.9,0.6,54,"26,910",Jamaal Lascelles,4-3-3,4-2-3-1,Chris Kavanagh
+110,2022-04-30,12:30 ,35,Sat,Home,L,0,1,Liverpool,0.2,2.3,36,"52,281",Jonjo Shelvey,4-3-3,4-3-3,Andre Marriner
+111,2022-05-08,16:30 ,36,Sun,Away,L,0,5,Manchester City,0.8,3.1,29,"53,336",Jamaal Lascelles,4-3-3,4-2-3-1,Stuart Attwell
+112,2022-05-16,20:00 ,37,Mon,Home,W,2,0,Arsenal,1.6,0.6,51,"52,274",Callum Wilson,4-3-3,4-2-3-1,Darren England
+113,2022-05-22,16:00 ,38,Sun,Away,W,2,1,Burnley,1.8,1.6,48,"21,361",Jamaal Lascelles,4-3-3,4-4-2,Craig Pawson
+114,2020-09-12,20:00 ,1,Sat,Away,W,2,0,West Ham,1.6,1.0,42,,Jamaal Lascelles,4-4-2,4-2-3-1,Stuart Attwell
+115,2020-09-20,14:00 ,2,Sun,Home,L,0,3,Brighton,0.5,1.8,47,,Jamaal Lascelles,4-4-2,3-4-3,Kevin Friend
+116,2020-09-27,14:00 ,3,Sun,Away,D,1,1,Tottenham,1.0,2.9,34,,Jamaal Lascelles,5-4-1,4-2-3-1,Peter Bankes
+117,2020-10-03,20:00 ,4,Sat,Home,W,3,1,Burnley,1.8,0.4,48,,Jonjo Shelvey,4-4-2,4-4-2,David Coote
+118,2020-10-17,20:00 ,5,Sat,Home,L,1,4,Manchester Utd,0.9,2.3,37,,Jamaal Lascelles,4-1-4-1,4-2-3-1,Craig Pawson
+119,2020-10-25,16:30 ,6,Sun,Away,D,1,1,Wolves,0.3,0.7,37,,Jamaal Lascelles,5-3-2,3-4-3,Lee Mason
+120,2020-11-01,14:00 ,7,Sun,Home,W,2,1,Everton,2.9,1.5,39,,Jamaal Lascelles,5-3-2,4-3-2-1,Stuart Attwell
+121,2020-11-06,20:00 ,8,Fri,Away,L,0,2,Southampton,0.3,0.7,39,,Jamaal Lascelles,5-3-2,4-4-2,Peter Bankes
+122,2020-11-21,12:30 ,9,Sat,Home,L,0,2,Chelsea,0.3,1.5,30,,Jamaal Lascelles,5-4-1,4-3-3,Craig Pawson
+123,2020-11-27,20:00 ,10,Fri,Away,W,2,0,Crystal Palace,1.3,0.6,43,,Jonjo Shelvey,4-4-2,4-4-2,Graham Scott
+124,2020-12-12,15:00 ,12,Sat,Home,W,2,1,West Brom,0.8,0.6,46,,Jonjo Shelvey,4-4-2,3-5-2,Darren England
+125,2020-12-16,18:00 ,13,Wed,Away,L,2,5,Leeds United,1.5,2.7,32,,Federico Fernández,4-4-2,4-1-4-1,Simon Hooper
+126,2020-12-19,20:00 ,14,Sat,Home,D,1,1,Fulham,1.4,1.0,49,,Jonjo Shelvey,4-4-2,3-4-3,Graham Scott
+127,2020-12-26,20:00 ,15,Sat,Away,L,0,2,Manchester City,0.3,3.0,26,,Federico Fernández,5-4-1,3-4-3,Andre Marriner
+128,2020-12-30,20:00 ,16,Wed,Home,D,0,0,Liverpool,0.5,1.4,28,,Federico Fernández,5-4-1,4-3-3,Paul Tierney
+129,2021-01-03,14:15 ,17,Sun,Home,L,1,2,Leicester City,0.5,0.6,44,,Federico Fernández,5-4-1,4-2-3-1,Robert Jones
+130,2021-01-12,18:00 ,18,Tue,Away,L,0,1,Sheffield Utd,0.6,2.1,35,,Federico Fernández,5-4-1,3-5-2,Andy Madley
+131,2021-01-18,20:00 ,19,Mon,Away,L,0,3,Arsenal,0.2,2.4,34,,Jamaal Lascelles,4-4-2,4-2-3-1,David Coote
+132,2021-01-23,20:00 ,11,Sat,Away,L,0,2,Aston Villa,0.5,2.3,42,,Jamaal Lascelles,5-3-2,4-2-3-1,Simon Hooper
+133,2021-01-26,18:00 ,20,Tue,Home,L,1,2,Leeds United,1.4,0.7,42,,Jamaal Lascelles,4-4-1-1,4-1-4-1,Anthony Taylor
+134,2021-01-30,12:30 ,21,Sat,Away,W,2,0,Everton,1.7,0.8,40,,Jamaal Lascelles,4-3-1-2,4-2-3-1,Stuart Attwell
+135,2021-02-02,20:15 ,22,Tue,Home,L,1,2,Crystal Palace,1.9,0.7,61,,Jonjo Shelvey,4-3-1-2,4-4-2,Darren England
+136,2021-02-06,15:00 ,23,Sat,Home,W,3,2,Southampton,0.7,1.3,27,,Jonjo Shelvey,4-3-1-2,4-4-2,Craig Pawson
+137,2021-02-15,20:00 ,24,Mon,Away,L,0,2,Chelsea,0.6,2.2,36,,Jamaal Lascelles,4-3-3,3-4-3,Peter Bankes
+138,2021-02-21,19:00 ,25,Sun,Away,L,1,3,Manchester Utd,0.4,1.7,29,,Jamaal Lascelles,4-3-1-2,4-2-3-1,Paul Tierney
+139,2021-02-27,20:00 ,26,Sat,Home,D,1,1,Wolves,1.7,1.1,48,,Jamaal Lascelles,4-3-3,3-4-3,Mike Dean
+140,2021-03-07,12:00 ,27,Sun,Away,D,0,0,West Brom,0.5,2.0,47,,Jamaal Lascelles,4-3-1-2,4-1-4-1,Martin Atkinson
+141,2021-03-12,20:00 ,28,Fri,Home,D,1,1,Aston Villa,1.5,0.9,49,,Jamaal Lascelles,4-3-3,4-3-3,Paul Tierney
+142,2021-03-20,20:00 ,29,Sat,Away,L,0,3,Brighton,0.1,0.9,35,,Jamaal Lascelles,4-3-3,3-4-1-2,Anthony Taylor
+143,2021-04-04,14:05 ,30,Sun,Home,D,2,2,Tottenham,3.4,2.7,42,,Jamaal Lascelles,5-3-2,4-4-2,Craig Pawson
+144,2021-04-11,12:00 ,31,Sun,Away,W,2,1,Burnley,1.2,2.0,44,,Jonjo Shelvey,5-3-2,4-4-2,Anthony Taylor
+145,2021-04-17,12:30 ,32,Sat,Home,W,3,2,West Ham,2.2,1.9,34,,Jonjo Shelvey,5-3-2,3-4-1-2,Kevin Friend
+146,2021-04-24,12:30 ,33,Sat,Away,D,1,1,Liverpool,1.0,2.4,32,,Jonjo Shelvey,5-3-2,4-4-2,Andre Marriner
+147,2021-05-02,14:00 ,34,Sun,Home,L,0,2,Arsenal,0.3,2.0,39,,Jonjo Shelvey,5-3-2,4-2-3-1,Mike Dean
+148,2021-05-07,20:00 ,35,Fri,Away,W,4,2,Leicester City,2.7,2.2,32,,Jonjo Shelvey,5-3-2,3-4-1-2,Darren England
+149,2021-05-14,20:00 ,36,Fri,Home,L,3,4,Manchester City,2.2,1.5,18,,Jonjo Shelvey,5-3-2,4-3-3,Kevin Friend
+150,2021-05-19,18:00 ,37,Wed,Home,W,1,0,Sheffield Utd,1.6,0.9,51,"10,000",Jonjo Shelvey,5-3-2,3-4-3,Robert Jones
+151,2021-05-23,16:00 ,38,Sun,Away,W,2,0,Fulham,1.3,1.0,36,"2,000",Jonjo Shelvey,5-3-2,3-4-3,Chris Kavanagh
+152,2019-08-11,14:00 ,1,Sun,Home,L,0,1,Arsenal,0.4,1.1,38,"47,635",Jamaal Lascelles,3-5-2,4-2-3-1,Martin Atkinson
+153,2019-08-17,15:00 ,2,Sat,Away,L,1,3,Norwich City,0.9,1.7,37,"27,059",Jamaal Lascelles,3-5-2,4-2-3-1,Stuart Attwell
+154,2019-08-25,16:30 ,3,Sun,Away,W,1,0,Tottenham,0.8,1.1,21,"59,245",Jamaal Lascelles,5-4-1,4-2-3-1,Mike Dean
+155,2019-08-31,15:00 ,4,Sat,Home,D,1,1,Watford,1.0,1.0,49,"44,157",Jamaal Lascelles,5-4-1,3-4-3,Graham Scott
+156,2019-09-14,12:30 ,5,Sat,Away,L,1,3,Liverpool,0.3,3.0,26,"51,430",Jamaal Lascelles,5-4-1,4-3-3,Andre Marriner
+157,2019-09-21,17:30 ,6,Sat,Home,D,0,0,Brighton,0.9,1.4,29,"43,316",Jamaal Lascelles,5-4-1,3-4-3,Martin Atkinson
+158,2019-09-29,16:30 ,7,Sun,Away,L,0,5,Leicester City,0.1,1.6,32,"32,168",Jamaal Lascelles,4-2-3-1,4-1-4-1,Craig Pawson
+159,2019-10-06,16:30 ,8,Sun,Home,W,1,0,Manchester Utd,0.8,0.9,32,"51,198",Jamaal Lascelles,5-4-1,4-2-3-1,Mike Dean
+160,2019-10-19,15:00 ,9,Sat,Away,L,0,1,Chelsea,0.4,2.0,29,"40,513",Jamaal Lascelles,5-4-1,4-3-3,Andre Marriner
+161,2019-10-27,14:00 ,10,Sun,Home,D,1,1,Wolves,1.0,2.1,44,"46,019",Jamaal Lascelles,5-4-1,3-5-2,Kevin Friend
+162,2019-11-02,15:00 ,11,Sat,Away,W,3,2,West Ham,1.5,1.8,30,"59,907",Jamaal Lascelles,5-4-1,4-1-4-1,Stuart Attwell
+163,2019-11-09,15:00 ,12,Sat,Home,W,2,1,Bournemouth,2.4,1.8,35,"44,424",Jamaal Lascelles,5-4-1,4-4-2,Martin Atkinson
+164,2019-11-25,20:00 ,13,Mon,Away,L,0,2,Aston Villa,0.6,2.3,39,"41,821",Jonjo Shelvey,5-4-1,4-3-3,Lee Mason
+165,2019-11-30,12:30 ,14,Sat,Home,D,2,2,Manchester City,0.3,2.4,25,"49,937",Jonjo Shelvey,5-4-1,4-3-3,Chris Kavanagh
+166,2019-12-05,19:30 ,15,Thu,Away,W,2,0,Sheffield Utd,0.5,1.1,27,"30,409",Jonjo Shelvey,5-4-1,3-5-2,Stuart Attwell
+167,2019-12-08,14:00 ,16,Sun,Home,W,2,1,Southampton,0.9,1.7,46,"42,303",Jonjo Shelvey,5-4-1,4-4-2,David Coote
+168,2019-12-14,15:00 ,17,Sat,Away,L,0,1,Burnley,1.0,1.4,52,"19,798",Andy Carroll,5-4-1,4-4-2,Tim Robinson
+169,2019-12-21,15:00 ,18,Sat,Home,W,1,0,Crystal Palace,0.5,1.3,43,"45,453",Jonjo Shelvey,3-5-2,4-3-3,Simon Hooper
+170,2019-12-26,17:30 ,19,Thu,Away,L,1,4,Manchester Utd,0.8,1.9,28,"73,206",Federico Fernández,3-5-2,4-2-3-1,Kevin Friend
+171,2019-12-28,15:00 ,20,Sat,Home,L,1,2,Everton,1.8,2.9,43,"52,211",Jonjo Shelvey,3-5-2,4-4-2,Lee Mason
+172,2020-01-01,15:00 ,21,Wed,Home,L,0,3,Leicester City,0.7,2.6,24,"52,178",Jonjo Shelvey,3-4-3,3-1-4-2,Martin Atkinson
+173,2020-01-11,15:00 ,22,Sat,Away,D,1,1,Wolves,0.2,1.6,35,"31,570",Federico Fernández,5-4-1,3-4-3,Peter Bankes
+174,2020-01-18,17:30 ,23,Sat,Home,W,1,0,Chelsea,0.6,2.4,31,"52,217",Jamaal Lascelles,5-4-1,4-3-3,Chris Kavanagh
+175,2020-01-21,19:30 ,24,Tue,Away,D,2,2,Everton,1.3,1.8,45,"38,822",Jamaal Lascelles,5-4-1,4-4-2,Simon Hooper
+176,2020-02-01,15:00 ,25,Sat,Home,D,0,0,Norwich City,1.0,2.2,44,"52,204",Jamaal Lascelles,5-4-1,4-2-3-1,Martin Atkinson
+177,2020-02-16,16:30 ,26,Sun,Away,L,0,4,Arsenal,0.9,2.6,32,"60,188",Jamaal Lascelles,5-4-1,4-2-3-1,Lee Mason
+178,2020-02-22,15:00 ,27,Sat,Away,L,0,1,Crystal Palace,0.2,1.6,55,"25,486",Jamaal Lascelles,5-4-1,4-3-3,Peter Bankes
+179,2020-02-29,15:00 ,28,Sat,Home,D,0,0,Burnley,1.1,0.7,54,"52,219",Jamaal Lascelles,4-4-2,4-4-2,Andy Madley
+180,2020-03-07,15:00 ,29,Sat,Away,W,1,0,Southampton,2.8,0.6,61,"30,096",Jamaal Lascelles,4-4-2,4-4-2,Graham Scott
+181,2020-06-21,14:00 ,30,Sun,Home,W,3,0,Sheffield Utd,2.0,0.6,46,,Jamaal Lascelles,4-4-1-1,3-5-2,David Coote
+182,2020-06-24,18:00 ,31,Wed,Home,D,1,1,Aston Villa,0.9,1.6,52,,Jamaal Lascelles,4-4-1-1,4-3-3,Chris Kavanagh
+183,2020-07-01,18:00 ,32,Wed,Away,W,4,1,Bournemouth,1.8,1.6,45,,Jamaal Lascelles,4-2-3-1,4-4-2,Kevin Friend
+184,2020-07-05,14:15 ,33,Sun,Home,D,2,2,West Ham,1.4,2.1,57,,Jamaal Lascelles,4-2-3-1,4-2-3-1,Craig Pawson
+185,2020-07-08,18:00 ,34,Wed,Away,L,0,5,Manchester City,0.3,2.8,27,,Jonjo Shelvey,4-4-1-1,4-3-3,Andy Madley
+186,2020-07-11,12:30 ,35,Sat,Away,L,1,2,Watford,1.3,3.4,51,,Jamaal Lascelles,4-4-1-1,4-2-3-1,Craig Pawson
+187,2020-07-15,18:00 ,36,Wed,Home,L,1,3,Tottenham,1.1,1.5,52,,Jonjo Shelvey,5-3-2,4-3-3,David Coote
+188,2020-07-20,18:00 ,37,Mon,Away,D,0,0,Brighton,0.9,0.8,39,,Jonjo Shelvey,3-5-2,4-2-3-1,Simon Hooper
+189,2020-07-26,16:00 ,38,Sun,Home,L,1,3,Liverpool,0.1,0.6,26,,Jonjo Shelvey,3-5-2,4-3-3,Anthony Taylor
+190,2018-08-11,12:30 ,1,Sat,Home,L,1,2,Tottenham,1.0,2.0,42,"51,749",Jamaal Lascelles,4-4-1-1,4-3-2-1,Martin Atkinson
+191,2018-08-18,12:30 ,2,Sat,Away,D,0,0,Cardiff City,1.6,0.9,49,"30,720",Jamaal Lascelles,4-4-1-1,4-3-3,Craig Pawson
+192,2018-08-26,16:00 ,3,Sun,Home,L,1,2,Chelsea,0.2,1.5,20,"51,791",Paul Dummett,5-4-1,4-3-3,Paul Tierney
+193,2018-09-01,17:30 ,4,Sat,Away,L,1,2,Manchester City,0.5,2.0,22,"53,946",Jamaal Lascelles,5-4-1,4-1-3-2,Kevin Friend
+194,2018-09-15,15:00 ,5,Sat,Home,L,1,2,Arsenal,0.4,1.0,37,"52,165",Jamaal Lascelles,4-4-1-1,4-2-3-1,Lee Probert
+195,2018-09-22,15:00 ,6,Sat,Away,D,0,0,Crystal Palace,0.2,0.9,39,"25,679",Jamaal Lascelles,4-4-1-1,4-3-3,Andre Marriner
+196,2018-09-29,15:00 ,7,Sat,Home,L,0,2,Leicester City,0.4,1.3,41,"51,523",Jamaal Lascelles,4-4-1-1,4-2-3-1,Simon Hooper
+197,2018-10-06,17:30 ,8,Sat,Away,L,2,3,Manchester Utd,1.6,1.9,28,"74,519",Jamaal Lascelles,4-4-1-1,4-3-3,Anthony Taylor
+198,2018-10-20,15:00 ,9,Sat,Home,L,0,1,Brighton,1.8,0.8,67,"50,329",Jamaal Lascelles,4-4-1-1,4-4-1-1,Andre Marriner
+199,2018-10-27,15:00 ,10,Sat,Away,D,0,0,Southampton,0.4,1.1,50,"30,736",Jamaal Lascelles,4-4-1-1,4-4-2,Chris Kavanagh
+200,2018-11-03,15:00 ,11,Sat,Home,W,1,0,Watford,0.5,2.0,42,"49,157",Jamaal Lascelles,4-4-1-1,4-2-2-2,Craig Pawson
+201,2018-11-10,15:00 ,12,Sat,Home,W,2,1,Bournemouth,2.2,1.6,40,"49,266",Paul Dummett,4-4-1-1,4-4-1-1,Lee Probert
+202,2018-11-26,20:30 ,13,Mon,Away,W,2,1,Burnley,1.6,1.8,43,"20,628",Ciaran Clark,5-4-1,4-4-2,Anthony Taylor
+203,2018-12-01,15:00 ,14,Sat,Home,L,0,3,West Ham,1.0,2.5,59,"51,853",Federico Fernández,4-4-1-1,4-4-2,Paul Tierney
+204,2018-12-05,19:45 ,15,Wed,Away,D,1,1,Everton,1.5,1.8,25,"39,350",Jamaal Lascelles,5-4-1,4-2-3-1,Lee Mason
+205,2018-12-09,16:00 ,16,Sun,Home,L,1,2,Wolves,0.6,1.8,51,"50,223",Jamaal Lascelles,3-5-1-1,3-4-3,Mike Dean
+206,2018-12-15,15:00 ,17,Sat,Away,W,1,0,Huddersfield,0.6,0.8,28,"24,036",Jamaal Lascelles,3-5-1-1,3-5-1-1,Anthony Taylor
+207,2018-12-22,15:00 ,18,Sat,Home,D,0,0,Fulham,0.4,0.2,53,"51,237",Jamaal Lascelles,5-4-1,3-4-3,Martin Atkinson
+208,2018-12-26,15:00 ,19,Wed,Away,L,0,4,Liverpool,0.5,2.9,26,"53,318",Jamaal Lascelles,5-3-2,4-2-3-1,Graham Scott
+209,2018-12-29,15:00 ,20,Sat,Away,D,1,1,Watford,0.7,1.3,37,"20,336",Jamaal Lascelles,5-4-1,4-2-2-2,Roger East
+210,2019-01-02,20:00 ,21,Wed,Home,L,0,2,Manchester Utd,0.7,2.6,36,"52,217",Jamaal Lascelles,5-4-1,4-2-3-1,Andre Marriner
+211,2019-01-12,17:30 ,22,Sat,Away,L,1,2,Chelsea,0.5,1.3,35,"40,491",Jamaal Lascelles,5-4-1,4-3-3,Chris Kavanagh
+212,2019-01-19,15:00 ,23,Sat,Home,W,3,0,Cardiff City,2.0,0.3,54,"49,864",Jamaal Lascelles,5-4-1,4-4-2,Stuart Attwell
+213,2019-01-29,20:00 ,24,Tue,Home,W,2,1,Manchester City,1.1,1.4,25,"50,861",Jamaal Lascelles,5-4-1,4-3-3,Paul Tierney
+214,2019-02-02,12:30 ,25,Sat,Away,L,0,1,Tottenham,0.4,2.2,29,"41,219",Jamaal Lascelles,5-4-1,4-2-3-1,Andre Marriner
+215,2019-02-11,20:00 ,26,Mon,Away,D,1,1,Wolves,0.4,2.3,41,"30,687",Jamaal Lascelles,3-5-1-1,3-5-2,Graham Scott
+216,2019-02-23,15:00 ,27,Sat,Home,W,2,0,Huddersfield,2.8,0.2,54,"52,174",Jamaal Lascelles,5-4-1,4-1-2-1-2,Kevin Friend
+217,2019-02-26,20:00 ,28,Tue,Home,W,2,0,Burnley,1.4,1.6,54,"48,323",Jamaal Lascelles,5-4-1,4-4-2,Craig Pawson
+218,2019-03-02,17:30 ,29,Sat,Away,L,0,2,West Ham,1.1,2.0,44,"59,910",Jamaal Lascelles,5-4-1,4-1-4-1,Chris Kavanagh
+219,2019-03-09,15:00 ,30,Sat,Home,W,3,2,Everton,2.4,1.1,45,"52,242",Jamaal Lascelles,3-4-3,4-2-3-1,Lee Mason
+220,2019-03-16,15:00 ,31,Sat,Away,D,2,2,Bournemouth,1.1,1.3,51,"10,625",Paul Dummett,5-4-1,4-4-2,Mike Dean
+221,2019-04-01,20:00 ,32,Mon,Away,L,0,2,Arsenal,0.1,0.8,30,"59,869",Jamaal Lascelles,5-4-1,3-4-3,Anthony Taylor
+222,2019-04-06,15:00 ,33,Sat,Home,L,0,1,Crystal Palace,0.9,0.9,53,"51,926",Jamaal Lascelles,5-4-1,4-4-2,Stuart Attwell
+223,2019-04-12,20:00 ,34,Fri,Away,W,1,0,Leicester City,1.1,1.0,29,"32,108",Jamaal Lascelles,5-4-1,4-1-4-1,Chris Kavanagh
+224,2019-04-20,17:30 ,35,Sat,Home,W,3,1,Southampton,1.4,1.2,44,"52,191",Jamaal Lascelles,5-4-1,3-4-3,Anthony Taylor
+225,2019-04-27,17:30 ,36,Sat,Away,D,1,1,Brighton,0.4,1.3,50,"30,587",Jonjo Shelvey,5-4-1,4-4-2,Mike Dean
+226,2019-05-04,19:45 ,37,Sat,Home,L,2,3,Liverpool,1.4,1.2,31,"52,206",Jamaal Lascelles,5-4-1,4-3-3,Andre Marriner
+227,2019-05-12,15:00 ,38,Sun,Away,W,4,0,Fulham,2.1,0.7,33,"24,979",Jamaal Lascelles,5-4-1,4-2-3-1,Kevin Friend
+228,2017-08-13,13:30 ,1,Sun,Home,L,0,2,Tottenham,0.8,2.5,28,"52,077",Jonjo Shelvey,4-2-3-1,4-2-3-1,Andre Marriner
+229,2017-08-20,13:30 ,2,Sun,Away,L,0,1,Huddersfield,0.7,0.3,48,"24,128",Jamaal Lascelles,4-2-3-1,4-2-3-1,Craig Pawson
+230,2017-08-26,15:00 ,3,Sat,Home,W,3,0,West Ham,2.3,0.6,37,"52,093",Jamaal Lascelles,4-2-3-1,4-2-3-1,Niel Swarbrick
+231,2017-09-10,16:00 ,4,Sun,Away,W,1,0,Swansea City,1.0,1.2,38,"20,872",Jamaal Lascelles,4-2-3-1,4-3-1-2,Mike Jones
+232,2017-09-16,15:00 ,5,Sat,Home,W,2,1,Stoke City,2.0,0.7,42,"51,795",Jamaal Lascelles,4-2-3-1,3-4-3,Stuart Attwell
+233,2017-09-24,16:00 ,6,Sun,Away,L,0,1,Brighton,1.5,1.0,51,"30,468",Jamaal Lascelles,4-2-3-1,4-4-1-1,Andre Marriner
+234,2017-10-01,16:30 ,7,Sun,Home,D,1,1,Liverpool,0.3,1.3,33,"52,303",Jamaal Lascelles,4-2-3-1,4-3-3,Craig Pawson
+235,2017-10-15,16:00 ,8,Sun,Away,D,2,2,Southampton,1.2,1.5,38,"31,437",Jamaal Lascelles,4-4-2,4-4-2,Kevin Friend
+236,2017-10-21,15:00 ,9,Sat,Home,W,1,0,Crystal Palace,0.3,0.5,54,"52,251",Jamaal Lascelles,4-2-3-1,4-4-2,Stuart Attwell
+237,2017-10-30,20:00 ,10,Mon,Away,L,0,1,Burnley,0.5,0.9,53,"21,031",Jamaal Lascelles,4-2-3-1,4-4-1-1,Mike Dean
+238,2017-11-04,15:00 ,11,Sat,Home,L,0,1,Bournemouth,0.7,1.5,48,"52,237",Jamaal Lascelles,4-4-2,4-4-2,Paul Tierney
+239,2017-11-18,17:30 ,12,Sat,Away,L,1,4,Manchester Utd,1.1,3.1,35,"75,035",Jonjo Shelvey,4-4-2,4-2-3-1,Craig Pawson
+240,2017-11-25,15:00 ,13,Sat,Home,L,0,3,Watford,0.9,2.0,53,"52,188",Jonjo Shelvey,4-4-2,3-4-3,Chris Kavanagh
+241,2017-11-28,20:00 ,14,Tue,Away,D,2,2,West Brom,0.9,1.5,52,"25,534",Ciaran Clark,4-2-3-1,3-5-2,Lee Probert
+242,2017-12-02,12:30 ,15,Sat,Away,L,1,3,Chelsea,0.6,3.2,35,"41,538",Ciaran Clark,3-4-3,3-5-1-1,Kevin Friend
+243,2017-12-09,17:30 ,16,Sat,Home,L,2,3,Leicester City,0.9,0.5,38,"52,117",Ciaran Clark,4-4-1-1,4-4-1-1,Niel Swarbrick
+244,2017-12-13,19:45 ,17,Wed,Home,L,0,1,Everton,0.8,1.2,55,"51,042",Jamaal Lascelles,4-2-3-1,4-2-3-1,Martin Atkinson
+245,2017-12-16,15:00 ,18,Sat,Away,L,0,1,Arsenal,0.3,1.8,29,"59,379",Jamaal Lascelles,4-4-2,4-3-3,Stuart Attwell
+246,2017-12-23,15:00 ,19,Sat,Away,W,3,2,West Ham,1.7,2.1,36,"56,955",Jamaal Lascelles,4-4-2,3-4-3,Lee Mason
+247,2017-12-27,19:45 ,20,Wed,Home,L,0,1,Manchester City,0.2,1.8,23,"52,311",Jamaal Lascelles,5-4-1,4-3-3,Andre Marriner
+248,2017-12-30,15:00 ,21,Sat,Home,D,0,0,Brighton,0.5,0.5,46,"52,209",Jamaal Lascelles,4-4-2,4-4-1-1,Anthony Taylor
+249,2018-01-01,15:00 ,22,Mon,Away,W,1,0,Stoke City,1.7,1.5,41,"28,471",Jamaal Lascelles,4-2-3-1,4-3-3,Chris Kavanagh
+250,2018-01-13,15:00 ,23,Sat,Home,D,1,1,Swansea City,1.4,1.3,42,"51,444",Jamaal Lascelles,4-2-3-1,4-4-2,Graham Scott
+251,2018-01-20,17:30 ,24,Sat,Away,L,1,3,Manchester City,1.0,2.1,20,"54,452",Jamaal Lascelles,5-4-1,4-3-3,Paul Tierney
+252,2018-01-31,19:45 ,25,Wed,Home,D,1,1,Burnley,2.2,1.0,52,"50,174",Jamaal Lascelles,4-4-1-1,4-4-1-1,Simon Hooper
+253,2018-02-04,14:15 ,26,Sun,Away,D,1,1,Crystal Palace,0.9,3.0,45,"25,746",Jamaal Lascelles,4-4-1-1,4-4-2,Andre Marriner
+254,2018-02-11,14:15 ,27,Sun,Home,W,1,0,Manchester Utd,0.5,1.9,36,"52,309",Jamaal Lascelles,4-4-1-1,4-2-3-1,Craig Pawson
+255,2018-02-24,15:00 ,28,Sat,Away,D,2,2,Bournemouth,3.0,1.7,37,"10,808",Jamaal Lascelles,4-4-1-1,4-4-1-1,Roger East
+256,2018-03-03,17:30 ,29,Sat,Away,L,0,2,Liverpool,0.3,1.5,30,"53,287",Jamaal Lascelles,3-4-3,4-3-3,Graham Scott
+257,2018-03-10,15:00 ,30,Sat,Home,W,3,0,Southampton,1.3,0.3,37,"52,246",Jamaal Lascelles,4-4-1-1,4-2-3-1,Andre Marriner
+258,2018-03-31,15:00 ,32,Sat,Home,W,1,0,Huddersfield,2.4,0.1,63,"52,261",Jamaal Lascelles,4-4-1-1,4-4-2,Martin Atkinson
+259,2018-04-07,15:00 ,33,Sat,Away,W,2,1,Leicester City,0.4,1.4,35,"32,066",Jamaal Lascelles,4-4-1-1,4-2-3-1,Stuart Attwell
+260,2018-04-15,13:30 ,34,Sun,Home,W,2,1,Arsenal,0.8,1.2,29,"52,210",Jamaal Lascelles,4-4-1-1,4-3-3,Anthony Taylor
+261,2018-04-23,20:00 ,35,Mon,Away,L,0,1,Everton,0.8,0.7,44,"39,061",Jamaal Lascelles,4-4-1-1,4-3-3,Robert Madley
+262,2018-04-28,15:00 ,36,Sat,Home,L,0,1,West Brom,1.8,0.7,62,"52,283",Jamaal Lascelles,4-4-1-1,4-4-1-1,David Coote
+263,2018-05-05,15:00 ,37,Sat,Away,L,1,2,Watford,0.7,2.5,61,"20,375",Jamaal Lascelles,4-4-1-1,4-4-2,Roger East
+264,2018-05-09,20:00 ,31,Wed,Away,L,0,1,Tottenham,1.0,0.8,37,"54,923",Jamaal Lascelles,4-2-3-1,4-2-3-1,Niel Swarbrick
+265,2018-05-13,15:00 ,38,Sun,Home,W,3,0,Chelsea,2.2,1.0,42,"52,294",Jamaal Lascelles,4-2-3-1,3-5-1-1,Martin Atkinson

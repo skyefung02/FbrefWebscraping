@@ -1,0 +1,153 @@
+,Date,Time,Matchweek,Day,Venue,Result,Goals Scored,Goals Conceded,Opponent,xG,xGA,Possession,Attendance,Captain,Formation,Opposition Formation,Referee
+0,2021-08-14,15:00 ,1,Sat,Home,W,3,2,Aston Villa,1.2,1.2,38,"20,051",Tom Cleverley,4-1-4-1,4-2-3-1,Mike Dean
+1,2021-08-21,17:30 ,2,Sat,Away,L,0,2,Brighton,0.5,1.3,44,"29,485",Tom Cleverley,4-1-4-1,4-4-1-1,Anthony Taylor
+2,2021-08-29,14:00 ,3,Sun,Away,L,0,1,Tottenham,0.8,1.0,43,"57,672",Craig Cathcart,4-1-4-1,4-3-3,Andre Marriner
+3,2021-09-11,15:00 ,4,Sat,Home,L,0,2,Wolves,0.2,2.2,45,"20,019",William Troost-Ekong,4-1-4-1,3-4-3,Peter Bankes
+4,2021-09-18,15:00 ,5,Sat,Away,W,3,1,Norwich City,2.4,1.0,51,"26,649",Tom Cleverley,4-2-3-1,4-3-3,Robert Jones
+5,2021-09-25,15:00 ,6,Sat,Home,D,1,1,Newcastle Utd,0.9,1.9,53,"20,650",Tom Cleverley,4-2-3-1,4-1-4-1,Jarred Gillett
+6,2021-10-02,15:00 ,7,Sat,Away,L,0,1,Leeds United,0.2,1.3,34,"36,261",Ben Foster,4-2-3-1,4-1-4-1,Simon Hooper
+7,2021-10-16,12:30 ,8,Sat,Home,L,0,5,Liverpool,0.5,3.3,25,"21,085",Moussa Sissoko,5-4-1,4-3-3,Jonathan Moss
+8,2021-10-23,15:00 ,9,Sat,Away,W,5,2,Everton,3.7,1.5,51,"38,834",Moussa Sissoko,4-1-4-1,4-4-1-1,Graham Scott
+9,2021-10-30,15:00 ,10,Sat,Home,L,0,1,Southampton,1.0,1.8,40,"20,869",Moussa Sissoko,4-4-1-1,4-4-2,Peter Bankes
+10,2021-11-07,14:00 ,11,Sun,Away,L,0,1,Arsenal,0.5,1.6,40,"59,833",Moussa Sissoko,4-1-4-1,4-4-1-1,Kevin Friend
+11,2021-11-20,15:00 ,12,Sat,Home,W,4,1,Manchester Utd,2.7,1.4,39,"21,087",Moussa Sissoko,4-1-4-1,4-2-3-1,Jonathan Moss
+12,2021-11-28,14:00 ,13,Sun,Away,L,2,4,Leicester City,2.8,2.1,44,"32,020",Moussa Sissoko,4-1-4-1,4-2-3-1,Andy Madley
+13,2021-12-01,19:30 ,14,Wed,Home,L,1,2,Chelsea,1.0,0.9,51,"20,388",Moussa Sissoko,4-1-4-1,3-4-3,David Coote
+14,2021-12-04,17:30 ,15,Sat,Home,L,1,3,Manchester City,0.8,3.1,23,"20,673",Moussa Sissoko,4-1-4-1,4-3-3,Simon Hooper
+15,2021-12-10,20:00 ,16,Fri,Away,L,1,2,Brentford,0.5,1.6,37,"16,861",Moussa Sissoko,4-2-3-1,3-5-2,Michael Oliver
+16,2021-12-28,15:00 ,20,Tue,Home,L,1,4,West Ham,1.6,3.6,43,"20,073",Moussa Sissoko,4-1-4-1,4-2-3-1,Darren England
+17,2022-01-01,15:00 ,21,Sat,Home,L,0,1,Tottenham,0.3,2.2,26,"20,391",Moussa Sissoko,4-4-2,3-4-3,Robert Jones
+18,2022-01-15,15:00 ,22,Sat,Away,D,1,1,Newcastle Utd,1.4,1.2,48,"52,223",Moussa Sissoko,4-3-3,4-3-3,Paul Tierney
+19,2022-01-21,20:00 ,23,Fri,Home,L,0,3,Norwich City,1.2,1.1,67,"20,782",Moussa Sissoko,4-3-3,4-4-2,Mike Dean
+20,2022-02-05,18:00 ,17,Sat,Away,D,0,0,Burnley,0.8,0.6,47,"19,527",Moussa Sissoko,4-4-2,4-4-2,Craig Pawson
+21,2022-02-08,19:45 ,24,Tue,Away,L,0,1,West Ham,0.3,0.8,36,"59,581",Moussa Sissoko,4-4-2,4-2-3-1,Martin Atkinson
+22,2022-02-12,15:00 ,25,Sat,Home,L,0,2,Brighton,0.5,1.6,36,"20,795",Moussa Sissoko,4-4-2,3-1-4-2,Jonathan Moss
+23,2022-02-19,15:00 ,26,Sat,Away,W,1,0,Aston Villa,1.2,1.3,41,"41,936",Moussa Sissoko,4-3-3,4-3-3,Robert Jones
+24,2022-02-23,19:30 ,18,Wed,Home,L,1,4,Crystal Palace,1.4,1.1,46,"20,012",Moussa Sissoko,4-3-3,4-3-3,Andre Marriner
+25,2022-02-26,15:00 ,27,Sat,Away,D,0,0,Manchester Utd,0.6,2.8,33,"73,152",Moussa Sissoko,4-3-3,4-2-3-1,Kevin Friend
+26,2022-03-06,14:00 ,28,Sun,Home,L,2,3,Arsenal,1.0,1.0,44,"21,142",Moussa Sissoko,4-3-3,4-2-3-1,Craig Pawson
+27,2022-03-10,19:30 ,19,Thu,Away,L,0,4,Wolves,0.6,0.7,34,"29,658",Moussa Sissoko,4-3-3,3-4-3,Darren England
+28,2022-03-13,14:00 ,29,Sun,Away,W,2,1,Southampton,1.7,1.4,37,"28,863",Moussa Sissoko,4-3-3,4-4-2,Graham Scott
+29,2022-04-02,12:30 ,31,Sat,Away,L,0,2,Liverpool,0.6,2.2,27,"53,104",Moussa Sissoko,4-1-4-1,4-3-3,Stuart Attwell
+30,2022-04-09,15:00 ,32,Sat,Home,L,0,3,Leeds United,1.1,0.7,49,"20,957",Moussa Sissoko,4-3-3,4-2-3-1,Andre Marriner
+31,2022-04-16,15:00 ,33,Sat,Home,L,1,2,Brentford,1.7,1.9,50,"21,045",Moussa Sissoko,4-3-3,4-3-3,Simon Hooper
+32,2022-04-23,15:00 ,34,Sat,Away,L,1,5,Manchester City,0.5,3.6,27,"53,013",Moussa Sissoko,4-3-3,4-2-3-1,Kevin Friend
+33,2022-04-30,15:00 ,35,Sat,Home,L,1,2,Burnley,1.0,1.6,47,"20,738",Moussa Sissoko,4-3-3,4-4-2,Craig Pawson
+34,2022-05-07,15:00 ,36,Sat,Away,L,0,1,Crystal Palace,0.4,2.2,33,"24,622",Moussa Sissoko,4-3-3,4-3-3,Graham Scott
+35,2022-05-11,19:45 ,30,Wed,Home,D,0,0,Everton,0.3,0.7,48,"20,653",Moussa Sissoko,4-3-3,5-4-1,Mike Dean
+36,2022-05-15,14:00 ,37,Sun,Home,L,1,5,Leicester City,1.4,2.5,41,"20,257",Moussa Sissoko,4-3-3,4-1-4-1,Jarred Gillett
+37,2022-05-22,16:00 ,38,Sun,Away,L,1,2,Chelsea,0.6,2.2,29,"32,089",Moussa Sissoko,4-3-3,3-4-3,Mike Dean
+38,2019-08-10,15:00 ,1,Sat,Home,L,0,3,Brighton,0.7,0.8,49,"20,245",Troy Deeney,4-2-2-2,3-4-3,Craig Pawson
+39,2019-08-17,15:00 ,2,Sat,Away,L,0,1,Everton,1.2,0.7,56,"39,066",Troy Deeney,4-2-2-2,4-2-3-1,Lee Mason
+40,2019-08-24,15:00 ,3,Sat,Home,L,1,3,West Ham,2.3,3.5,55,"20,035",Étienne Capoue,4-1-2-1-2◆,4-2-3-1,Chris Kavanagh
+41,2019-08-31,15:00 ,4,Sat,Away,D,1,1,Newcastle Utd,1.0,1.0,51,"44,157",Craig Cathcart,3-4-3,5-4-1,Graham Scott
+42,2019-09-15,16:30 ,5,Sun,Home,D,2,2,Arsenal,2.7,0.8,52,"21,360",Étienne Capoue,4-2-3-1,4-1-2-1-2,Anthony Taylor
+43,2019-09-21,15:00 ,6,Sat,Away,L,0,8,Manchester City,0.4,5.9,32,"54,273",Adrian Mariappa,4-4-1-1,4-3-3,Mike Dean
+44,2019-09-28,15:00 ,7,Sat,Away,L,0,2,Wolves,1.4,1.4,61,"30,711",Étienne Capoue,4-3-3,3-4-3,Paul Tierney
+45,2019-10-05,15:00 ,8,Sat,Home,D,0,0,Sheffield Utd,1.4,0.4,40,"20,811",Craig Cathcart,5-3-2,3-5-2,Andre Marriner
+46,2019-10-19,15:00 ,9,Sat,Away,D,1,1,Tottenham,0.7,1.0,31,"58,754",Craig Cathcart,5-3-2,3-4-3,Chris Kavanagh
+47,2019-10-26,15:00 ,10,Sat,Home,D,0,0,Bournemouth,0.8,1.0,41,"20,821",Craig Cathcart,5-3-2,4-4-2,Mike Dean
+48,2019-11-02,17:30 ,11,Sat,Home,L,1,2,Chelsea,1.3,2.1,33,"21,011",Craig Cathcart,5-4-1,4-2-3-1,Anthony Taylor
+49,2019-11-08,20:00 ,12,Fri,Away,W,2,0,Norwich City,1.3,0.7,34,"27,074",Étienne Capoue,5-3-2,4-2-3-1,Andre Marriner
+50,2019-11-23,15:00 ,13,Sat,Home,L,0,3,Burnley,1.0,1.9,62,"19,711",Étienne Capoue,5-3-2,4-4-2,Paul Tierney
+51,2019-11-30,17:30 ,14,Sat,Away,L,1,2,Southampton,0.6,2.1,37,"26,929",Étienne Capoue,5-3-2,4-4-2,Michael Oliver
+52,2019-12-04,19:30 ,15,Wed,Away,L,0,2,Leicester City,0.2,2.4,38,"31,763",Troy Deeney,4-4-2,4-1-4-1,Craig Pawson
+53,2019-12-07,15:00 ,16,Sat,Home,D,0,0,Crystal Palace,1.4,0.2,51,"20,070",Troy Deeney,4-2-3-1,4-5-1,Martin Atkinson
+54,2019-12-14,12:30 ,17,Sat,Away,L,0,2,Liverpool,1.0,1.4,32,"53,311",Troy Deeney,4-2-3-1,4-2-3-1,Andre Marriner
+55,2019-12-22,14:00 ,18,Sun,Home,W,2,0,Manchester Utd,1.5,1.8,37,"21,488",Troy Deeney,4-2-3-1,4-2-3-1,Lee Mason
+56,2019-12-26,15:00 ,19,Thu,Away,D,1,1,Sheffield Utd,0.6,2.4,42,"30,222",Troy Deeney,4-2-3-1,3-5-2,David Coote
+57,2019-12-28,15:00 ,20,Sat,Home,W,3,0,Aston Villa,2.8,0.6,49,"21,348",Troy Deeney,4-2-3-1,4-2-3-1,Simon Hooper
+58,2020-01-01,15:00 ,21,Wed,Home,W,2,1,Wolves,1.1,1.2,37,"20,584",Troy Deeney,4-2-3-1,3-4-3,Andy Madley
+59,2020-01-12,14:00 ,22,Sun,Away,W,3,0,Bournemouth,2.0,0.4,43,"10,384",Troy Deeney,4-2-3-1,4-4-2,Mike Dean
+60,2020-01-18,12:30 ,23,Sat,Home,D,0,0,Tottenham,2.5,1.9,42,"21,366",Troy Deeney,4-2-3-1,4-3-3,Michael Oliver
+61,2020-01-21,19:30 ,24,Tue,Away,L,1,2,Aston Villa,1.8,1.3,36,"40,867",Troy Deeney,4-2-3-1,3-4-3,Martin Atkinson
+62,2020-02-01,15:00 ,25,Sat,Home,L,2,3,Everton,0.9,2.2,45,"21,229",Troy Deeney,4-2-3-1,4-4-2,Craig Pawson
+63,2020-02-08,17:30 ,26,Sat,Away,D,1,1,Brighton,0.2,0.8,34,"30,443",Troy Deeney,4-2-3-1,4-2-3-1,Kevin Friend
+64,2020-02-23,14:00 ,27,Sun,Away,L,0,3,Manchester Utd,0.3,2.4,43,"73,347",Troy Deeney,4-2-3-1,4-2-3-1,Martin Atkinson
+65,2020-02-29,17:30 ,28,Sat,Home,W,3,0,Liverpool,2.3,0.3,30,"21,634",Troy Deeney,4-2-3-1,4-3-3,Michael Oliver
+66,2020-03-07,15:00 ,29,Sat,Away,L,0,1,Crystal Palace,0.6,0.8,56,"25,461",Troy Deeney,4-2-3-1,4-3-3,Anthony Taylor
+67,2020-06-20,12:30 ,30,Sat,Home,D,1,1,Leicester City,1.3,1.0,33,,Troy Deeney,4-2-3-1,4-1-4-1,Craig Pawson
+68,2020-06-25,18:00 ,31,Thu,Away,L,0,1,Burnley,0.7,0.9,46,,Troy Deeney,4-4-2,4-4-2,Mike Dean
+69,2020-06-28,16:30 ,32,Sun,Home,L,1,3,Southampton,0.5,1.3,48,,Troy Deeney,4-2-3-1,4-4-2,Michael Oliver
+70,2020-07-04,20:00 ,33,Sat,Away,L,0,3,Chelsea,0.6,2.5,30,,Troy Deeney,4-5-1,4-3-3,Kevin Friend
+71,2020-07-07,18:00 ,34,Tue,Home,W,2,1,Norwich City,1.2,1.2,44,,Troy Deeney,4-2-3-1,4-2-3-1,Anthony Taylor
+72,2020-07-11,12:30 ,35,Sat,Home,W,2,1,Newcastle Utd,3.4,1.3,49,,Troy Deeney,4-2-3-1,4-4-1-1,Craig Pawson
+73,2020-07-17,20:00 ,36,Fri,Away,L,1,3,West Ham,1.5,0.9,59,,Troy Deeney,4-2-3-1,4-2-3-1,Martin Atkinson
+74,2020-07-21,18:00 ,37,Tue,Home,L,0,4,Manchester City,0.1,3.3,24,,Troy Deeney,4-5-1,4-3-3,Michael Oliver
+75,2020-07-26,16:00 ,38,Sun,Away,L,2,3,Arsenal,3.7,2.3,50,,Troy Deeney,4-2-2-2,4-2-3-1,Mike Dean
+76,2018-08-11,15:00 ,1,Sat,Home,W,2,0,Brighton,1.2,0.3,53,"20,051",Troy Deeney,4-2-2-2,4-4-1-1,Jonathan Moss
+77,2018-08-19,13:30 ,2,Sun,Away,W,3,1,Burnley,1.5,0.6,42,"18,822",Troy Deeney,4-2-2-2,4-4-1-1,Paul Tierney
+78,2018-08-26,13:30 ,3,Sun,Home,W,2,1,Crystal Palace,1.2,1.0,43,"20,014",Troy Deeney,4-2-2-2,4-4-2,Anthony Taylor
+79,2018-09-02,16:00 ,4,Sun,Home,W,2,1,Tottenham,0.4,0.6,34,"20,141",Troy Deeney,4-2-2-2,3-1-4-2,Andre Marriner
+80,2018-09-15,17:30 ,5,Sat,Home,L,1,2,Manchester Utd,1.3,1.9,43,"20,537",Troy Deeney,4-2-2-2,4-3-3,Mike Dean
+81,2018-09-22,12:30 ,6,Sat,Away,D,1,1,Fulham,1.4,1.7,40,"23,418",Troy Deeney,4-2-2-2,4-3-3,Martin Atkinson
+82,2018-09-29,15:00 ,7,Sat,Away,L,0,2,Arsenal,2.8,1.4,37,"60,019",Troy Deeney,4-2-2-2,4-2-3-1,Anthony Taylor
+83,2018-10-06,15:00 ,8,Sat,Home,L,0,4,Bournemouth,1.0,3.2,48,"20,139",Troy Deeney,4-2-2-2,4-4-2,Jonathan Moss
+84,2018-10-20,15:00 ,9,Sat,Away,W,2,0,Wolves,1.1,0.7,55,"31,144",Adrian Mariappa,4-2-2-2,3-4-3,Lee Mason
+85,2018-10-27,15:00 ,10,Sat,Home,W,3,0,Huddersfield,2.0,0.5,48,"20,457",Adrian Mariappa,4-2-2-2,4-4-1-1,Mike Dean
+86,2018-11-03,15:00 ,11,Sat,Away,L,0,1,Newcastle Utd,2.0,0.5,58,"49,157",Adrian Mariappa,4-2-2-2,4-4-1-1,Craig Pawson
+87,2018-11-10,15:00 ,12,Sat,Away,D,1,1,Southampton,1.2,1.1,58,"28,153",Adrian Mariappa,4-2-2-2,4-2-3-1,Simon Hooper
+88,2018-11-24,15:00 ,13,Sat,Home,L,0,3,Liverpool,0.4,1.2,37,"20,540",Troy Deeney,4-2-2-2,4-2-3-1,Jonathan Moss
+89,2018-12-01,15:00 ,14,Sat,Away,L,0,2,Leicester City,1.2,1.3,62,"31,353",Adrian Mariappa,4-2-2-2,4-2-3-1,Graham Scott
+90,2018-12-04,20:00 ,15,Tue,Home,L,1,2,Manchester City,1.8,2.5,30,"20,389",Troy Deeney,4-1-4-1,4-3-3,Paul Tierney
+91,2018-12-10,20:00 ,16,Mon,Away,D,2,2,Everton,1.7,1.7,44,"38,400",Troy Deeney,4-2-2-2,4-2-3-1,Kevin Friend
+92,2018-12-15,15:00 ,17,Sat,Home,W,3,2,Cardiff City,1.4,0.9,71,"20,032",Troy Deeney,4-2-2-2,4-1-4-1,Andy Madley
+93,2018-12-22,15:00 ,18,Sat,Away,W,2,0,West Ham,2.3,2.0,48,"56,833",Troy Deeney,4-2-2-2,4-4-2,Lee Mason
+94,2018-12-26,19:30 ,19,Wed,Home,L,1,2,Chelsea,1.2,1.9,35,"20,415",Troy Deeney,4-2-2-2,4-3-3,Martin Atkinson
+95,2018-12-29,15:00 ,20,Sat,Home,D,1,1,Newcastle Utd,1.3,0.7,63,"20,336",Adrian Mariappa,4-2-2-2,5-4-1,Roger East
+96,2019-01-02,19:45 ,21,Wed,Away,D,3,3,Bournemouth,0.9,2.2,43,"10,261",Troy Deeney,4-2-2-2,4-4-2,David Coote
+97,2019-01-12,15:00 ,22,Sat,Away,W,2,1,Crystal Palace,1.6,1.3,45,"25,010",Troy Deeney,4-2-2-2,4-3-3,Paul Tierney
+98,2019-01-19,15:00 ,23,Sat,Home,D,0,0,Burnley,1.3,1.8,54,"19,510",Troy Deeney,4-2-2-2,4-4-2,Michael Oliver
+99,2019-01-30,20:00 ,24,Wed,Away,L,1,2,Tottenham,0.5,1.7,32,"29,164",Troy Deeney,4-2-2-2,3-5-2,Graham Scott
+100,2019-02-02,15:00 ,25,Sat,Away,D,0,0,Brighton,0.3,1.6,45,"30,414",Troy Deeney,4-2-2-2,4-3-3,Simon Hooper
+101,2019-02-09,15:00 ,26,Sat,Home,W,1,0,Everton,1.3,0.7,44,"20,333",Troy Deeney,4-2-2-2,4-2-3-1,Lee Probert
+102,2019-02-22,19:45 ,27,Fri,Away,W,5,1,Cardiff City,2.1,2.0,63,"30,387",Troy Deeney,4-2-2-2,3-4-3,Simon Hooper
+103,2019-02-27,20:00 ,28,Wed,Away,L,0,5,Liverpool,0.3,1.9,38,"53,316",Troy Deeney,4-2-2-2,4-3-3,Graham Scott
+104,2019-03-03,12:00 ,29,Sun,Home,W,2,1,Leicester City,0.8,0.9,39,"20,062",Troy Deeney,4-2-2-2,3-4-3,Jonathan Moss
+105,2019-03-09,17:30 ,30,Sat,Away,L,1,3,Manchester City,0.2,3.4,29,"54,104",Étienne Capoue,4-5-1,4-3-3,Paul Tierney
+106,2019-03-30,15:00 ,32,Sat,Away,L,1,2,Manchester Utd,1.5,1.6,48,"74,543",Troy Deeney,4-2-2-2,4-3-1-2,Stuart Attwell
+107,2019-04-02,19:45 ,33,Tue,Home,W,4,1,Fulham,1.2,1.6,47,"17,301",Troy Deeney,4-2-2-2,3-4-3,Roger East
+108,2019-04-15,20:00 ,34,Mon,Home,L,0,1,Arsenal,1.0,2.3,35,"20,480",Troy Deeney,3-5-2,4-2-3-1,Craig Pawson
+109,2019-04-20,15:00 ,35,Sat,Away,W,2,1,Huddersfield,0.9,1.0,54,"23,957",Adrian Mariappa,4-2-2-2,4-4-1-1,Roger East
+110,2019-04-23,19:45 ,31,Tue,Home,D,1,1,Southampton,1.3,2.0,62,"19,170",Étienne Capoue,4-2-2-2,3-4-3,Mike Dean
+111,2019-04-27,15:00 ,36,Sat,Home,L,1,2,Wolves,0.8,2.0,56,"20,323",Adrian Mariappa,4-2-2-2,3-5-2,Simon Hooper
+112,2019-05-05,14:00 ,37,Sun,Away,L,0,3,Chelsea,1.7,2.3,42,"40,560",Troy Deeney,4-2-2-2,4-3-3,Paul Tierney
+113,2019-05-12,15:00 ,38,Sun,Home,L,1,4,West Ham,2.2,3.1,49,"20,067",Troy Deeney,4-2-2-2,4-1-4-1,Chris Kavanagh
+114,2017-08-12,12:30 ,1,Sat,Home,D,3,3,Liverpool,2.1,2.6,46,"20,407",Heurelho Gomes,4-3-3,4-3-3,Anthony Taylor
+115,2017-08-19,15:00 ,2,Sat,Away,W,2,0,Bournemouth,2.4,1.0,45,"10,501",Heurelho Gomes,4-3-3,4-4-1-1,Roger East
+116,2017-08-26,15:00 ,3,Sat,Home,D,0,0,Brighton,0.3,1.1,43,"20,181",Heurelho Gomes,4-3-3,4-4-1-1,Graham Scott
+117,2017-09-09,15:00 ,4,Sat,Away,W,2,0,Southampton,0.7,0.3,47,"31,435",Heurelho Gomes,4-2-3-1,4-2-3-1,Lee Probert
+118,2017-09-16,15:00 ,5,Sat,Home,L,0,6,Manchester City,0.5,3.3,33,"20,305",Heurelho Gomes,4-2-3-1,4-3-3,Anthony Taylor
+119,2017-09-23,15:00 ,6,Sat,Away,W,2,1,Swansea City,1.2,1.7,49,"20,372",Heurelho Gomes,4-2-3-1,3-5-2,Lee Mason
+120,2017-09-30,15:00 ,7,Sat,Away,D,2,2,West Brom,1.4,1.9,65,"24,606",Troy Deeney,4-2-3-1,4-2-3-1,Michael Oliver
+121,2017-10-14,17:30 ,8,Sat,Home,W,2,1,Arsenal,1.6,1.0,46,"20,384",Heurelho Gomes,3-4-3,3-4-3,Niel Swarbrick
+122,2017-10-21,12:30 ,9,Sat,Away,L,2,4,Chelsea,1.9,1.9,48,"41,467",Troy Deeney,3-4-3,3-4-3,Jonathan Moss
+123,2017-10-28,15:00 ,10,Sat,Home,L,0,1,Stoke City,1.2,1.1,69,"20,087",Troy Deeney,4-2-3-1,3-4-3,Michael Oliver
+124,2017-11-05,16:30 ,11,Sun,Away,L,2,3,Everton,2.0,2.1,62,"38,609",Heurelho Gomes,4-3-3,4-3-3,Graham Scott
+125,2017-11-19,16:00 ,12,Sun,Home,W,2,0,West Ham,1.0,1.6,58,"20,018",Heurelho Gomes,3-4-3,4-3-3,Andre Marriner
+126,2017-11-25,15:00 ,13,Sat,Away,W,3,0,Newcastle Utd,2.0,0.9,47,"52,188",Heurelho Gomes,3-4-3,4-4-2,Chris Kavanagh
+127,2017-11-28,20:00 ,14,Tue,Home,L,2,4,Manchester Utd,1.4,1.2,59,"20,552",Heurelho Gomes,3-5-2,3-4-3,Jonathan Moss
+128,2017-12-02,15:00 ,15,Sat,Home,D,1,1,Tottenham,0.4,0.8,50,"20,278",Heurelho Gomes,3-4-3,4-2-3-1,Martin Atkinson
+129,2017-12-09,15:00 ,16,Sat,Away,L,0,1,Burnley,1.1,0.5,51,"19,479",Troy Deeney,4-2-3-1,4-2-3-1,Lee Probert
+130,2017-12-12,20:00 ,17,Tue,Away,L,1,2,Crystal Palace,1.2,1.2,47,"23,566",Troy Deeney,3-4-3,4-4-2,Lee Mason
+131,2017-12-16,15:00 ,18,Sat,Home,L,1,4,Huddersfield,0.6,3.4,60,"20,026",Troy Deeney,3-4-3,4-4-2,Michael Oliver
+132,2017-12-23,15:00 ,19,Sat,Away,L,0,1,Brighton,1.5,1.1,49,"30,473",Heurelho Gomes,4-2-3-1,4-4-1-1,Paul Tierney
+133,2017-12-26,15:00 ,20,Tue,Home,W,2,1,Leicester City,1.2,1.3,49,"20,308",Heurelho Gomes,4-3-3,4-2-3-1,Chris Kavanagh
+134,2017-12-30,15:00 ,21,Sat,Home,L,1,2,Swansea City,1.2,1.1,51,"20,002",Heurelho Gomes,4-2-3-1,4-2-2-2,Martin Atkinson
+135,2018-01-02,20:00 ,22,Tue,Away,L,1,3,Manchester City,1.0,2.1,24,"53,556",Heurelho Gomes,4-2-3-1,4-3-3,Lee Mason
+136,2018-01-13,15:00 ,23,Sat,Home,D,2,2,Southampton,2.0,0.9,56,"20,018",Heurelho Gomes,4-2-3-1,4-2-3-1,Roger East
+137,2018-01-20,15:00 ,24,Sat,Away,L,0,2,Leicester City,0.9,1.9,46,"31,891",Troy Deeney,4-2-3-1,4-4-1-1,Lee Probert
+138,2018-01-31,20:00 ,25,Wed,Away,D,0,0,Stoke City,0.7,0.9,51,"27,458",Troy Deeney,4-3-3,4-2-3-1,Jonathan Moss
+139,2018-02-05,20:00 ,26,Mon,Home,W,4,1,Chelsea,2.3,0.7,45,"20,157",Troy Deeney,3-4-3,3-4-3,Mike Dean
+140,2018-02-10,15:00 ,27,Sat,Away,L,0,2,West Ham,0.6,1.5,63,"56,197",Troy Deeney,3-4-3,3-4-3,Graham Scott
+141,2018-02-24,17:30 ,28,Sat,Home,W,1,0,Everton,0.6,0.8,54,"20,430",Troy Deeney,4-2-3-1,4-3-3,Anthony Taylor
+142,2018-03-03,15:00 ,29,Sat,Home,W,1,0,West Brom,1.3,1.1,53,"20,022",Troy Deeney,4-2-3-1,4-3-3,Paul Tierney
+143,2018-03-11,13:30 ,30,Sun,Away,L,0,3,Arsenal,1.4,2.2,41,"59,131",Troy Deeney,4-2-3-1,4-2-3-1,Martin Atkinson
+144,2018-03-17,17:30 ,31,Sat,Away,L,0,5,Liverpool,0.4,2.3,42,"53,287",Troy Deeney,3-4-3,4-3-3,Anthony Taylor
+145,2018-03-31,15:00 ,32,Sat,Home,D,2,2,Bournemouth,0.7,1.7,50,"20,393",Troy Deeney,4-2-3-1,4-4-1-1,Andy Madley
+146,2018-04-07,15:00 ,33,Sat,Home,L,1,2,Burnley,1.2,1.0,60,"20,044",Troy Deeney,4-2-3-1,4-4-2,Paul Tierney
+147,2018-04-14,15:00 ,34,Sat,Away,L,0,1,Huddersfield,0.2,0.8,51,"23,961",Troy Deeney,4-2-3-1,4-2-3-1,Craig Pawson
+148,2018-04-21,15:00 ,35,Sat,Home,D,0,0,Crystal Palace,0.6,0.3,52,"20,401",Troy Deeney,4-4-2,4-4-2,Chris Kavanagh
+149,2018-04-30,20:00 ,36,Mon,Away,L,0,2,Tottenham,1.3,1.4,39,"52,675",Adrian Mariappa,4-2-3-1,4-2-3-1,Michael Oliver
+150,2018-05-05,15:00 ,37,Sat,Home,W,2,1,Newcastle Utd,2.5,0.7,39,"20,375",Troy Deeney,4-4-2,4-4-1-1,Roger East
+151,2018-05-13,15:00 ,38,Sun,Away,L,0,1,Manchester Utd,0.6,0.4,48,"75,049",Heurelho Gomes,4-1-4-1,4-3-3,Lee Mason

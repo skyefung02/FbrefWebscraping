@@ -1,0 +1,267 @@
+,Date,Time,Matchweek,Day,Venue,Result,Goals Scored,Goals Conceded,Opponent,xG,xGA,Possession,Attendance,Captain,Formation,Opposition Formation,Referee
+0,2023-08-13,16:30 ,1,Sun,Home,D,1,1,Liverpool,1.4,1.3,65,"40,096",Reece James,3-4-3,4-3-3,Anthony Taylor
+1,2023-08-20,16:30 ,2,Sun,Away,L,1,3,West Ham,2.5,1.8,75,"62,451",Ben Chilwell,3-4-3,4-2-3-1,John Brooks
+2,2023-08-25,20:00 ,3,Fri,Home,W,3,0,Luton Town,2.2,0.4,67,"39,893",Ben Chilwell,3-4-3,5-3-2,Robert Jones
+3,2023-09-02,15:00 ,4,Sat,Home,L,0,1,Nott'ham Forest,2.3,0.8,75,"39,820",Ben Chilwell,3-4-3,3-4-3,Tim Robinson
+4,2023-09-17,14:00 ,5,Sun,Away,D,0,0,Bournemouth,1.8,1.0,64,"10,421",Conor Gallagher,4-2-3-1,4-2-3-1,David Coote
+5,2023-09-24,14:00 ,6,Sun,Home,L,0,1,Aston Villa,1.3,1.0,53,"39,700",Conor Gallagher,4-2-3-1,4-2-3-1,Jarred Gillett
+6,2023-10-02,20:00 ,7,Mon,Away,W,2,0,Fulham,1.7,1.1,44,"24,445",Conor Gallagher,4-3-3,4-3-3,Tim Robinson
+7,2023-10-07,15:00 ,8,Sat,Away,W,4,1,Burnley,1.9,0.7,62,"21,654",Conor Gallagher,4-3-3,4-3-3,Stuart Attwell
+8,2023-10-21,17:30 ,9,Sat,Home,D,2,2,Arsenal,1.3,1.0,44,"39,723",Conor Gallagher,4-2-3-1,4-3-3,Chris Kavanagh
+9,2023-10-28,12:30 ,10,Sat,Home,L,0,2,Brentford,1.9,2.2,68,"39,575",Conor Gallagher,4-2-3-1,3-5-2,Simon Hooper
+10,2023-11-06,20:00 ,11,Mon,Away,W,4,1,Tottenham,4.1,0.9,60,"61,726",Reece James,4-2-3-1,4-2-3-1,Michael Oliver
+11,2023-11-12,16:30 ,12,Sun,Home,D,4,4,Manchester City,2.9,2.9,45,"39,532",Reece James,4-2-3-1,3-2-4-1,Anthony Taylor
+12,2023-11-25,15:00 ,13,Sat,Away,L,1,4,Newcastle Utd,0.5,2.4,46,"52,227",Reece James,4-2-3-1,4-3-3,Simon Hooper
+13,2023-12-03,14:00 ,14,Sun,Home,W,3,2,Brighton,2.1,1.1,32,"39,647",Conor Gallagher,4-2-3-1,4-2-3-1,Craig Pawson
+14,2023-12-06,20:15 ,15,Wed,Away,L,1,2,Manchester Utd,1.5,4.1,55,"73,607",Levi Colwill,4-2-3-1,4-2-3-1,Chris Kavanagh
+15,2023-12-10,14:00 ,16,Sun,Away,L,0,2,Everton,0.9,1.2,71,"39,280",Reece James,4-2-3-1,4-4-1-1,Michael Oliver
+16,2023-12-16,15:00 ,17,Sat,Home,W,2,0,Sheffield Utd,3.1,0.4,78,"39,599",Conor Gallagher,4-2-3-1,4-1-4-1,Andy Madley
+17,2023-12-24,13:00 ,18,Sun,Away,L,1,2,Wolves,2.0,1.3,68,"31,641",Conor Gallagher,4-2-3-1,3-4-3,David Coote
+18,2023-12-27,19:30 ,19,Wed,Home,W,2,1,Crystal Palace,2.6,1.1,63,"39,618",Conor Gallagher,4-2-3-1,4-3-3,Michael Salisbury
+19,2023-12-30,12:30 ,20,Sat,Away,W,3,2,Luton Town,1.5,2.3,48,"11,041",Conor Gallagher,4-2-3-1,3-4-3,Paul Tierney
+20,2024-01-13,12:30 ,21,Sat,Home,W,1,0,Fulham,2.2,0.8,55,"39,643",Conor Gallagher,4-2-3-1,4-2-3-1,Anthony Taylor
+21,2024-01-31,20:15 ,22,Wed,Away,L,1,4,Liverpool,0.6,2.9,50,"57,524",Ben Chilwell,4-2-3-1,4-3-3,Paul Tierney
+22,2024-02-04,14:00 ,23,Sun,Home,L,2,4,Wolves,1.7,2.0,64,"39,628",Ben Chilwell,4-2-3-1,3-4-3,Tim Robinson
+23,2024-02-12,20:00 ,24,Mon,Away,W,3,1,Crystal Palace,1.4,0.6,77,"25,110",Ben Chilwell,4-2-3-1,4-1-4-1,Michael Oliver
+24,2024-02-17,17:30 ,25,Sat,Away,D,1,1,Manchester City,1.4,2.6,30,"52,178",Ben Chilwell,4-2-3-1,4-1-4-1,Andy Madley
+25,2024-03-02,15:00 ,27,Sat,Away,D,2,2,Brentford,1.8,1.8,67,"17,140",Ben Chilwell,3-5-2,3-5-2,Jarred Gillett
+26,2024-03-11,20:00 ,28,Mon,Home,W,3,2,Newcastle Utd,1.6,0.7,44,"37,753",Conor Gallagher,4-2-3-1,4-3-3,John Brooks
+27,2024-03-30,15:00 ,30,Sat,Home,D,2,2,Burnley,4.2,1.6,69,"39,535",Conor Gallagher,4-2-3-1,4-4-2,Darren England
+28,2024-04-04,20:15 ,31,Thu,Home,W,4,3,Manchester Utd,3.0,1.5,57,"39,694",Conor Gallagher,4-2-3-1,4-2-3-1,Jarred Gillett
+29,2024-04-07,17:30 ,32,Sun,Away,D,2,2,Sheffield Utd,0.3,1.4,68,"28,638",Conor Gallagher,4-2-3-1,3-5-2,Robert Jones
+30,2024-04-15,20:00 ,33,Mon,Home,W,6,0,Everton,3.1,1.5,58,"39,392",Conor Gallagher,4-2-3-1,4-4-1-1,Paul Tierney
+31,2024-04-23,20:00 ,29,Tue,Away,L,0,5,Arsenal,1.6,3.3,55,"60,238",Conor Gallagher,4-2-3-1,4-3-3,Simon Hooper
+32,2024-04-27,20:00 ,35,Sat,Away,D,2,2,Aston Villa,1.6,1.1,71,"42,354",Conor Gallagher,4-2-3-1,4-4-1-1,Craig Pawson
+33,2024-05-02,19:30 ,26,Thu,Home,W,2,0,Tottenham,2.2,1.6,37,"39,086",Conor Gallagher,4-2-3-1,4-2-3-1,Robert Jones
+34,2024-05-05,14:00 ,36,Sun,Home,W,5,0,West Ham,4.1,0.9,69,"39,295",Conor Gallagher,4-2-3-1,4-2-3-1,Andy Madley
+35,2024-05-11,17:30 ,37,Sat,Away,W,3,2,Nott'ham Forest,1.6,1.5,67,"29,708",Conor Gallagher,4-2-3-1,5-4-1,Tony Harrington
+36,2024-05-15,19:45 ,34,Wed,Away,W,2,1,Brighton,1.5,1.3,45,"31,555",Conor Gallagher,4-2-3-1,4-2-3-1,Michael Salisbury
+37,2024-05-19,16:00 ,38,Sun,Home,W,2,1,Bournemouth,1.1,2.2,61,"39,724",Conor Gallagher,4-2-3-1,4-2-3-1,Anthony Taylor
+38,2022-08-06,17:30 ,1,Sat,Away,W,1,0,Everton,1.5,0.7,62,"39,254",César Azpilicueta,3-4-3,5-4-1,Craig Pawson
+39,2022-08-14,16:30 ,2,Sun,Home,D,2,2,Tottenham,1.6,1.0,63,"39,946",Jorginho,3-5-2,3-4-3,Anthony Taylor
+40,2022-08-21,14:00 ,3,Sun,Away,L,0,3,Leeds United,0.9,2.1,61,"36,372",Jorginho,3-5-2,4-2-3-1,Stuart Attwell
+41,2022-08-27,15:00 ,4,Sat,Home,W,2,1,Leicester City,1.8,2.5,45,"39,953",Jorginho,4-4-2,4-1-4-1,Paul Tierney
+42,2022-08-30,19:45 ,5,Tue,Away,L,1,2,Southampton,1.1,1.1,67,"31,542",César Azpilicueta,4-2-2-2,4-2-3-1,Michael Oliver
+43,2022-09-03,15:00 ,6,Sat,Home,W,2,1,West Ham,0.9,1.1,67,"39,923",Thiago Silva,3-1-4-2,3-4-1-2,Andy Madley
+44,2022-10-01,15:00 ,9,Sat,Away,W,2,1,Crystal Palace,1.1,0.4,64,"25,198",Jorginho,4-2-2-2,4-3-3,Chris Kavanagh
+45,2022-10-08,15:00 ,10,Sat,Home,W,3,0,Wolves,1.9,1.1,57,"39,940",César Azpilicueta,4-2-3-1,4-2-3-1,Simon Hooper
+46,2022-10-16,14:00 ,11,Sun,Away,W,2,0,Aston Villa,0.9,1.8,58,"41,754",Thiago Silva,3-4-3,4-3-3,Robert Jones
+47,2022-10-19,19:30 ,12,Wed,Away,D,0,0,Brentford,0.9,1.3,66,"17,118",César Azpilicueta,3-5-1-1,3-5-2,Jarred Gillett
+48,2022-10-22,17:30 ,13,Sat,Home,D,1,1,Manchester Utd,1.1,0.8,48,"39,503",César Azpilicueta,3-4-3,4-1-4-1,Stuart Attwell
+49,2022-10-29,15:00 ,14,Sat,Away,L,1,4,Brighton,1.4,2.4,59,"31,746",Thiago Silva,3-4-3,4-2-3-1,Andy Madley
+50,2022-11-06,12:00 ,15,Sun,Home,L,0,1,Arsenal,0.3,2.1,45,"40,142",César Azpilicueta,4-2-3-1,4-3-3,Michael Oliver
+51,2022-11-12,17:30 ,16,Sat,Away,L,0,1,Newcastle Utd,0.3,1.0,51,"52,264",César Azpilicueta,3-4-3,4-3-3,Robert Jones
+52,2022-12-27,17:30 ,17,Tue,Home,W,2,0,Bournemouth,1.8,0.5,60,"40,046",Jorginho,4-3-3,5-3-2,Simon Hooper
+53,2023-01-01,16:30 ,18,Sun,Away,D,1,1,Nott'ham Forest,0.9,1.4,71,"29,229",César Azpilicueta,4-3-3,4-3-3,Peter Bankes
+54,2023-01-05,20:00 ,19,Thu,Home,L,0,1,Manchester City,0.4,2.0,48,"39,998",César Azpilicueta,4-2-3-1,3-2-4-1,Paul Tierney
+55,2023-01-12,20:00 ,7,Thu,Away,L,1,2,Fulham,2.1,1.0,52,"24,460",César Azpilicueta,3-5-2,4-2-3-1,David Coote
+56,2023-01-15,14:00 ,20,Sun,Home,W,1,0,Crystal Palace,1.5,0.7,61,"40,075",Jorginho,4-2-3-1,4-2-3-1,Peter Bankes
+57,2023-01-21,12:30 ,21,Sat,Away,D,0,0,Liverpool,1.6,1.4,52,"53,126",Jorginho,3-4-3,4-3-3,Michael Oliver
+58,2023-02-03,20:00 ,22,Fri,Home,D,0,0,Fulham,1.3,0.6,66,"40,041",Thiago Silva,4-3-3,4-2-3-1,Stuart Attwell
+59,2023-02-11,12:30 ,23,Sat,Away,D,1,1,West Ham,1.1,1.3,71,"62,471",Thiago Silva,4-2-3-1,3-4-3,Craig Pawson
+60,2023-02-18,15:00 ,24,Sat,Home,L,0,1,Southampton,1.6,0.6,62,"40,152",César Azpilicueta,4-2-3-1,4-4-2,David Coote
+61,2023-02-26,13:30 ,25,Sun,Away,L,0,2,Tottenham,0.4,0.8,59,"61,613",Thiago Silva,4-2-3-1,3-4-3,Stuart Attwell
+62,2023-03-04,15:00 ,26,Sat,Home,W,1,0,Leeds United,1.5,1.0,57,"39,905",Mateo Kovačić,3-4-3,4-2-3-1,Michael Oliver
+63,2023-03-11,15:00 ,27,Sat,Away,W,3,1,Leicester City,1.6,2.4,52,"32,170",Mateo Kovačić,3-4-3,3-4-3,Andre Marriner
+64,2023-03-18,17:30 ,28,Sat,Home,D,2,2,Everton,2.3,1.2,68,"40,025",Mateo Kovačić,3-4-3,4-5-1,Darren England
+65,2023-04-01,17:30 ,29,Sat,Home,L,0,2,Aston Villa,2.1,0.9,69,"40,082",Mateo Kovačić,3-4-3,4-4-2,Andy Madley
+66,2023-04-04,20:00 ,8,Tue,Home,D,0,0,Liverpool,2.2,0.3,49,"40,093",N'Golo Kanté,3-5-2,4-3-3,Anthony Taylor
+67,2023-04-08,15:00 ,30,Sat,Away,L,0,1,Wolves,1.1,0.6,62,"31,614",Mateo Kovačić,4-3-3,4-4-2,Peter Bankes
+68,2023-04-15,15:00 ,31,Sat,Home,L,1,2,Brighton,0.5,2.9,43,"40,126",Kepa Arrizabalaga,4-2-3-1,4-2-3-1,Robert Jones
+69,2023-04-26,19:45 ,33,Wed,Home,L,0,2,Brentford,1.3,1.1,71,"39,929",César Azpilicueta,3-4-3,5-3-2,Andy Madley
+70,2023-05-02,20:00 ,34,Tue,Away,L,1,3,Arsenal,0.8,1.7,45,"60,144",César Azpilicueta,4-3-3,4-3-3,Robert Jones
+71,2023-05-06,15:00 ,35,Sat,Away,W,3,1,Bournemouth,1.3,1.2,65,"10,357",Thiago Silva,4-3-3,4-2-3-1,John Brooks
+72,2023-05-13,15:00 ,36,Sat,Home,D,2,2,Nott'ham Forest,1.2,1.3,75,"40,030",Thiago Silva,4-3-3,3-4-3,Paul Tierney
+73,2023-05-21,16:00 ,37,Sun,Away,L,0,1,Manchester City,1.2,1.2,36,"53,490",César Azpilicueta,3-4-1-2,3-4-3,Michael Oliver
+74,2023-05-25,20:00 ,32,Thu,Away,L,1,4,Manchester Utd,1.9,5.2,58,"73,561",César Azpilicueta,4-3-3,4-2-3-1,Stuart Attwell
+75,2023-05-28,16:30 ,38,Sun,Home,D,1,1,Newcastle Utd,2.2,1.7,64,"40,130",César Azpilicueta,4-2-3-1,4-3-3,Jarred Gillett
+76,2021-08-14,15:00 ,1,Sat,Home,W,3,0,Crystal Palace,0.7,0.2,62,"38,965",César Azpilicueta,3-4-3,4-4-2,Jonathan Moss
+77,2021-08-22,16:30 ,2,Sun,Away,W,2,0,Arsenal,3.1,0.3,65,"58,729",César Azpilicueta,3-4-3,4-2-3-1,Paul Tierney
+78,2021-08-28,17:30 ,3,Sat,Away,D,1,1,Liverpool,0.6,2.5,35,"54,000",César Azpilicueta,3-4-3,4-3-3,Anthony Taylor
+79,2021-09-11,17:30 ,4,Sat,Home,W,3,0,Aston Villa,1.3,1.2,57,"39,969",Marcos Alonso,3-4-3,5-3-2,Stuart Attwell
+80,2021-09-19,16:30 ,5,Sun,Away,W,3,0,Tottenham,2.1,0.5,53,"60,059",César Azpilicueta,3-4-3,4-3-2-1,Paul Tierney
+81,2021-09-25,12:30 ,6,Sat,Home,L,0,1,Manchester City,0.2,1.7,41,"40,036",César Azpilicueta,3-5-2,4-3-3,Michael Oliver
+82,2021-10-02,15:00 ,7,Sat,Home,W,3,1,Southampton,3.3,1.3,62,"40,109",César Azpilicueta,3-4-3,4-4-2,Martin Atkinson
+83,2021-10-16,17:30 ,8,Sat,Away,W,1,0,Brentford,0.3,1.4,55,"16,940",César Azpilicueta,3-5-2,3-5-2,Anthony Taylor
+84,2021-10-23,12:30 ,9,Sat,Home,W,7,0,Norwich City,3.1,0.1,62,"40,113",Jorginho,3-4-3,3-5-2,Andy Madley
+85,2021-10-30,15:00 ,10,Sat,Away,W,3,0,Newcastle Utd,2.2,0.2,79,"52,208",Jorginho,3-4-3,5-3-2,Paul Tierney
+86,2021-11-06,15:00 ,11,Sat,Home,D,1,1,Burnley,1.8,0.7,70,"39,798",Jorginho,3-4-1-2,4-4-2,Andre Marriner
+87,2021-11-20,12:30 ,12,Sat,Away,W,3,0,Leicester City,2.0,0.4,61,"35,497",Jorginho,3-4-3,3-4-3,Paul Tierney
+88,2021-11-28,16:30 ,13,Sun,Home,D,1,1,Manchester Utd,2.7,0.9,65,"40,041",Jorginho,3-4-3,4-3-1-2,Anthony Taylor
+89,2021-12-01,19:30 ,14,Wed,Away,W,2,1,Watford,0.9,1.0,49,"20,388",César Azpilicueta,3-4-3,4-1-4-1,David Coote
+90,2021-12-04,12:30 ,15,Sat,Away,L,2,3,West Ham,1.1,1.8,63,"59,942",Jorginho,3-4-3,3-4-3,Andre Marriner
+91,2021-12-11,15:00 ,16,Sat,Home,W,3,2,Leeds United,2.5,1.4,57,"39,959",César Azpilicueta,3-4-3,4-3-1-2,Chris Kavanagh
+92,2021-12-16,19:45 ,17,Thu,Home,D,1,1,Everton,2.9,0.6,80,"13,933",César Azpilicueta,3-4-3,5-4-1,Michael Oliver
+93,2021-12-19,14:00 ,18,Sun,Away,D,0,0,Wolves,0.9,0.2,63,"30,631",César Azpilicueta,3-4-3,3-5-2,David Coote
+94,2021-12-26,17:30 ,19,Sun,Away,W,3,1,Aston Villa,2.6,0.4,58,"41,907",Jorginho,3-4-3,4-3-1-2,Martin Atkinson
+95,2021-12-29,19:30 ,20,Wed,Home,D,1,1,Brighton,0.7,0.9,47,"40,080",César Azpilicueta,3-4-3,3-4-3,Mike Dean
+96,2022-01-02,16:30 ,21,Sun,Home,D,2,2,Liverpool,1.2,1.3,54,"40,072",César Azpilicueta,3-4-3,4-3-3,Anthony Taylor
+97,2022-01-15,12:30 ,22,Sat,Away,L,0,1,Manchester City,0.3,1.0,44,"53,319",César Azpilicueta,3-4-3,4-2-3-1,Craig Pawson
+98,2022-01-18,20:00 ,24,Tue,Away,D,1,1,Brighton,0.7,0.7,56,"30,880",César Azpilicueta,4-2-2-2,4-1-4-1,Kevin Friend
+99,2022-01-23,16:30 ,23,Sun,Home,W,2,0,Tottenham,1.2,0.5,64,"40,020",César Azpilicueta,4-3-3,4-4-2,Paul Tierney
+100,2022-02-19,15:00 ,26,Sat,Away,W,1,0,Crystal Palace,0.9,0.5,58,"25,109",Jorginho,4-3-3,4-2-3-1,David Coote
+101,2022-03-05,15:00 ,28,Sat,Away,W,4,0,Burnley,2.3,0.7,72,"19,439",Jorginho,3-4-3,4-4-2,Andre Marriner
+102,2022-03-10,19:30 ,30,Thu,Away,W,3,1,Norwich City,1.8,1.0,66,"26,684",César Azpilicueta,3-4-3,5-3-2,Martin Atkinson
+103,2022-03-13,14:00 ,29,Sun,Home,W,1,0,Newcastle Utd,1.1,0.3,71,"40,026",Jorginho,4-3-3,5-4-1,David Coote
+104,2022-04-02,15:00 ,31,Sat,Home,L,1,4,Brentford,1.3,1.8,70,"39,061",César Azpilicueta,4-3-3,5-3-2,Andy Madley
+105,2022-04-09,15:00 ,32,Sat,Away,W,6,0,Southampton,4.2,0.5,70,"31,359",N'Golo Kanté,3-4-1-2,4-4-2,Kevin Friend
+106,2022-04-20,19:45 ,25,Wed,Home,L,2,4,Arsenal,0.7,2.0,67,"32,249",César Azpilicueta,3-4-1-2,4-2-3-1,Jonathan Moss
+107,2022-04-24,14:00 ,34,Sun,Home,W,1,0,West Ham,3.0,0.5,66,"32,231",César Azpilicueta,3-4-1-2,3-4-3,Michael Oliver
+108,2022-04-28,19:45 ,37,Thu,Away,D,1,1,Manchester Utd,1.9,0.5,64,"73,564",César Azpilicueta,3-4-1-2,4-2-3-1,Mike Dean
+109,2022-05-01,14:00 ,35,Sun,Away,L,0,1,Everton,0.8,0.8,77,"39,256",César Azpilicueta,3-4-1-2,5-4-1,Kevin Friend
+110,2022-05-07,15:00 ,36,Sat,Home,D,2,2,Wolves,1.7,2.0,59,"32,190",César Azpilicueta,3-4-1-2,3-5-2,Peter Bankes
+111,2022-05-11,19:30 ,33,Wed,Away,W,3,0,Leeds United,1.3,0.4,67,"36,549",Jorginho,3-4-3,5-4-1,Anthony Taylor
+112,2022-05-19,20:00 ,27,Thu,Home,D,1,1,Leicester City,1.6,0.1,67,"31,478",Jorginho,3-4-3,3-1-4-2,Stuart Attwell
+113,2022-05-22,16:00 ,38,Sun,Home,W,2,1,Watford,2.2,0.6,71,"32,089",César Azpilicueta,3-4-3,4-3-3,Mike Dean
+114,2020-09-14,20:15 ,1,Mon,Away,W,3,1,Brighton,1.2,1.1,48,,Jorginho,4-2-2-2,3-5-2,Craig Pawson
+115,2020-09-20,16:30 ,2,Sun,Home,L,0,2,Liverpool,0.9,2.1,39,,Jorginho,4-3-3,4-3-3,Paul Tierney
+116,2020-09-26,17:30 ,3,Sat,Away,D,3,3,West Brom,2.0,0.6,75,,Thiago Silva,4-2-3-1,5-4-1,Jonathan Moss
+117,2020-10-03,12:30 ,4,Sat,Home,W,4,0,Crystal Palace,2.7,0.2,70,,César Azpilicueta,4-2-3-1,4-4-2,Michael Oliver
+118,2020-10-17,15:00 ,5,Sat,Home,D,3,3,Southampton,1.8,1.9,53,,César Azpilicueta,4-2-3-1,4-4-2,Peter Bankes
+119,2020-10-24,17:30 ,6,Sat,Away,D,0,0,Manchester Utd,0.2,0.6,49,,César Azpilicueta,3-4-3,4-2-3-1,Martin Atkinson
+120,2020-10-31,15:00 ,7,Sat,Away,W,3,0,Burnley,0.9,0.5,63,,Thiago Silva,4-3-3,4-4-2,David Coote
+121,2020-11-07,17:30 ,8,Sat,Home,W,4,1,Sheffield Utd,2.2,0.4,69,,Thiago Silva,4-3-3,3-5-2,Jonathan Moss
+122,2020-11-21,12:30 ,9,Sat,Away,W,2,0,Newcastle Utd,1.5,0.3,70,,N'Golo Kanté,4-3-3,5-4-1,Craig Pawson
+123,2020-11-29,16:30 ,10,Sun,Home,D,0,0,Tottenham,0.8,0.2,60,,Thiago Silva,4-3-3,4-2-3-1,Paul Tierney
+124,2020-12-05,20:00 ,11,Sat,Home,W,3,1,Leeds United,4.1,0.8,46,"2,000",Thiago Silva,4-3-3,4-4-1-1,Kevin Friend
+125,2020-12-12,20:00 ,12,Sat,Away,L,0,1,Everton,0.7,1.2,71,"2,000",Thiago Silva,4-3-3,4-3-3,Jonathan Moss
+126,2020-12-15,18:00 ,13,Tue,Away,L,1,2,Wolves,1.0,0.5,55,,Thiago Silva,4-3-3,3-4-1-2,Stuart Attwell
+127,2020-12-21,20:00 ,14,Mon,Home,W,3,0,West Ham,2.0,0.4,53,,César Azpilicueta,4-3-3,4-2-3-1,Chris Kavanagh
+128,2020-12-26,17:30 ,15,Sat,Away,L,1,3,Arsenal,2.6,2.0,60,,Thiago Silva,4-3-3,4-2-3-1,Michael Oliver
+129,2020-12-28,17:30 ,16,Mon,Home,D,1,1,Aston Villa,1.7,0.7,63,,César Azpilicueta,4-3-3,4-2-3-1,Stuart Attwell
+130,2021-01-03,16:30 ,17,Sun,Home,L,1,3,Manchester City,0.8,2.7,54,,César Azpilicueta,4-3-3,4-3-3,Anthony Taylor
+131,2021-01-16,17:30 ,19,Sat,Away,W,1,0,Fulham,1.6,0.7,69,,César Azpilicueta,4-3-3,5-4-1,Peter Bankes
+132,2021-01-19,20:15 ,18,Tue,Away,L,0,2,Leicester City,0.7,1.4,64,,Thiago Silva,4-2-3-1,4-1-4-1,Craig Pawson
+133,2021-01-27,18:00 ,20,Wed,Home,D,0,0,Wolves,0.7,0.5,78,,César Azpilicueta,3-4-3,3-4-1-2,Andy Madley
+134,2021-01-31,12:00 ,21,Sun,Home,W,2,0,Burnley,1.2,0.2,70,,César Azpilicueta,3-4-3,4-4-2,Graham Scott
+135,2021-02-04,20:00 ,22,Thu,Away,W,1,0,Tottenham,1.6,0.6,58,,César Azpilicueta,3-4-1-2,4-2-2-2,Andre Marriner
+136,2021-02-07,19:15 ,23,Sun,Away,W,2,1,Sheffield Utd,1.6,0.6,68,,César Azpilicueta,3-4-3,3-5-2,Kevin Friend
+137,2021-02-15,20:00 ,24,Mon,Home,W,2,0,Newcastle Utd,2.2,0.6,64,,César Azpilicueta,3-4-3,4-3-3,Peter Bankes
+138,2021-02-20,12:30 ,25,Sat,Away,D,1,1,Southampton,1.2,0.6,70,,César Azpilicueta,3-4-3,4-4-2,Anthony Taylor
+139,2021-02-28,16:30 ,26,Sun,Home,D,0,0,Manchester Utd,1.1,0.4,57,,César Azpilicueta,3-4-3,4-2-3-1,Stuart Attwell
+140,2021-03-04,20:15 ,29,Thu,Away,W,1,0,Liverpool,1.0,0.3,46,,César Azpilicueta,3-4-3,4-3-3,Martin Atkinson
+141,2021-03-08,18:00 ,27,Mon,Home,W,2,0,Everton,2.4,0.3,65,,César Azpilicueta,3-4-3,3-4-1-2,David Coote
+142,2021-03-13,12:30 ,28,Sat,Away,D,0,0,Leeds United,1.0,0.4,62,,César Azpilicueta,4-2-3-1,4-1-4-1,Kevin Friend
+143,2021-04-03,12:30 ,30,Sat,Home,L,2,5,West Brom,2.1,1.6,65,,César Azpilicueta,3-4-3,5-4-1,David Coote
+144,2021-04-10,17:30 ,31,Sat,Away,W,4,1,Crystal Palace,3.1,0.4,64,,César Azpilicueta,3-4-3,4-4-2,Michael Oliver
+145,2021-04-20,20:15 ,32,Tue,Home,D,0,0,Brighton,0.7,0.5,64,,Jorginho,3-4-3,3-1-4-2,Stuart Attwell
+146,2021-04-24,17:30 ,33,Sat,Away,W,1,0,West Ham,2.5,0.4,55,,César Azpilicueta,3-4-3,3-4-1-2,Chris Kavanagh
+147,2021-05-01,17:30 ,34,Sat,Home,W,2,0,Fulham,1.7,0.3,49,,Thiago Silva,3-5-2,4-2-3-1,Kevin Friend
+148,2021-05-08,17:30 ,35,Sat,Away,W,2,1,Manchester City,0.7,1.8,52,,César Azpilicueta,3-4-3,3-1-4-2,Anthony Taylor
+149,2021-05-12,20:15 ,36,Wed,Home,L,0,1,Arsenal,1.8,0.6,67,,César Azpilicueta,3-4-3,3-4-3,Andre Marriner
+150,2021-05-18,20:15 ,37,Tue,Home,W,2,1,Leicester City,3.1,0.8,58,"8,000",César Azpilicueta,3-4-3,3-4-3,Mike Dean
+151,2021-05-23,16:00 ,38,Sun,Away,L,1,2,Aston Villa,3.3,1.1,71,"10,000",César Azpilicueta,3-4-3,4-2-3-1,Stuart Attwell
+152,2019-08-11,16:30 ,1,Sun,Away,L,0,4,Manchester Utd,1.0,2.2,54,"73,620",César Azpilicueta,4-2-3-1,4-2-3-1,Anthony Taylor
+153,2019-08-18,16:30 ,2,Sun,Home,D,1,1,Leicester City,1.1,0.8,50,"40,629",César Azpilicueta,4-3-3,4-1-4-1,Oliver Langford
+154,2019-08-24,12:30 ,3,Sat,Away,W,3,2,Norwich City,1.5,1.1,54,"27,032",César Azpilicueta,4-3-3,4-2-3-1,Martin Atkinson
+155,2019-08-31,15:00 ,4,Sat,Home,D,2,2,Sheffield Utd,2.0,1.1,62,"40,560",César Azpilicueta,4-3-3,3-5-2,Stuart Attwell
+156,2019-09-14,15:00 ,5,Sat,Away,W,5,2,Wolves,2.7,1.7,54,"31,534",César Azpilicueta,3-4-3,3-5-2,Graham Scott
+157,2019-09-22,16:30 ,6,Sun,Home,L,1,2,Liverpool,1.3,0.6,55,"40,638",César Azpilicueta,4-3-3,4-3-3,Michael Oliver
+158,2019-09-28,15:00 ,7,Sat,Home,W,2,0,Brighton,3.7,0.6,53,"40,683",César Azpilicueta,4-3-3,3-5-1-1,Chris Kavanagh
+159,2019-10-06,14:00 ,8,Sun,Away,W,4,1,Southampton,1.7,1.4,57,"31,473",César Azpilicueta,4-3-3,4-3-3,Paul Tierney
+160,2019-10-19,15:00 ,9,Sat,Home,W,1,0,Newcastle Utd,2.0,0.4,71,"40,513",César Azpilicueta,4-3-3,5-4-1,Andre Marriner
+161,2019-10-26,17:30 ,10,Sat,Away,W,4,2,Burnley,0.9,2.1,63,"20,975",César Azpilicueta,4-2-3-1,4-4-2,Michael Oliver
+162,2019-11-02,17:30 ,11,Sat,Away,W,2,1,Watford,2.1,1.3,67,"21,011",César Azpilicueta,4-2-3-1,5-4-1,Anthony Taylor
+163,2019-11-09,12:30 ,12,Sat,Home,W,2,0,Crystal Palace,3.6,0.2,60,"40,525",Willian,4-2-3-1,4-5-1,Mike Dean
+164,2019-11-23,17:30 ,13,Sat,Away,L,1,2,Manchester City,0.9,1.0,53,"54,486",César Azpilicueta,4-3-3,4-3-3,Martin Atkinson
+165,2019-11-30,15:00 ,14,Sat,Home,L,0,1,West Ham,2.3,0.9,66,"40,595",Jorginho,4-2-3-1,4-4-1-1,Jonathan Moss
+166,2019-12-04,19:30 ,15,Wed,Home,W,2,1,Aston Villa,1.8,1.0,64,"40,628",César Azpilicueta,4-2-3-1,4-3-3,Chris Kavanagh
+167,2019-12-07,12:30 ,16,Sat,Away,L,1,3,Everton,1.1,1.8,69,"39,114",César Azpilicueta,4-2-3-1,4-4-2,Craig Pawson
+168,2019-12-14,15:00 ,17,Sat,Home,L,0,1,Bournemouth,2.1,1.0,66,"40,243",César Azpilicueta,4-3-3,4-5-1,Graham Scott
+169,2019-12-22,16:30 ,18,Sun,Away,W,2,0,Tottenham,1.3,0.3,55,"61,104",César Azpilicueta,3-4-3,4-3-3,Anthony Taylor
+170,2019-12-26,15:00 ,19,Thu,Home,L,0,2,Southampton,0.7,1.1,66,"40,651",César Azpilicueta,3-4-3,4-4-2,Jonathan Moss
+171,2019-12-29,14:00 ,20,Sun,Away,W,2,1,Arsenal,1.4,0.5,58,"60,309",César Azpilicueta,3-4-3,4-2-3-1,Craig Pawson
+172,2020-01-01,12:30 ,21,Wed,Away,D,1,1,Brighton,1.3,1.3,52,"30,559",César Azpilicueta,4-3-3,4-1-2-1-2,Stuart Attwell
+173,2020-01-11,15:00 ,22,Sat,Home,W,3,0,Burnley,2.7,0.8,65,"40,396",César Azpilicueta,4-3-3,4-4-1-1,Kevin Friend
+174,2020-01-18,17:30 ,23,Sat,Away,L,0,1,Newcastle Utd,2.4,0.6,69,"52,217",César Azpilicueta,4-3-3,5-4-1,Chris Kavanagh
+175,2020-01-21,20:15 ,24,Tue,Home,D,2,2,Arsenal,2.9,0.4,58,"40,577",César Azpilicueta,4-3-3,4-2-3-1,Stuart Attwell
+176,2020-02-01,12:30 ,25,Sat,Away,D,2,2,Leicester City,0.6,1.4,51,"32,186",César Azpilicueta,4-2-3-1,4-1-4-1,Lee Mason
+177,2020-02-17,20:00 ,26,Mon,Home,L,0,2,Manchester Utd,0.9,0.6,61,"40,504",César Azpilicueta,4-3-3,3-4-1-2,Anthony Taylor
+178,2020-02-22,12:30 ,27,Sat,Home,W,2,1,Tottenham,1.7,0.2,49,"40,608",César Azpilicueta,3-4-3,5-4-1,Michael Oliver
+179,2020-02-29,15:00 ,28,Sat,Away,D,2,2,Bournemouth,1.9,1.4,73,"10,667",César Azpilicueta,3-4-3,4-3-3,Andre Marriner
+180,2020-03-08,14:00 ,29,Sun,Home,W,4,0,Everton,1.8,0.5,60,"40,694",César Azpilicueta,4-3-3,4-4-2,Kevin Friend
+181,2020-06-21,16:15 ,30,Sun,Away,W,2,1,Aston Villa,1.1,1.0,73,,César Azpilicueta,4-3-3,4-3-3,Paul Tierney
+182,2020-06-25,20:15 ,31,Thu,Home,W,2,1,Manchester City,3.2,0.8,35,,César Azpilicueta,4-3-3,4-3-3,Stuart Attwell
+183,2020-07-01,20:15 ,32,Wed,Away,L,2,3,West Ham,1.6,2.2,71,,César Azpilicueta,4-3-3,4-2-3-1,Martin Atkinson
+184,2020-07-04,20:00 ,33,Sat,Home,W,3,0,Watford,2.5,0.6,70,,César Azpilicueta,4-3-3,4-5-1,Kevin Friend
+185,2020-07-07,18:00 ,34,Tue,Away,W,3,2,Crystal Palace,1.9,1.5,57,,César Azpilicueta,4-3-3,4-5-1,David Coote
+186,2020-07-11,17:30 ,35,Sat,Away,L,0,3,Sheffield Utd,1.2,2.3,76,,César Azpilicueta,4-3-3,3-5-2,Andre Marriner
+187,2020-07-14,20:15 ,36,Tue,Home,W,1,0,Norwich City,2.5,0.1,67,,César Azpilicueta,4-3-3,4-1-4-1,Jonathan Moss
+188,2020-07-22,20:15 ,37,Wed,Away,L,3,5,Liverpool,2.4,1.7,50,,César Azpilicueta,3-4-3,4-3-3,Andre Marriner
+189,2020-07-26,16:00 ,38,Sun,Home,W,2,0,Wolves,1.4,0.2,62,,César Azpilicueta,3-4-3,3-4-3,Stuart Attwell
+190,2018-08-11,15:00 ,1,Sat,Away,W,3,0,Huddersfield,1.9,0.3,62,"24,121",César Azpilicueta,4-3-3,3-5-1-1,Chris Kavanagh
+191,2018-08-18,17:30 ,2,Sat,Home,W,3,2,Arsenal,1.6,2.4,62,"40,491",César Azpilicueta,4-3-3,4-2-3-1,Martin Atkinson
+192,2018-08-26,16:00 ,3,Sun,Away,W,2,1,Newcastle Utd,1.5,0.2,80,"51,791",César Azpilicueta,4-3-3,5-4-1,Paul Tierney
+193,2018-09-01,15:00 ,4,Sat,Home,W,2,0,Bournemouth,1.1,0.9,72,"40,178",César Azpilicueta,4-3-3,3-4-3,Lee Mason
+194,2018-09-15,15:00 ,5,Sat,Home,W,4,1,Cardiff City,2.6,0.7,76,"40,499",César Azpilicueta,4-3-3,4-4-1-1,Jonathan Moss
+195,2018-09-23,13:30 ,6,Sun,Away,D,0,0,West Ham,1.5,1.0,71,"56,875",César Azpilicueta,4-3-3,4-3-3,Mike Dean
+196,2018-09-29,17:30 ,7,Sat,Home,D,1,1,Liverpool,1.1,1.6,47,"40,625",César Azpilicueta,4-3-3,4-3-3,Andre Marriner
+197,2018-10-07,14:15 ,8,Sun,Away,W,3,0,Southampton,2.9,1.6,65,"27,077",César Azpilicueta,4-3-3,3-4-3,Craig Pawson
+198,2018-10-20,12:30 ,9,Sat,Home,D,2,2,Manchester Utd,1.8,0.8,62,"40,721",César Azpilicueta,4-3-3,4-2-3-1,Mike Dean
+199,2018-10-28,13:30 ,10,Sun,Away,W,4,0,Burnley,2.6,0.4,69,"21,430",César Azpilicueta,4-3-3,4-4-1-1,Craig Pawson
+200,2018-11-04,16:00 ,11,Sun,Home,W,3,1,Crystal Palace,1.7,0.4,73,"40,407",César Azpilicueta,4-3-3,4-4-2,Michael Oliver
+201,2018-11-11,14:15 ,12,Sun,Home,D,0,0,Everton,1.2,0.3,68,"40,345",César Azpilicueta,4-3-3,4-2-3-1,Kevin Friend
+202,2018-11-24,17:30 ,13,Sat,Away,L,1,3,Tottenham,1.0,3.1,60,"55,465",César Azpilicueta,4-3-3,4-1-2-1-2,Martin Atkinson
+203,2018-12-02,12:00 ,14,Sun,Home,W,2,0,Fulham,2.1,0.4,65,"40,551",César Azpilicueta,4-3-3,4-1-2-1-2,Craig Pawson
+204,2018-12-05,19:45 ,15,Wed,Away,L,1,2,Wolves,1.3,0.7,70,"31,300",César Azpilicueta,4-3-3,3-4-3,Jonathan Moss
+205,2018-12-08,17:30 ,16,Sat,Home,W,2,0,Manchester City,0.6,0.9,39,"40,571",César Azpilicueta,4-3-3,4-3-3,Michael Oliver
+206,2018-12-16,13:30 ,17,Sun,Away,W,2,1,Brighton,1.2,0.4,57,"30,645",César Azpilicueta,4-3-3,4-4-1-1,Stuart Attwell
+207,2018-12-22,15:00 ,18,Sat,Home,L,0,1,Leicester City,2.4,0.5,72,"40,558",César Azpilicueta,4-3-3,4-3-3,Lee Probert
+208,2018-12-26,19:30 ,19,Wed,Away,W,2,1,Watford,1.9,1.2,65,"20,415",César Azpilicueta,4-3-3,4-2-2-2,Martin Atkinson
+209,2018-12-30,12:00 ,20,Sun,Away,W,1,0,Crystal Palace,0.9,0.2,65,"25,781",César Azpilicueta,4-3-3,4-5-1,Craig Pawson
+210,2019-01-02,19:45 ,21,Wed,Home,D,0,0,Southampton,0.9,0.2,71,"40,668",César Azpilicueta,4-3-3,5-4-1,Jonathan Moss
+211,2019-01-12,17:30 ,22,Sat,Home,W,2,1,Newcastle Utd,1.3,0.5,65,"40,491",César Azpilicueta,4-3-3,5-4-1,Chris Kavanagh
+212,2019-01-19,17:30 ,23,Sat,Away,L,0,2,Arsenal,0.9,1.5,64,"59,979",César Azpilicueta,4-3-3,4-1-2-1-2,Anthony Taylor
+213,2019-01-30,19:45 ,24,Wed,Away,L,0,4,Bournemouth,0.7,2.0,68,"10,227",César Azpilicueta,4-3-3,4-4-1-1,Roger East
+214,2019-02-02,15:00 ,25,Sat,Home,W,5,0,Huddersfield,2.6,0.3,65,"40,626",César Azpilicueta,4-3-3,4-3-3,Paul Tierney
+215,2019-02-10,16:00 ,26,Sun,Away,L,0,6,Manchester City,0.9,3.0,44,"54,452",César Azpilicueta,4-3-3,4-3-3,Mike Dean
+216,2019-02-27,20:00 ,28,Wed,Home,W,2,0,Tottenham,0.6,0.6,46,"40,542",César Azpilicueta,4-3-3,4-2-3-1,Andre Marriner
+217,2019-03-03,14:05 ,29,Sun,Away,W,2,1,Fulham,1.2,0.8,63,"24,900",César Azpilicueta,4-3-3,4-2-3-1,Graham Scott
+218,2019-03-10,14:05 ,30,Sun,Home,D,1,1,Wolves,1.1,0.5,76,"40,692",César Azpilicueta,4-3-3,3-5-2,Michael Oliver
+219,2019-03-17,16:30 ,31,Sun,Away,L,0,2,Everton,1.4,2.3,67,"39,356",César Azpilicueta,4-3-3,4-2-3-1,Anthony Taylor
+220,2019-03-31,14:05 ,32,Sun,Away,W,2,1,Cardiff City,1.8,0.5,70,"32,657",César Azpilicueta,4-3-3,4-2-3-1,Craig Pawson
+221,2019-04-03,19:45 ,27,Wed,Home,W,3,0,Brighton,2.7,0.4,68,"38,593",César Azpilicueta,4-3-3,4-3-3,Graham Scott
+222,2019-04-08,20:00 ,33,Mon,Home,W,2,0,West Ham,1.9,0.6,53,"40,537",César Azpilicueta,4-3-3,4-2-3-1,Chris Kavanagh
+223,2019-04-14,16:30 ,34,Sun,Away,L,0,2,Liverpool,0.7,1.2,38,"53,279",César Azpilicueta,4-3-3,4-3-3,Michael Oliver
+224,2019-04-22,20:00 ,35,Mon,Home,D,2,2,Burnley,1.3,0.7,75,"40,642",César Azpilicueta,4-3-3,4-4-2,Kevin Friend
+225,2019-04-28,16:30 ,36,Sun,Away,D,1,1,Manchester Utd,1.7,1.1,48,"74,526",César Azpilicueta,4-3-3,4-3-1-2,Martin Atkinson
+226,2019-05-05,14:00 ,37,Sun,Home,W,3,0,Watford,2.3,1.7,58,"40,560",César Azpilicueta,4-3-3,4-2-2-2,Paul Tierney
+227,2019-05-12,15:00 ,38,Sun,Away,D,0,0,Leicester City,1.5,0.4,53,"32,140",César Azpilicueta,4-3-3,4-1-4-1,Anthony Taylor
+228,2017-08-12,15:00 ,1,Sat,Home,L,2,3,Burnley,1.5,0.6,62,"41,616",Gary Cahill,3-4-3,4-4-1-1,Craig Pawson
+229,2017-08-20,16:00 ,2,Sun,Away,W,2,1,Tottenham,0.7,0.7,32,"73,587",César Azpilicueta,3-5-1-1,4-3-2-1,Anthony Taylor
+230,2017-08-27,13:30 ,3,Sun,Home,W,2,0,Everton,1.0,0.4,57,"41,382",César Azpilicueta,3-4-3,3-4-3,Jonathan Moss
+231,2017-09-09,15:00 ,4,Sat,Away,W,2,1,Leicester City,0.8,1.4,59,"30,923",César Azpilicueta,3-4-3,4-4-2,Lee Mason
+232,2017-09-17,13:30 ,5,Sun,Home,D,0,0,Arsenal,0.8,1.4,51,"41,478",Gary Cahill,3-4-3,3-4-3,Michael Oliver
+233,2017-09-23,15:00 ,6,Sat,Away,W,4,0,Stoke City,1.4,0.8,55,"29,661",César Azpilicueta,3-4-3,3-4-3,Mike Dean
+234,2017-09-30,17:30 ,7,Sat,Home,L,0,1,Manchester City,0.5,0.9,39,"41,530",Gary Cahill,3-5-1-1,4-3-3,Martin Atkinson
+235,2017-10-14,15:00 ,8,Sat,Away,L,1,2,Crystal Palace,0.8,1.7,57,"25,480",Gary Cahill,3-4-3,4-4-2,Andre Marriner
+236,2017-10-21,12:30 ,9,Sat,Home,W,4,2,Watford,1.9,1.9,52,"41,467",Gary Cahill,3-4-3,3-4-3,Jonathan Moss
+237,2017-10-28,17:30 ,10,Sat,Away,W,1,0,Bournemouth,1.6,0.5,58,"10,998",César Azpilicueta,3-4-3,3-4-1-2,Craig Pawson
+238,2017-11-05,16:30 ,11,Sun,Home,W,1,0,Manchester Utd,1.6,0.7,54,"41,615",Gary Cahill,3-1-4-2,3-4-1-2,Anthony Taylor
+239,2017-11-18,15:00 ,12,Sat,Away,W,4,0,West Brom,1.6,0.8,61,"23,592",Gary Cahill,3-5-1-1,3-5-2,Jonathan Moss
+240,2017-11-25,17:30 ,13,Sat,Away,D,1,1,Liverpool,0.8,1.2,47,"53,225",Gary Cahill,3-5-1-1,4-3-3,Michael Oliver
+241,2017-11-29,19:45 ,14,Wed,Home,W,1,0,Swansea City,1.5,0.1,61,"41,365",Gary Cahill,3-4-3,4-3-1-2,Niel Swarbrick
+242,2017-12-02,12:30 ,15,Sat,Home,W,3,1,Newcastle Utd,3.2,0.6,65,"41,538",César Azpilicueta,3-5-1-1,3-4-3,Kevin Friend
+243,2017-12-09,12:30 ,16,Sat,Away,L,0,1,West Ham,1.2,0.3,69,"56,953",Gary Cahill,3-5-1-1,3-4-3,Anthony Taylor
+244,2017-12-12,20:00 ,17,Tue,Away,W,3,1,Huddersfield,1.5,0.7,64,"24,169",César Azpilicueta,3-4-3,4-5-1,Andre Marriner
+245,2017-12-16,15:00 ,18,Sat,Home,W,1,0,Southampton,1.4,0.5,54,"41,562",Gary Cahill,3-4-3,3-4-3,Roger East
+246,2017-12-23,12:30 ,19,Sat,Away,D,0,0,Everton,1.8,0.3,68,"39,191",César Azpilicueta,3-4-3,4-1-4-1,Robert Madley
+247,2017-12-26,15:00 ,20,Tue,Home,W,2,0,Brighton,2.1,0.5,67,"41,568",Gary Cahill,3-5-1-1,4-5-1,Mike Dean
+248,2017-12-30,15:00 ,21,Sat,Home,W,5,0,Stoke City,2.6,0.2,59,"41,433",Gary Cahill,3-4-3,4-2-3-1,Kevin Friend
+249,2018-01-03,19:45 ,22,Wed,Away,D,2,2,Arsenal,3.0,1.2,42,"59,379",Gary Cahill,3-5-1-1,3-4-3,Anthony Taylor
+250,2018-01-13,15:00 ,23,Sat,Home,D,0,0,Leicester City,0.6,1.2,56,"41,552",Gary Cahill,3-5-1-1,4-4-1-1,Mike Jones
+251,2018-01-20,12:30 ,24,Sat,Away,W,4,0,Brighton,1.3,0.8,58,"30,600",César Azpilicueta,3-4-3,5-3-2,Jonathan Moss
+252,2018-01-31,19:45 ,25,Wed,Home,L,0,3,Bournemouth,1.2,1.1,65,"41,464",Gary Cahill,3-4-3,3-4-3,Lee Probert
+253,2018-02-05,20:00 ,26,Mon,Away,L,1,4,Watford,0.7,2.3,55,"20,157",Gary Cahill,3-4-3,3-4-3,Mike Dean
+254,2018-02-12,20:00 ,27,Mon,Home,W,3,0,West Brom,1.9,0.7,57,"41,071",César Azpilicueta,3-4-3,5-3-2,Lee Mason
+255,2018-02-25,14:05 ,28,Sun,Away,L,1,2,Manchester Utd,1.7,1.2,56,"75,060",César Azpilicueta,3-4-3,4-1-2-1-2,Martin Atkinson
+256,2018-03-04,16:00 ,29,Sun,Away,L,0,1,Manchester City,0.1,0.9,29,"54,328",César Azpilicueta,3-4-3,4-3-3,Michael Oliver
+257,2018-03-10,17:30 ,30,Sat,Home,W,2,1,Crystal Palace,3.1,1.1,62,"40,800",Gary Cahill,3-4-3,4-4-2,Anthony Taylor
+258,2018-04-01,16:00 ,32,Sun,Home,L,1,3,Tottenham,1.0,1.4,49,"41,364",César Azpilicueta,3-4-3,4-2-3-1,Andre Marriner
+259,2018-04-08,16:30 ,33,Sun,Home,D,1,1,West Ham,1.7,0.3,59,"41,324",Gary Cahill,3-4-3,3-4-3,Kevin Friend
+260,2018-04-14,12:30 ,34,Sat,Away,W,3,2,Southampton,0.8,1.0,58,"31,764",Gary Cahill,3-4-3,3-4-3,Mike Dean
+261,2018-04-19,19:45 ,31,Thu,Away,W,2,1,Burnley,1.7,0.2,60,"21,264",Gary Cahill,3-5-2,4-4-2,Robert Madley
+262,2018-04-28,17:30 ,36,Sat,Away,W,1,0,Swansea City,1.5,0.7,49,"20,900",Gary Cahill,3-5-1-1,3-4-3,Jonathan Moss
+263,2018-05-06,16:30 ,37,Sun,Home,W,1,0,Liverpool,0.6,0.5,32,"41,314",Gary Cahill,3-5-1-1,4-3-3,Anthony Taylor
+264,2018-05-09,19:45 ,35,Wed,Home,D,1,1,Huddersfield,1.9,0.7,78,"38,910",César Azpilicueta,3-4-3,5-3-2,Lee Mason
+265,2018-05-13,15:00 ,38,Sun,Away,L,0,3,Newcastle Utd,1.0,2.2,58,"52,294",Gary Cahill,3-5-1-1,4-2-3-1,Martin Atkinson
